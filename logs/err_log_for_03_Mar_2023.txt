@@ -1,0 +1,18 @@
+[03-Mar-2023 09:51:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[03-Mar-2023 09:51:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[03-Mar-2023 09:55:53 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0, 10' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\roofnassets\admin\crm.php(188): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 C:\xampp\htdocs\roofnassets\admin\index.php(60): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114

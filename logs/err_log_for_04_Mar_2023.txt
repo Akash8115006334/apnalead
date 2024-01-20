@@ -1,0 +1,142 @@
+[04-Mar-2023 09:57:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[04-Mar-2023 09:57:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[04-Mar-2023 10:22:49 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\roofnassets\require/web/): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\require\web-modules.php on line 7
+[04-Mar-2023 10:22:49 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\roofnassets\require/web/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\require\web-modules.php on line 7
+[04-Mar-2023 10:22:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserId")" in C:\xampp\htdocs\roofnassets\include\admin\reminder-pop.php:2
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\include\admin\footer.php(3): include()
+#1 C:\xampp\htdocs\roofnassets\soon\index.php(37): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\reminder-pop.php on line 2
+[04-Mar-2023 13:49:56 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\sections\Add-Feedback.php on line 1
+[04-Mar-2023 13:50:15 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\sections\Add-Feedback.php on line 1
+[04-Mar-2023 13:50:18 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\sections\Add-Feedback.php on line 1
+[04-Mar-2023 13:50:21 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\sections\Add-Feedback.php on line 1
+[04-Mar-2023 13:50:24 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\sections\Add-Feedback.php on line 1
+[04-Mar-2023 13:50:25 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\sections\Add-Feedback.php on line 1
+[04-Mar-2023 13:51:29 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:29 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:33 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:33 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:37 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:37 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:40 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:40 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:46 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:46 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:55 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:55 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:58 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:51:58 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:52:01 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:52:01 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:52:04 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:52:04 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:52:08 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:52:08 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:52:17 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 13:52:17 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 14:12:28 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[04-Mar-2023 14:12:42 Asia/Calcutta] PHP Warning:  Undefined array key "Leads" in C:\xampp\htdocs\roofnassets\controller\LeadsController.php on line 153
+[04-Mar-2023 14:12:42 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\LeadsController.php on line 153
+[04-Mar-2023 14:12:42 Asia/Calcutta] PHP Warning:  Undefined variable $Save in C:\xampp\htdocs\roofnassets\controller\LeadsController.php on line 187
+[04-Mar-2023 14:12:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[04-Mar-2023 14:16:56 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\sections\Add-Feedback.php on line 1
+[04-Mar-2023 14:16:59 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\sections\Add-Feedback.php on line 1
+[04-Mar-2023 14:17:01 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\sections\Add-Feedback.php on line 1
+[04-Mar-2023 14:20:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[04-Mar-2023 14:20:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[04-Mar-2023 14:31:54 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 74
+[04-Mar-2023 14:31:54 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 75
+[04-Mar-2023 14:31:54 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 76
+[04-Mar-2023 14:32:56 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php:1094
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 C:\xampp\htdocs\roofnassets\require\module\mail.php(36): PHPMailer\PHPMailer\PHPMailer->addAddress('')
+#2 C:\xampp\htdocs\roofnassets\controller\SendNotificationsController.php(16): SENDMAILS('tESTING', 'Dear, Gaurav si...', '', '<p>SDM,VNM,DV,<...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1094
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:33:59 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[04-Mar-2023 14:42:49 Asia/Calcutta] PHP Warning:  Undefined array key "ConfigHolidayMailStatus" in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 18
+[04-Mar-2023 14:43:27 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ProjectDueDate' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM p...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM p...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\expanses\index.php(82): _DB_COMMAND_('SELECT * FROM p...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[04-Mar-2023 14:43:34 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-New-Assets.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 122
+[04-Mar-2023 14:43:34 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-New-Assets.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 122
+[04-Mar-2023 14:43:47 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-New-Assets.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 122
+[04-Mar-2023 14:43:47 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-New-Assets.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 122
+[04-Mar-2023 14:44:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[04-Mar-2023 14:44:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[04-Mar-2023 14:56:34 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 74
+[04-Mar-2023 14:56:34 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 75
+[04-Mar-2023 14:56:34 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 76
+[04-Mar-2023 14:56:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 111
+[04-Mar-2023 14:56:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 125
+[04-Mar-2023 14:56:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 139
+[04-Mar-2023 14:57:53 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 14:57:53 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 15:06:59 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\roofnassets\require/module/LeadsController.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\require\modules.php on line 49
+[04-Mar-2023 15:06:59 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\roofnassets\require/module/LeadsController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\require\modules.php on line 49
+[04-Mar-2023 15:09:24 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 15:09:24 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[04-Mar-2023 15:38:36 Asia/Calcutta] PHP Warning:  Undefined array key "ConfigHolidayMailStatus" in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 18
+[04-Mar-2023 15:46:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ConfigHolidayname in C:\xampp\htdocs\roofnassets\include\sections\Update-Holiday-Details.php on line 17
+[04-Mar-2023 15:46:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ConfigHolidayname in C:\xampp\htdocs\roofnassets\include\sections\Update-Holiday-Details.php on line 17
+[04-Mar-2023 15:46:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ConfigHolidayname in C:\xampp\htdocs\roofnassets\include\sections\Update-Holiday-Details.php on line 17
+[04-Mar-2023 15:58:19 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mktime(): Argument #6 ($year) must be of type ?int, string given in C:\xampp\htdocs\roofnassets\require\module\calendar.php:16
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\calendar.php(16): mktime(0, 0, 0, '12', 1, '')
+#1 C:\xampp\htdocs\roofnassets\require\module\calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\roofnassets\require\modules.php(49): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php(3): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\calendar.php on line 16
+[04-Mar-2023 15:58:22 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mktime(): Argument #6 ($year) must be of type ?int, string given in C:\xampp\htdocs\roofnassets\require\module\calendar.php:16
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\calendar.php(16): mktime(0, 0, 0, '12', 1, '')
+#1 C:\xampp\htdocs\roofnassets\require\module\calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\roofnassets\require\modules.php(49): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php(3): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\calendar.php on line 16
+[04-Mar-2023 16:01:37 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 117
+[04-Mar-2023 16:01:43 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 117
+[04-Mar-2023 16:47:24 Asia/Calcutta] PHP Warning:  Undefined array key "RegPaymentId" in C:\xampp\htdocs\roofnassets\controller\PaymentController.php on line 277
+[04-Mar-2023 16:47:45 Asia/Calcutta] PHP Warning:  Undefined array key "RegPaymentId" in C:\xampp\htdocs\roofnassets\controller\PaymentController.php on line 277

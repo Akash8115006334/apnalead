@@ -1,0 +1,153 @@
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:26:59 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:27:00 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:27:00 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:27:00 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 134
+[15-Dec-2023 11:27:00 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[15-Dec-2023 11:27:00 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:27:00 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:27:00 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:27:00 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:27:00 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 11:27:21 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Dec-2023 11:28:43 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 134
+[15-Dec-2023 11:28:47 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 134
+[15-Dec-2023 11:28:50 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Dec-2023 11:29:02 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Dec-2023 11:34:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$leads in D:\xampp\htdocs\apnalead\handler\index.php on line 40
+[15-Dec-2023 11:34:53 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in D:\xampp\htdocs\apnalead\handler\index.php on line 40
+[15-Dec-2023 11:34:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\index.php on line 41
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:48 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:48 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 134
+[15-Dec-2023 15:00:48 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[15-Dec-2023 15:00:48 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:48 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:48 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:48 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:48 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[15-Dec-2023 15:00:55 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Dec-2023 15:01:35 Asia/Calcutta] PHP Warning:  require(app/handler/AuthController/AuthAccessController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\mergetable.php on line 3
+[15-Dec-2023 15:01:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required 'app/handler/AuthController/AuthAccessController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\mergetable.php:3
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\mergetable.php on line 3
+[15-Dec-2023 15:12:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\mergetable.php(7): _DB_COMMAND_('SELECT * FROM c...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[15-Dec-2023 15:12:29 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\mergetable.php(7): _DB_COMMAND_('SELECT * FROM c...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[15-Dec-2023 15:12:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\mergetable.php(7): _DB_COMMAND_('SELECT * FROM c...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[15-Dec-2023 15:12:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\mergetable.php(7): _DB_COMMAND_('SELECT * FROM c...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[15-Dec-2023 15:12:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\mergetable.php(7): _DB_COMMAND_('SELECT * FROM c...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[15-Dec-2023 15:12:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\mergetable.php(7): _DB_COMMAND_('SELECT * FROM c...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[15-Dec-2023 15:12:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\mergetable.php(7): _DB_COMMAND_('SELECT * FROM c...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[15-Dec-2023 15:13:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in D:\xampp\htdocs\apnalead\app\mergetable.php on line 9
+[15-Dec-2023 16:06:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5

@@ -1,0 +1,102 @@
+[28-Mar-2023 14:02:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[28-Mar-2023 14:45:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type int in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 83
+[28-Mar-2023 15:23:46 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type int in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 83
+[28-Mar-2023 15:24:04 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type int in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 83
+[28-Mar-2023 15:24:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type int in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 83
+[28-Mar-2023 15:55:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLeaveFrom' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\leaves\index.php(159): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Mar-2023 15:57:30 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLeaveFrom' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\leaves\index.php(159): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Mar-2023 15:57:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLeaveFrom' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\leaves\index.php(159): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Mar-2023 16:05:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLeaveFrom' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\leaves\index.php(159): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Mar-2023 16:10:15 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLeaveFrom' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\leaves\index.php(159): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Mar-2023 16:10:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLeaveFrom' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\leaves\index.php(159): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Mar-2023 16:41:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLeaveFrom' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\leaves\index.php(159): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Mar-2023 17:07:30 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[28-Mar-2023 17:07:40 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLeaveFrom' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\member\leaves\index.php(143): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Mar-2023 17:07:44 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLeaveFrom' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\member\leaves\index.php(143): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Mar-2023 17:08:11 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\roofnassets\admin\member\leaves\index.php:192
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\member\leaves\index.php on line 192
+[28-Mar-2023 17:14:31 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[28-Mar-2023 17:42:50 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type int in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 83
+[28-Mar-2023 17:43:37 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLeaveFrom' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\leaves\index.php(159): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Mar-2023 18:34:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\navix365\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\navix365\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\navix365\include\admin\header.php on line 62
+[28-Mar-2023 19:27:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\navix365\admin\leads\index.php:174
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\navix365\admin\leads\index.php on line 174
+[28-Mar-2023 19:30:55 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\navix365\admin\leads\sections\pageHeader.php on line 15
+[28-Mar-2023 19:30:55 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\navix365\admin\leads\index.php on line 270
+[28-Mar-2023 19:30:55 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\navix365\admin\leads\index.php on line 362
+[28-Mar-2023 19:34:11 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\navix365\admin\leads\sections\pageHeader.php on line 15
+[28-Mar-2023 19:34:11 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\navix365\admin\leads\index.php on line 361
+[28-Mar-2023 19:35:11 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\navix365\admin\leads\index.php on line 361
+[28-Mar-2023 19:45:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\navix365\admin\logout.php on line 5

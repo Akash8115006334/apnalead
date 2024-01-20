@@ -1,0 +1,345 @@
+[21-Aug-2023 06:36:35 Asia/Calcutta] PHP Warning:  Undefined array key "search_true" in C:\xampp\htdocs\apnalead\app\leads\index.php on line 495
+[21-Aug-2023 06:38:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\leads\details\index.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 34
+[21-Aug-2023 06:38:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\leads\details\index.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 34
+[21-Aug-2023 06:41:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\leads\details\index.php:88
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 88
+[21-Aug-2023 06:41:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\leads\details\index.php:88
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 88
+[21-Aug-2023 06:44:50 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:44:50 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:44:52 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:44:52 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:05 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:05 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function NoListsData() in C:\xampp\htdocs\apnalead\app\projects\index.php:159
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\projects\index.php on line 159
+[21-Aug-2023 06:45:26 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:26 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:29 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:29 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:31 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:31 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:33 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:33 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:34 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:34 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:35 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:35 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:35 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:35 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:36 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:36 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:37 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:37 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:39 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:39 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:40 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:45 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:55 Asia/Calcutta] PHP Warning:  include(../../../include/sections/Add-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:45:55 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/sections/Add-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 445
+[21-Aug-2023 06:53:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\leads\details\edit-deals.php:62
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\details\edit-deals.php on line 62
+[21-Aug-2023 06:53:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\leads\details\edit-deals.php:62
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\details\edit-deals.php on line 62
+[21-Aug-2023 06:55:45 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 255
+[21-Aug-2023 06:55:45 Asia/Calcutta] PHP Warning:  Undefined array key "LeadForCountry" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 258
+[21-Aug-2023 06:55:45 Asia/Calcutta] PHP Warning:  Undefined array key "LeadLastQualification" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 259
+[21-Aug-2023 06:55:45 Asia/Calcutta] PHP Warning:  Undefined array key "LeadUniversityName" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 260
+[21-Aug-2023 06:55:48 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 255
+[21-Aug-2023 06:55:48 Asia/Calcutta] PHP Warning:  Undefined array key "LeadForCountry" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 258
+[21-Aug-2023 06:55:48 Asia/Calcutta] PHP Warning:  Undefined array key "LeadLastQualification" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 259
+[21-Aug-2023 06:55:48 Asia/Calcutta] PHP Warning:  Undefined array key "LeadUniversityName" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 260
+[21-Aug-2023 06:55:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 255
+[21-Aug-2023 06:55:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadForCountry" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 258
+[21-Aug-2023 06:55:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadLastQualification" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 259
+[21-Aug-2023 06:55:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadUniversityName" in C:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 260
+[21-Aug-2023 07:07:45 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:07:45 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:07:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:07:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:11:37 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:11:37 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:11:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:11:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:12:11 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:12:11 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:12:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\teams\details\index.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\teams\details\index.php on line 28
+[21-Aug-2023 07:12:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\teams\details\index.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\teams\details\index.php on line 28
+[21-Aug-2023 07:13:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\teams\details\leads.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\teams\details\leads.php on line 24
+[21-Aug-2023 07:21:05 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:21:05 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[21-Aug-2023 07:22:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function HandleInvalidData() in C:\xampp\htdocs\apnalead\app\users\details\sections\DataCapture.php:16
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\users\details\index.php(11): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\users\details\sections\DataCapture.php on line 16
+[21-Aug-2023 07:23:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function HandleInvalidData() in C:\xampp\htdocs\apnalead\app\users\details\sections\DataCapture.php:16
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\users\details\index.php(11): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\users\details\sections\DataCapture.php on line 16
+[21-Aug-2023 07:27:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function HandleInvalidData() in C:\xampp\htdocs\apnalead\app\users\details\sections\DataCapture.php:16
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\users\details\index.php(11): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\users\details\sections\DataCapture.php on line 16
+[21-Aug-2023 07:29:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function SAVE() in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php:186
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 186
+[21-Aug-2023 07:32:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function SAVE() in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php:194
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 194
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 191
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined variable $UserEmailId in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 192
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 202
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined variable $UserEmailId in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 202
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpReraId" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 216
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpCRMStatus" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 219
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpVisitingCard" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 220
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpGroupName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 222
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpLocations" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 223
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 232
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankAccountNo" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 233
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankIFSC" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 234
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankAccoundHolderName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 235
+[21-Aug-2023 07:39:27 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apnalead.user_bank_details' doesn't exist in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO use...')
+#1 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(237): INSERT('user_bank_detai...', Array)
+#2 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 202
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined variable $UserEmailId in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 202
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpReraId" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 216
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpCRMStatus" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 219
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpVisitingCard" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 220
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpGroupName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 222
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpLocations" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 223
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 232
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankAccountNo" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 233
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankIFSC" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 234
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankAccoundHolderName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 235
+[21-Aug-2023 07:40:35 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apnalead.user_bank_details' doesn't exist in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO use...')
+#1 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(237): INSERT('user_bank_detai...', Array)
+#2 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 202
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined variable $UserEmailId in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 202
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpReraId" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 216
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpCRMStatus" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 219
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpVisitingCard" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 220
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpGroupName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 222
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpLocations" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 223
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 232
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankAccountNo" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 233
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankIFSC" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 234
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankAccoundHolderName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 235
+[21-Aug-2023 07:40:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apnalead.user_bank_details' doesn't exist in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO use...')
+#1 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(237): INSERT('user_bank_detai...', Array)
+#2 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[21-Aug-2023 07:41:30 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''pyrenumila@mailinator.com'' ORDER BY UserId DESC limit 0, 1' at line 1 in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(202): FETCH('SELECT * FROM u...', 'UserId')
+#3 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Aug-2023 07:41:37 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''wogucyfyhe@mailinator.com'' ORDER BY UserId DESC limit 0, 1' at line 1 in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(202): FETCH('SELECT * FROM u...', 'UserId')
+#3 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Aug-2023 07:41:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpReraId" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 216
+[21-Aug-2023 07:41:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpCRMStatus" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 219
+[21-Aug-2023 07:41:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpVisitingCard" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 220
+[21-Aug-2023 07:41:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpGroupName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 222
+[21-Aug-2023 07:41:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpLocations" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 223
+[21-Aug-2023 07:41:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 232
+[21-Aug-2023 07:41:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankAccountNo" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 233
+[21-Aug-2023 07:41:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankIFSC" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 234
+[21-Aug-2023 07:41:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankAccoundHolderName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 235
+[21-Aug-2023 07:41:50 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apnalead.user_bank_details' doesn't exist in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO use...')
+#1 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(237): INSERT('user_bank_detai...', Array)
+#2 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[21-Aug-2023 07:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpReraId" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 216
+[21-Aug-2023 07:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpCRMStatus" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 219
+[21-Aug-2023 07:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpVisitingCard" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 220
+[21-Aug-2023 07:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpGroupName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 222
+[21-Aug-2023 07:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpLocations" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 223
+[21-Aug-2023 07:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 232
+[21-Aug-2023 07:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankAccountNo" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 233
+[21-Aug-2023 07:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankIFSC" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 234
+[21-Aug-2023 07:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserBankAccoundHolderName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 235
+[21-Aug-2023 07:41:56 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apnalead.user_bank_details' doesn't exist in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO use...')
+#1 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(237): INSERT('user_bank_detai...', Array)
+#2 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[21-Aug-2023 07:42:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpReraId" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 216
+[21-Aug-2023 07:42:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpCRMStatus" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 219
+[21-Aug-2023 07:42:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpVisitingCard" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 220
+[21-Aug-2023 07:42:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpGroupName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 222
+[21-Aug-2023 07:42:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpLocations" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 223
+[21-Aug-2023 07:42:26 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 247
+[21-Aug-2023 07:42:26 Asia/Calcutta] PHP Warning:  Undefined variable $UserEmailId in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 247
+[21-Aug-2023 07:42:26 Asia/Calcutta] PHP Warning:  Undefined variable $UserEmailId in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[21-Aug-2023 07:42:26 Asia/Calcutta] PHP Warning:  Undefined variable $UserPassword in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 253
+[21-Aug-2023 07:42:26 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php:1094
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', NULL, '')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\Mail.php(36): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL)
+#2 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(247): SENDMAILS('Welcome to Sale...', 'Dear ,', NULL, '<br>\r\n <p>\r\n We...')
+#3 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1094
+[21-Aug-2023 07:47:52 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 242
+[21-Aug-2023 07:47:52 Asia/Calcutta] PHP Warning:  Undefined variable $UserEmailId in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 242
+[21-Aug-2023 07:47:52 Asia/Calcutta] PHP Warning:  Undefined variable $UserEmailId in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 247
+[21-Aug-2023 07:47:52 Asia/Calcutta] PHP Warning:  Undefined variable $UserPassword in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 248
+[21-Aug-2023 07:47:52 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php:1094
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', NULL, '')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\Mail.php(36): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL)
+#2 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(242): SENDMAILS('Welcome to Sale...', 'Dear ,', NULL, '<br>\r\n <p>\r\n We...')
+#3 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1094
+[21-Aug-2023 07:48:00 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 242
+[21-Aug-2023 07:48:00 Asia/Calcutta] PHP Warning:  Undefined variable $UserEmailId in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 242
+[21-Aug-2023 07:48:00 Asia/Calcutta] PHP Warning:  Undefined variable $UserEmailId in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 247
+[21-Aug-2023 07:48:00 Asia/Calcutta] PHP Warning:  Undefined variable $UserPassword in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 248
+[21-Aug-2023 07:48:00 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php:1094
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', NULL, '')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\Mail.php(36): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL)
+#2 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(242): SENDMAILS('Welcome to Sale...', 'Dear ,', NULL, '<br>\r\n <p>\r\n We...')
+#3 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1094
+[21-Aug-2023 07:50:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 242
+[21-Aug-2023 07:50:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 248
+[21-Aug-2023 07:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 242
+[21-Aug-2023 07:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 248
+[21-Aug-2023 07:53:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CurrentFile() in C:\xampp\htdocs\apnalead\app\configs\index.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\configs\index.php on line 119
+[21-Aug-2023 08:44:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CurrentFile() in C:\xampp\htdocs\apnalead\app\configs\index.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\configs\index.php on line 119
+[21-Aug-2023 08:44:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CurrentFile() in C:\xampp\htdocs\apnalead\app\configs\index.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\configs\index.php on line 119
+[21-Aug-2023 08:47:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CurrentFile() in C:\xampp\htdocs\apnalead\app\configs\index.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\configs\index.php on line 119
+[21-Aug-2023 08:47:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CurrentFile() in C:\xampp\htdocs\apnalead\app\configs\index.php:119
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\configs\index.php on line 119
+[21-Aug-2023 09:00:37 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_ANDROID_APP_LINK" in C:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 15
+[21-Aug-2023 09:00:37 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_IOS_APP_LINK" in C:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 16
+[21-Aug-2023 09:00:37 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_BROCHER_LINK" in C:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 17
+[21-Aug-2023 09:01:03 Asia/Calcutta] PHP Warning:  Undefined array key "CurrentFile" in C:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 129
+[21-Aug-2023 09:05:19 Asia/Calcutta] PHP Warning:  Undefined array key "CurrentFile" in C:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 129
+[21-Aug-2023 09:06:01 Asia/Calcutta] PHP Warning:  Undefined array key "CurrentFile" in C:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 156
+[21-Aug-2023 09:06:24 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_ANDROID_APP_LINK" in C:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 15
+[21-Aug-2023 09:06:24 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_IOS_APP_LINK" in C:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 16
+[21-Aug-2023 09:06:24 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_BROCHER_LINK" in C:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 17
+[21-Aug-2023 09:10:04 Asia/Calcutta] PHP Warning:  include(../..//include/sections/Add-Data-Counter.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\configs\data-counters.php on line 97
+[21-Aug-2023 09:10:04 Asia/Calcutta] PHP Warning:  include(): Failed opening '../..//include/sections/Add-Data-Counter.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\configs\data-counters.php on line 97
+[21-Aug-2023 09:12:55 Asia/Calcutta] PHP Warning:  include(../..//include/sections/Add-Data-Counter.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\configs\integrations.php on line 95
+[21-Aug-2023 09:12:55 Asia/Calcutta] PHP Warning:  include(): Failed opening '../..//include/sections/Add-Data-Counter.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\configs\integrations.php on line 95
+[21-Aug-2023 09:12:59 Asia/Calcutta] PHP Warning:  include(../..//include/sections/Add-Facebook-Page.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\configs\fb-page.php on line 209
+[21-Aug-2023 09:12:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../..//include/sections/Add-Facebook-Page.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\configs\fb-page.php on line 209
+[21-Aug-2023 09:13:16 Asia/Calcutta] PHP Warning:  include(../..//include/sections/Add-Facebook-Page.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\configs\fb-page.php on line 209
+[21-Aug-2023 09:13:16 Asia/Calcutta] PHP Warning:  include(): Failed opening '../..//include/sections/Add-Facebook-Page.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\configs\fb-page.php on line 209
+[21-Aug-2023 09:13:30 Asia/Calcutta] PHP Warning:  include(../..//include/sections/Add-Facebook-Page.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\configs\fb-page.php on line 209
+[21-Aug-2023 09:13:30 Asia/Calcutta] PHP Warning:  include(): Failed opening '../..//include/sections/Add-Facebook-Page.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\configs\fb-page.php on line 209
+[21-Aug-2023 09:15:06 Asia/Calcutta] PHP Warning:  include(../..//include/sections/Add-Facebook-Page.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\configs\fb-page.php on line 211
+[21-Aug-2023 09:15:06 Asia/Calcutta] PHP Warning:  include(): Failed opening '../..//include/sections/Add-Facebook-Page.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\configs\fb-page.php on line 211
+[21-Aug-2023 13:30:25 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 14:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Aug-2023 17:49:36 Asia/Calcutta] PHP Warning:  Undefined variable $Shadow in D:\xampp\htdocs\apnalead\auth\login\index.php on line 27

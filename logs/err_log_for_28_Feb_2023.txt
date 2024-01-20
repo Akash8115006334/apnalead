@@ -1,0 +1,113 @@
+[28-Feb-2023 09:17:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[28-Feb-2023 09:17:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[28-Feb-2023 09:25:01 Asia/Calcutta] PHP Warning:  Undefined variable $ViewCustomerId in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Circulars.php on line 11
+[28-Feb-2023 10:15:22 Asia/Calcutta] PHP Warning:  Undefined array key "CircularDocumentName" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[28-Feb-2023 10:15:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[28-Feb-2023 10:15:22 Asia/Calcutta] PHP Warning:  Undefined array key "CircularDocumentName" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[28-Feb-2023 10:15:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[28-Feb-2023 10:15:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'circulars ORDER BY CircularId DESC limit 1' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * circul...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT('SELECT * circul...')
+#2 C:\xampp\htdocs\roofnassets\controller\CircularController.php(29): FETCH('SELECT * circul...', 'CircularId')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[28-Feb-2023 10:15:59 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file: http://localhost/roofnassets/storage/circulars/ in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php:3217
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\mail.php(43): PHPMailer\PHPMailer\PHPMailer->addAttachment('http://localhos...', 'Dean Mckenzie')
+#1 C:\xampp\htdocs\roofnassets\controller\CircularController.php(51): SENDMAILS('Non ut voluptas...', 'Dear Users,', 'navix365@gmail....', '<p>,dmfnv,mfdn,...', false, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 3217
+[28-Feb-2023 10:16:38 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file: C:\xampp\htdocs\roofnassets\controller/storage/circulars/ in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php:3217
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\mail.php(43): PHPMailer\PHPMailer\PHPMailer->addAttachment('C:\\xampp\\htdocs...', 'Dean Mckenzie')
+#1 C:\xampp\htdocs\roofnassets\controller\CircularController.php(51): SENDMAILS('Non ut voluptas...', 'Dear Users,', 'navix365@gmail....', '<p>,dmfnv,mfdn,...', false, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 3217
+[28-Feb-2023 10:16:48 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file: C:\xampp\htdocs\roofnassets\controller/../storage/circulars/ in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php:3217
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\mail.php(43): PHPMailer\PHPMailer\PHPMailer->addAttachment('C:\\xampp\\htdocs...', 'Dean Mckenzie')
+#1 C:\xampp\htdocs\roofnassets\controller\CircularController.php(51): SENDMAILS('Non ut voluptas...', 'Dear Users,', 'navix365@gmail....', '<p>,dmfnv,mfdn,...', false, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 3217
+[28-Feb-2023 10:16:54 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file: C:\xampp\htdocs\roofnassets\controller/../../storage/circulars/ in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php:3217
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\mail.php(43): PHPMailer\PHPMailer\PHPMailer->addAttachment('C:\\xampp\\htdocs...', 'Dean Mckenzie')
+#1 C:\xampp\htdocs\roofnassets\controller\CircularController.php(51): SENDMAILS('Non ut voluptas...', 'Dear Users,', 'navix365@gmail....', '<p>,dmfnv,mfdn,...', false, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 3217
+[28-Feb-2023 10:19:25 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file: ../storage/circulars/ in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php:3217
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\mail.php(43): PHPMailer\PHPMailer\PHPMailer->addAttachment('../storage/circ...', 'Dean Mckenzie')
+#1 C:\xampp\htdocs\roofnassets\controller\CircularController.php(55): SENDMAILS('Non ut voluptas...', 'Dear Users,', 'navix365@gmail....', '<p>,dmfnv,mfdn,...', false, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 3217
+[28-Feb-2023 10:24:03 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file: C:\xampp\htdocs\roofnassets\controller/../storage/circulars/ in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php:3217
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\mail.php(43): PHPMailer\PHPMailer\PHPMailer->addAttachment('C:\\xampp\\htdocs...', 'Herrod Edwards')
+#1 C:\xampp\htdocs\roofnassets\controller\CircularController.php(55): SENDMAILS('Rem velit et mo...', 'Dear Users,', 'navix365@gmail....', '<p>m,d ,m dfm,f...', false, Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 3217
+[28-Feb-2023 10:47:37 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT UserId f...')
+#1 C:\xampp\htdocs\roofnassets\admin\hr\circulars\index.php(92): TOTAL('SELECT UserId f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[28-Feb-2023 10:52:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$CirularId in C:\xampp\htdocs\roofnassets\admin\hr\circulars\index.php on line 84
+[28-Feb-2023 10:52:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'circular_status' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT circular...')
+#1 C:\xampp\htdocs\roofnassets\admin\hr\circulars\index.php(84): TOTAL('SELECT circular...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[28-Feb-2023 10:52:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$CirularId in C:\xampp\htdocs\roofnassets\admin\hr\circulars\index.php on line 84
+[28-Feb-2023 10:52:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$CirularId in C:\xampp\htdocs\roofnassets\admin\hr\circulars\index.php on line 84
+[28-Feb-2023 13:35:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[28-Feb-2023 13:35:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[28-Feb-2023 13:42:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[28-Feb-2023 13:42:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[28-Feb-2023 13:46:34 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 74
+[28-Feb-2023 13:46:34 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 75
+[28-Feb-2023 13:46:34 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 76
+[28-Feb-2023 14:34:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[28-Feb-2023 14:34:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[28-Feb-2023 14:49:10 Asia/Calcutta] PHP Warning:  Undefined variable $POST in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 16
+[28-Feb-2023 14:49:10 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 16
+[28-Feb-2023 14:49:10 Asia/Calcutta] PHP Warning:  Undefined array key "ConfigHolidayMailStatus" in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 20
+[28-Feb-2023 15:59:58 Asia/Calcutta] PHP Warning:  Undefined variable $POST in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 15
+[28-Feb-2023 15:59:58 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 15
+[28-Feb-2023 15:59:58 Asia/Calcutta] PHP Warning:  Undefined array key "ConfigHolidayMailStatus" in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 19
+[28-Feb-2023 16:19:48 Asia/Calcutta] PHP Warning:  Undefined variable $POST in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 15
+[28-Feb-2023 16:19:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 15
+[28-Feb-2023 16:19:48 Asia/Calcutta] PHP Warning:  Undefined array key "ConfigHolidayMailStatus" in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 19
+[28-Feb-2023 16:30:14 Asia/Calcutta] PHP Warning:  Undefined variable $day in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 141
+[28-Feb-2023 16:30:14 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 142
+[28-Feb-2023 16:30:14 Asia/Calcutta] PHP Warning:  Undefined variable $day in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 141
+[28-Feb-2023 16:30:14 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 142
+[28-Feb-2023 16:30:14 Asia/Calcutta] PHP Warning:  Undefined variable $day in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 141
+[28-Feb-2023 16:30:14 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 142
+[28-Feb-2023 16:30:14 Asia/Calcutta] PHP Warning:  Undefined variable $day in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 141
+[28-Feb-2023 16:30:14 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 142
+[28-Feb-2023 16:30:23 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 142
+[28-Feb-2023 16:30:23 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 142
+[28-Feb-2023 16:30:23 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 142
+[28-Feb-2023 16:30:23 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate in C:\xampp\htdocs\roofnassets\admin\hr\holidays\index.php on line 142
+[28-Feb-2023 16:30:56 Asia/Calcutta] PHP Warning:  Undefined array key "ConfigHolidayMailStatus" in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 18
+[28-Feb-2023 17:10:07 Asia/Calcutta] PHP Warning:  Undefined array key "ConfigHolidayMailStatus" in C:\xampp\htdocs\roofnassets\controller\HolidayController.php on line 18

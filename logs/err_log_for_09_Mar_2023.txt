@@ -1,0 +1,10 @@
+[09-Mar-2023 09:59:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[09-Mar-2023 09:59:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62

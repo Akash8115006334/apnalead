@@ -1,0 +1,297 @@
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 17
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:15 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Jan-2024 13:05:22 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[18-Jan-2024 13:05:22 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[18-Jan-2024 13:05:22 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[18-Jan-2024 14:14:28 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[18-Jan-2024 14:14:28 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[18-Jan-2024 14:14:28 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[18-Jan-2024 14:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[18-Jan-2024 14:14:44 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[18-Jan-2024 14:14:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[18-Jan-2024 14:14:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[18-Jan-2024 14:14:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[18-Jan-2024 14:15:01 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[18-Jan-2024 14:15:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[18-Jan-2024 14:15:16 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 46
+[18-Jan-2024 14:15:16 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[18-Jan-2024 14:15:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[18-Jan-2024 14:23:54 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[18-Jan-2024 14:23:54 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[18-Jan-2024 14:23:54 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[18-Jan-2024 14:41:19 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonSubStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 131
+[18-Jan-2024 14:44:09 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonSubStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 130
+[18-Jan-2024 14:44:23 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonSubStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 130
+[18-Jan-2024 14:44:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonSubStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 130
+[18-Jan-2024 14:45:26 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonSubStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 130
+[18-Jan-2024 14:45:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonSubStatus in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 172
+[18-Jan-2024 14:45:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonSubStatus in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 206
+[18-Jan-2024 14:46:34 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonSubStatus in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 206
+[18-Jan-2024 15:06:44 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Jan-2024 15:06:52 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[18-Jan-2024 15:06:52 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[18-Jan-2024 15:06:52 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[18-Jan-2024 15:13:49 Asia/Calcutta] PHP Fatal error:  Cannot redeclare listingstartfrom() (previously declared in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php:285) in D:\xampp\htdocs\apnalead\modules\Pagination.php on line 3
+[18-Jan-2024 15:14:14 Asia/Calcutta] PHP Fatal error:  Cannot redeclare PaginationFooter() (previously declared in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php:309) in D:\xampp\htdocs\apnalead\modules\Pagination.php on line 27
+[18-Jan-2024 15:15:56 Asia/Calcutta] PHP Warning:  Undefined variable $Totalitems in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 235
+[18-Jan-2024 15:15:56 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: PaginationFooter(): Argument #1 ($TotalItems) must be of type int, null given, called in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 235 and defined in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php:309
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\app\leads\transfer\index.php(235): PaginationFooter(NULL, 'index.php')
+#1 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[18-Jan-2024 15:16:05 Asia/Calcutta] PHP Warning:  Undefined variable $Totalitems in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 235
+[18-Jan-2024 15:16:05 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: PaginationFooter(): Argument #1 ($TotalItems) must be of type int, null given, called in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 235 and defined in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php:309
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\app\leads\transfer\index.php(235): PaginationFooter(NULL, 'index.php')
+#1 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[18-Jan-2024 15:46:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Jan-2024 15:46:20 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[18-Jan-2024 15:46:20 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[18-Jan-2024 15:46:20 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonCreatedBy in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 231
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadSalutations in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonFullname in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 10
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonStatus in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 13
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonSource in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 28
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 29
+[18-Jan-2024 15:54:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPriorityLevel in D:\xampp\htdocs\apnalead\include\common\send-lead-list.php on line 30
+[18-Jan-2024 16:45:07 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 16:48:53 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 16:48:53 Asia/Calcutta] PHP Warning:  Undefined variable $GetLeads in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 216
+[18-Jan-2024 16:49:11 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 16:49:11 Asia/Calcutta] PHP Warning:  Undefined variable $start in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 195
+[18-Jan-2024 16:49:11 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\transfer\index.php(195): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Jan-2024 16:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 16:49:32 Asia/Calcutta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php:187
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 187
+[18-Jan-2024 16:49:36 Asia/Calcutta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php:187
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 187
+[18-Jan-2024 16:50:01 Asia/Calcutta] PHP Warning:  Undefined variable $start in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 197
+[18-Jan-2024 16:50:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT LeadPrio...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT LeadPrio...')
+#2 D:\xampp\htdocs\apnalead\app\leads\transfer\index.php(197): _DB_COMMAND_('SELECT LeadPrio...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Jan-2024 16:50:16 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT LeadPrio...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT LeadPrio...')
+#2 D:\xampp\htdocs\apnalead\app\leads\transfer\index.php(197): _DB_COMMAND_('SELECT LeadPrio...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Jan-2024 16:50:55 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 16:50:55 Asia/Calcutta] PHP Warning:  Undefined variable $Count in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 227
+[18-Jan-2024 16:51:33 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 16:53:05 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 16:54:36 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[18-Jan-2024 16:54:36 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[18-Jan-2024 16:54:36 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[18-Jan-2024 16:54:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:54:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:54:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:54:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:54:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:54:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:54:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:54:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:55:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:55:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:55:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:55:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:55:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:55:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:55:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:55:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[18-Jan-2024 16:56:10 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 16:57:18 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 17:02:24 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 17:05:26 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 17:10:43 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT LeadPrio...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT LeadPrio...')
+#2 D:\xampp\htdocs\apnalead\app\leads\transfer\index.php(174): _DB_COMMAND_('SELECT LeadPrio...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Jan-2024 17:10:50 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT LeadPrio...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT LeadPrio...')
+#2 D:\xampp\htdocs\apnalead\app\leads\transfer\index.php(174): _DB_COMMAND_('SELECT LeadPrio...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Jan-2024 17:12:54 Asia/Calcutta] PHP Warning:  Undefined variable $next_page in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 188
+[18-Jan-2024 17:12:54 Asia/Calcutta] PHP Warning:  Undefined variable $NetPages in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 188
+[18-Jan-2024 17:12:54 Asia/Calcutta] PHP Warning:  Undefined variable $NetPages in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 189
+[18-Jan-2024 17:29:18 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 17:29:22 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 17:29:29 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 17:30:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 17:33:28 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 95
+[18-Jan-2024 17:35:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 104
+[18-Jan-2024 17:35:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonStatus" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 104
+[18-Jan-2024 18:08:06 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonFullName" in D:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 135

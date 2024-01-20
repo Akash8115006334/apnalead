@@ -1,0 +1,228 @@
+[14-Feb-2023 10:41:59 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\roofnassets\require/web/): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\require\web-modules.php on line 7
+[14-Feb-2023 10:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\roofnassets\require/web/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\require\web-modules.php on line 7
+[14-Feb-2023 10:41:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[14-Feb-2023 10:42:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 11:42:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingTeamHeadId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 154
+[14-Feb-2023 11:42:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingTeamHeadId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 155
+[14-Feb-2023 11:42:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingDirectSalePersonId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 158
+[14-Feb-2023 11:42:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingDirectSalePersonId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 159
+[14-Feb-2023 11:42:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingDirectSalePersonId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 162
+[14-Feb-2023 11:42:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingDirectSalePersonId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 163
+[14-Feb-2023 11:44:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingTeamHeadId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 154
+[14-Feb-2023 11:44:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingDirectSalePersonId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 158
+[14-Feb-2023 11:44:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingDirectSalePersonId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 162
+[14-Feb-2023 11:44:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingTeamHeadId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 154
+[14-Feb-2023 11:44:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingDirectSalePersonId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 158
+[14-Feb-2023 11:44:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$BookingDirectSalePersonId in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 162
+[14-Feb-2023 11:59:34 Asia/Calcutta] PHP Warning:  Undefined variable $Reg in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 152
+[14-Feb-2023 11:59:34 Asia/Calcutta] PHP Warning:  Attempt to read property "RegUnitSizeApplied" on null in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 152
+[14-Feb-2023 11:59:34 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string / int in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php:153
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 153
+[14-Feb-2023 11:59:47 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string / int in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php:153
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 153
+[14-Feb-2023 12:19:59 Asia/Calcutta] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 192
+[14-Feb-2023 12:21:04 Asia/Calcutta] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 192
+[14-Feb-2023 12:36:58 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 61
+[14-Feb-2023 12:36:58 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 62
+[14-Feb-2023 12:36:58 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 63
+[14-Feb-2023 12:36:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 100
+[14-Feb-2023 12:36:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 114
+[14-Feb-2023 12:36:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 128
+[14-Feb-2023 13:11:35 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserId' in 'where clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(283): SELECT('SELECT * FROM c...')
+#2 C:\xampp\htdocs\roofnassets\include\sections\Update-Customer-Info.php(52): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 C:\xampp\htdocs\roofnassets\admin\crm\custs\details\index.php(84): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[14-Feb-2023 13:11:47 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserId' in 'where clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(283): SELECT('SELECT * FROM c...')
+#2 C:\xampp\htdocs\roofnassets\include\sections\Update-Customer-Info.php(52): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 C:\xampp\htdocs\roofnassets\admin\crm\custs\details\index.php(84): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[14-Feb-2023 13:46:50 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 13:47:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 13:47:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 13:56:07 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 14:06:05 Asia/Calcutta] PHP Warning:  Undefined array key "PAYMENT_RECEIPT" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[14-Feb-2023 14:06:05 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[14-Feb-2023 14:06:05 Asia/Calcutta] PHP Warning:  Undefined array key "PAYMENT_RECEIPT" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[14-Feb-2023 14:06:05 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[14-Feb-2023 14:53:13 Asia/Calcutta] PHP Warning:  Undefined array key " UserMainUserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[14-Feb-2023 15:17:11 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 15:25:02 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 61
+[14-Feb-2023 15:25:02 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 62
+[14-Feb-2023 15:25:02 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 63
+[14-Feb-2023 15:25:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 100
+[14-Feb-2023 15:25:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 114
+[14-Feb-2023 15:25:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 128
+[14-Feb-2023 15:27:13 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php:1094
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 C:\xampp\htdocs\roofnassets\require\module\mail.php(36): PHPMailer\PHPMailer\PHPMailer->addAddress('')
+#2 C:\xampp\htdocs\roofnassets\controller\SendNotificationsController.php(16): SENDMAILS('Please clear yo...', 'Dear, ABCN', '', '<p>testing mail...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1094
+[14-Feb-2023 15:29:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 15:29:52 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 15:33:20 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[14-Feb-2023 15:33:20 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in C:\xampp\htdocs\roofnassets\controller\LeadsController.php on line 175
+[14-Feb-2023 15:41:09 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 15:41:59 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[14-Feb-2023 15:41:59 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[14-Feb-2023 15:42:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[14-Feb-2023 15:42:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[14-Feb-2023 15:45:51 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 15:53:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 15:56:27 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 15:57:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[14-Feb-2023 16:07:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:25 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:47 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 137
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:34 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:15:39 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:44 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:16:52 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php on line 141
+[14-Feb-2023 17:41:24 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM b...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(283): SELECT('SELECT * FROM b...')
+#2 C:\xampp\htdocs\roofnassets\admin\crm\reg\index.php(252): _DB_COMMAND_('SELECT * FROM b...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[14-Feb-2023 18:00:01 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 18:26:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[14-Feb-2023 18:28:37 Asia/Calcutta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in C:\xampp\htdocs\roofnassets\admin\crm\custs\details\sections\profile.php:100
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\custs\details\index.php(40): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\crm\custs\details\sections\profile.php on line 100
+[14-Feb-2023 18:29:41 Asia/Calcutta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in C:\xampp\htdocs\roofnassets\admin\crm\custs\details\sections\profile.php:100
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\custs\details\index.php(40): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\crm\custs\details\sections\profile.php on line 100
+[14-Feb-2023 18:41:23 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 61
+[14-Feb-2023 18:41:23 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 62
+[14-Feb-2023 18:41:23 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 63
+[14-Feb-2023 18:41:23 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 100
+[14-Feb-2023 18:41:23 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 114
+[14-Feb-2023 18:41:23 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 128

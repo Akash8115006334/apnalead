@@ -1,0 +1,497 @@
+[30-May-2023 10:28:04 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172
+[30-May-2023 10:28:10 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172
+[30-May-2023 10:51:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'saleskumar.od_forms' doesn't exist in C:\xampp\htdocs\saleskumar\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM o...')
+#1 C:\xampp\htdocs\saleskumar\require\module\crud.php(302): SELECT('SELECT * FROM o...')
+#2 C:\xampp\htdocs\saleskumar\require\module\autoload.php(15): _DB_COMMAND_('SELECT * FROM o...', true)
+#3 C:\xampp\htdocs\saleskumar\require\modules.php(50): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\saleskumar\admin\configs\integrations.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 114
+[30-May-2023 10:52:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'saleskumar.visitors' doesn't exist in C:\xampp\htdocs\saleskumar\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM v...')
+#1 C:\xampp\htdocs\saleskumar\include\admin\visit-pop-window.php(2): CHECK('SELECT * FROM v...')
+#2 C:\xampp\htdocs\saleskumar\include\admin\footer.php(8): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\saleskumar\admin\configs\integrations.php(88): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 49
+[30-May-2023 10:52:52 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'saleskumar.visitors' doesn't exist in C:\xampp\htdocs\saleskumar\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM v...')
+#1 C:\xampp\htdocs\saleskumar\include\admin\visit-pop-window.php(2): CHECK('SELECT * FROM v...')
+#2 C:\xampp\htdocs\saleskumar\include\admin\footer.php(8): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\saleskumar\admin\configs\integrations.php(88): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 49
+[30-May-2023 10:53:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'saleskumar.app_quotes' doesn't exist in C:\xampp\htdocs\saleskumar\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 C:\xampp\htdocs\saleskumar\require\module\crud.php(253): SELECT('SELECT * FROM a...')
+#2 C:\xampp\htdocs\saleskumar\include\admin\Daily-Quotes.php(3): FETCH('SELECT * FROM a...', 'AppQuoteDate')
+#3 C:\xampp\htdocs\saleskumar\include\admin\footer.php(9): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\saleskumar\admin\configs\integrations.php(88): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 114
+[30-May-2023 10:53:38 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'saleskumar.app_quotes' doesn't exist in C:\xampp\htdocs\saleskumar\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 C:\xampp\htdocs\saleskumar\require\module\crud.php(302): SELECT('SELECT * FROM a...')
+#2 C:\xampp\htdocs\saleskumar\admin\index.php(59): _DB_COMMAND_('SELECT * FROM a...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 114
+[30-May-2023 10:53:42 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'saleskumar.app_quotes' doesn't exist in C:\xampp\htdocs\saleskumar\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 C:\xampp\htdocs\saleskumar\require\module\crud.php(302): SELECT('SELECT * FROM a...')
+#2 C:\xampp\htdocs\saleskumar\admin\index.php(59): _DB_COMMAND_('SELECT * FROM a...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 114
+[30-May-2023 10:54:21 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172
+[30-May-2023 11:17:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$b_campaigns_name in C:\xampp\htdocs\saleskumar\admin\configs\fb-page.php on line 88
+[30-May-2023 12:15:42 Asia/Calcutta] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 46
+[30-May-2023 12:53:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:53:37 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:53:37 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:53:37 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:53:37 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:53:37 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[30-May-2023 12:54:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:54:58 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:54:58 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:54:58 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:54:58 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:54:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[30-May-2023 12:55:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:55:03 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:55:03 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:55:03 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:55:03 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:55:03 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[30-May-2023 12:55:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:55:07 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:55:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:55:07 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:55:07 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:55:07 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[30-May-2023 12:57:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:57:06 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:57:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:57:06 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:57:06 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:57:06 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[30-May-2023 12:59:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:59:09 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:59:09 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:59:09 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:59:09 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:59:09 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "fb_page_name" in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 57
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "fb_adaccounts_id" in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 58
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "fb_campaigns_id" in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 59
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "fb_campaigns_name" in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 60
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "fb_adsets_id" in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 61
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "fb_adsets_name" in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 62
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "fb_ads_id" in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 63
+[30-May-2023 12:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "fb_ads_name" in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 64
+[30-May-2023 12:59:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 12:59:13 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 12:59:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 12:59:13 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 12:59:13 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 12:59:13 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:00:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 13:00:01 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 13:00:01 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 13:00:01 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 13:00:01 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 13:00:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[30-May-2023 13:00:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:02 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:02 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:02 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:02 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:00:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 13:00:09 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 13:00:09 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 13:00:09 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 13:00:09 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 36
+[30-May-2023 13:00:09 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[30-May-2023 13:00:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:48 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:48 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:48 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:00:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:59 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:59 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:59 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:59 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:00:59 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:43 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:43 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:43 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 76
+[30-May-2023 13:03:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:55 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:55 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:55 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:03:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 76
+[30-May-2023 13:04:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:04:06 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:04:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:04:06 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:04:06 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 74
+[30-May-2023 13:04:06 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 75
+[30-May-2023 13:11:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserId")" in C:\xampp\htdocs\saleskumar\require\module\autoload.php:81
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\modules.php(50): include()
+#1 C:\xampp\htdocs\saleskumar\admin\configs\integrations.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 81
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:24:30 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:31 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 152
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 153
+[30-May-2023 13:26:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonStatus in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 160
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPriorityLevel in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 161
+[30-May-2023 14:17:44 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:31 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:42 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:42 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:42 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:42 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:42 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:42 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:42 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:42 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:24:42 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:43:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172
+[30-May-2023 14:52:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\saleskumar\admin\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\admin\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\saleskumar\admin\leads\sections\pageHeader.php on line 37
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:54:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 14:55:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[30-May-2023 16:38:51 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172
+[30-May-2023 16:55:56 Asia/Calcutta] PHP Warning:  Undefined variable $save in C:\xampp\htdocs\saleskumar\controller\FacebookLeadsController.php on line 187

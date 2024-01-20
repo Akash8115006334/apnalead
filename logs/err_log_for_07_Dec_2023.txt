@@ -1,0 +1,98 @@
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 134
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[07-Dec-2023 12:10:32 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[07-Dec-2023 12:10:40 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[07-Dec-2023 12:15:21 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[07-Dec-2023 12:32:44 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[07-Dec-2023 12:32:52 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[07-Dec-2023 12:34:49 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 34
+[07-Dec-2023 12:34:49 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 34
+[07-Dec-2023 12:34:58 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 34
+[07-Dec-2023 12:34:58 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 34
+[07-Dec-2023 12:37:18 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:37:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:38:56 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:38:56 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:39:15 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:39:15 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:41:09 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 56
+[07-Dec-2023 12:41:09 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 56
+[07-Dec-2023 12:41:23 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 58
+[07-Dec-2023 12:41:23 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 58
+[07-Dec-2023 12:41:48 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 58
+[07-Dec-2023 12:41:48 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 58
+[07-Dec-2023 12:42:25 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 58
+[07-Dec-2023 12:42:25 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 58
+[07-Dec-2023 12:45:19 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:45:19 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:45:26 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:45:26 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:45:48 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:45:48 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:45:58 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:45:58 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:46:09 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:46:09 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 59
+[07-Dec-2023 12:53:31 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 63
+[07-Dec-2023 12:53:31 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 63
+[07-Dec-2023 12:53:54 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 63
+[07-Dec-2023 12:53:54 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 63
+[07-Dec-2023 12:54:11 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 63
+[07-Dec-2023 12:54:11 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 63
+[07-Dec-2023 13:04:11 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:04:11 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:04:28 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:04:28 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:04:35 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:04:35 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:04:48 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:04:48 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:06:08 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:06:08 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:06:22 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:06:22 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:06:28 Asia/Calcutta] PHP Warning:  include(../../include/sections/VisitorAddPopWindow.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 13:06:28 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/VisitorAddPopWindow.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\SubscriptionPlan\index.php on line 67
+[07-Dec-2023 17:11:20 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43

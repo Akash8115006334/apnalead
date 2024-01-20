@@ -1,0 +1,124 @@
+[22-Feb-2023 09:14:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[22-Feb-2023 09:14:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 09:26:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 09:27:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 09:59:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 09:59:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 10:00:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 10:00:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 10:18:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[22-Feb-2023 10:27:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_RECORD_LISTING" in C:\xampp\htdocs\roofnassets\admin\configs\advance-settings.php:278
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\configs\advance-settings.php on line 278
+[22-Feb-2023 10:37:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_RECORD_LISTING" in C:\xampp\htdocs\roofnassets\admin\configs\advance-settings.php:278
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\configs\advance-settings.php on line 278
+[22-Feb-2023 10:49:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_RECORD_LISTING" in C:\xampp\htdocs\roofnassets\require\module\pagination.php:5
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\pagination.php(88): PaginationHeader('start')
+#1 C:\xampp\htdocs\roofnassets\require\modules.php(46): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\roofnassets\admin\configs\advance-settings.php(3): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\pagination.php on line 5
+[22-Feb-2023 10:49:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_RECORD_LISTING" in C:\xampp\htdocs\roofnassets\require\module\pagination.php:5
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\pagination.php(88): PaginationHeader('start')
+#1 C:\xampp\htdocs\roofnassets\require\modules.php(46): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\roofnassets\admin\configs\advance-settings.php(3): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\pagination.php on line 5
+[22-Feb-2023 10:53:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 10:54:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 10:59:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 11:11:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[22-Feb-2023 11:11:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[22-Feb-2023 11:27:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 11:36:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 11:37:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 11:37:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[22-Feb-2023 11:37:52 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[22-Feb-2023 11:49:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ProjectDueDate' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM p...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM p...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php(82): _DB_COMMAND_('SELECT * FROM p...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[22-Feb-2023 11:53:41 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ProjectDueDate' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM p...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM p...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\expanses\index.php(82): _DB_COMMAND_('SELECT * FROM p...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[22-Feb-2023 11:53:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\hr\attandance\index.php on line 19
+[22-Feb-2023 11:53:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\hr\attandance\index.php on line 19
+[22-Feb-2023 12:40:06 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type array on string in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php:183
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 183
+[22-Feb-2023 12:54:04 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\roofnassets\require\module\form.php on line 119
+[22-Feb-2023 12:54:20 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mktime(): Argument #4 ($month) must be of type ?int, string given in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php:174
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php(174): mktime(0, 0, 0, 'February', 1, '2023')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 174
+[22-Feb-2023 12:56:47 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mktime(): Argument #4 ($month) must be of type ?int, string given in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php:174
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php(174): mktime(0, 0, 0, 'February', 1, '2023')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 174
+[22-Feb-2023 13:07:53 Asia/Calcutta] PHP Warning:  Undefined array key "day" in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 166
+[22-Feb-2023 14:53:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[22-Feb-2023 14:53:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[22-Feb-2023 16:51:54 Asia/Calcutta] PHP Warning:  Undefined array key "OdBriefReason" in C:\xampp\htdocs\roofnassets\controller\ODRequestController.php on line 22
+[22-Feb-2023 16:51:54 Asia/Calcutta] PHP Warning:  Undefined array key "OdBriefReason" in C:\xampp\htdocs\roofnassets\controller\ODRequestController.php on line 57
+[22-Feb-2023 16:51:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'NotificationName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:449
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(449): mysqli_query(Object(mysqli), 'INSERT INTO not...')
+#1 C:\xampp\htdocs\roofnassets\require\module\notifications.php(14): INSERT('notifications', Array)
+#2 C:\xampp\htdocs\roofnassets\controller\ODRequestController.php(59): CREATE_NOTIFICATION('OD Form Receive...', '56', '<b>Rahul Chechi...', 'http://localhos...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 449
+[22-Feb-2023 16:53:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'NotificationName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:449
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(449): mysqli_query(Object(mysqli), 'INSERT INTO not...')
+#1 C:\xampp\htdocs\roofnassets\require\module\notifications.php(14): INSERT('notifications', Array)
+#2 C:\xampp\htdocs\roofnassets\controller\ODRequestController.php(59): CREATE_NOTIFICATION('OD Form Receive...', '56', '<b>Rahul Chechi...', 'http://localhos...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 449
+[22-Feb-2023 16:54:10 Asia/Calcutta] PHP Warning:  Undefined array key "day" in C:\xampp\htdocs\roofnassets\require\module\calendar.php on line 8
+[22-Feb-2023 16:55:07 Asia/Calcutta] PHP Warning:  Undefined array key "day" in C:\xampp\htdocs\roofnassets\require\module\calendar.php on line 8
+[22-Feb-2023 17:00:24 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where OdMainUserId='73'' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM o...')
+#1 C:\xampp\htdocs\roofnassets\admin\member\ods\index.php(78): TOTAL('SELECT * FROM o...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[22-Feb-2023 17:00:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where OdMainUserId='73'' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM o...')
+#1 C:\xampp\htdocs\roofnassets\admin\member\ods\index.php(78): TOTAL('SELECT * FROM o...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[22-Feb-2023 17:02:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where OdMainUserId='73'' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM o...')
+#1 C:\xampp\htdocs\roofnassets\admin\member\ods\index.php(78): TOTAL('SELECT * FROM o...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[22-Feb-2023 17:05:01 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5

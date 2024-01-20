@@ -1,0 +1,673 @@
+[07-Sep-2023 10:07:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[07-Sep-2023 10:07:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:07:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:07:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:07:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:08:03 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:08:03 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:08:03 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:08:03 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:08:16 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:08:16 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:08:16 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:08:16 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:09:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in D:\xampp\htdocs\apnalead\app\users\index.php on line 218
+[07-Sep-2023 10:09:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:09:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in D:\xampp\htdocs\apnalead\app\users\index.php on line 218
+[07-Sep-2023 10:09:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:09:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in D:\xampp\htdocs\apnalead\app\users\index.php on line 218
+[07-Sep-2023 10:09:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:09:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in D:\xampp\htdocs\apnalead\app\users\index.php on line 218
+[07-Sep-2023 10:09:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:09:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in D:\xampp\htdocs\apnalead\app\users\index.php on line 218
+[07-Sep-2023 10:09:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:10:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\users\index.php on line 230
+[07-Sep-2023 10:10:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:10:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\users\index.php on line 230
+[07-Sep-2023 10:10:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:10:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\users\index.php on line 230
+[07-Sep-2023 10:10:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:10:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\users\index.php on line 230
+[07-Sep-2023 10:10:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:10:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\users\index.php on line 230
+[07-Sep-2023 10:10:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:11:04 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\users\index.php on line 230
+[07-Sep-2023 10:11:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:11:04 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\users\index.php on line 230
+[07-Sep-2023 10:11:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:11:04 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\users\index.php on line 230
+[07-Sep-2023 10:11:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:11:04 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\users\index.php on line 230
+[07-Sep-2023 10:11:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:11:04 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\users\index.php on line 230
+[07-Sep-2023 10:11:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:09 Asia/Calcutta] PHP Warning:  Undefined variable $REQ_UserId in D:\xampp\htdocs\apnalead\app\users\index.php on line 219
+[07-Sep-2023 10:12:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:09 Asia/Calcutta] PHP Warning:  Undefined variable $REQ_UserId in D:\xampp\htdocs\apnalead\app\users\index.php on line 219
+[07-Sep-2023 10:12:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:09 Asia/Calcutta] PHP Warning:  Undefined variable $REQ_UserId in D:\xampp\htdocs\apnalead\app\users\index.php on line 219
+[07-Sep-2023 10:12:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:09 Asia/Calcutta] PHP Warning:  Undefined variable $REQ_UserId in D:\xampp\htdocs\apnalead\app\users\index.php on line 219
+[07-Sep-2023 10:12:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:09 Asia/Calcutta] PHP Warning:  Undefined variable $REQ_UserId in D:\xampp\htdocs\apnalead\app\users\index.php on line 219
+[07-Sep-2023 10:12:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:12:48 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:12:48 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:12:48 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:12:48 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:14:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:14:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:14:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:14:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:14:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:14:51 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:16:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:16:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:16:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:16:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:16:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:17:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:17:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:17:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:17:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:17:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:17:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:17:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:17:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:17:42 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 104
+[07-Sep-2023 10:19:12 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:19:12 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:19:12 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:19:12 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:19:12 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:21:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:21:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:21:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:21:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:21:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:22:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:22:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:22:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:22:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:22:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 10:27:54 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[07-Sep-2023 10:30:38 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[07-Sep-2023 10:31:55 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[07-Sep-2023 10:32:43 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:32:43 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:32:43 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:32:43 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:32:43 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 10:35:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:35:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:35:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:35:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:35:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:36:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:36:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:36:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:36:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:36:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:37:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:37:56 Asia/Calcutta] PHP Warning:  Undefined array key "location" in D:\xampp\htdocs\apnalead\app\teams\index.php on line 122
+[07-Sep-2023 10:37:56 Asia/Calcutta] PHP Warning:  Undefined array key "location" in D:\xampp\htdocs\apnalead\app\teams\index.php on line 155
+[07-Sep-2023 10:37:56 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:00 Asia/Calcutta] PHP Warning:  Undefined array key "location" in D:\xampp\htdocs\apnalead\app\teams\index.php on line 122
+[07-Sep-2023 10:38:00 Asia/Calcutta] PHP Warning:  Undefined array key "location" in D:\xampp\htdocs\apnalead\app\teams\index.php on line 155
+[07-Sep-2023 10:38:00 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "location" in D:\xampp\htdocs\apnalead\app\teams\index.php on line 122
+[07-Sep-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "location" in D:\xampp\htdocs\apnalead\app\teams\index.php on line 155
+[07-Sep-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:38:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:42:07 Asia/Calcutta] PHP Warning:  Undefined variable $start in D:\xampp\htdocs\apnalead\app\teams\index.php on line 166
+[07-Sep-2023 10:42:07 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserMain...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserMain...')
+#2 D:\xampp\htdocs\apnalead\app\teams\index.php(166): _DB_COMMAND_('SELECT UserMain...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[07-Sep-2023 10:43:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:43:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:43:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:43:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:43:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:47:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:49:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:50:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 196
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:51:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 195
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 10:58:52 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:04:04 Asia/Calcutta] PHP Warning:  Undefined variable $start in D:\xampp\htdocs\apnalead\app\teams\index.php on line 33
+[07-Sep-2023 11:04:04 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserMain...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserMain...')
+#2 D:\xampp\htdocs\apnalead\app\teams\index.php(26): _DB_COMMAND_('SELECT UserMain...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[07-Sep-2023 11:08:08 Asia/Calcutta] PHP Warning:  Undefined variable $companyID in D:\xampp\htdocs\apnalead\app\teams\index.php on line 129
+[07-Sep-2023 11:08:08 Asia/Calcutta] PHP Warning:  Undefined variable $companyID in D:\xampp\htdocs\apnalead\app\teams\index.php on line 189
+[07-Sep-2023 11:08:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 231
+[07-Sep-2023 11:08:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 231
+[07-Sep-2023 11:08:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 231
+[07-Sep-2023 11:08:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 231
+[07-Sep-2023 11:08:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 231
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:08:36 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 188
+[07-Sep-2023 11:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 11:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 11:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 11:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 11:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 11:13:45 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 11:13:45 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 11:13:45 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 11:13:45 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 11:13:45 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[07-Sep-2023 11:15:07 Asia/Calcutta] PHP Warning:  Undefined variable $start in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 11:15:07 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserMain...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserMain...')
+#2 D:\xampp\htdocs\apnalead\app\teams\index.php(197): _DB_COMMAND_('SELECT UserMain...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[07-Sep-2023 11:15:43 Asia/Calcutta] PHP Warning:  Undefined variable $start in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 11:15:43 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserMain...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserMain...')
+#2 D:\xampp\htdocs\apnalead\app\teams\index.php(197): _DB_COMMAND_('SELECT UserMain...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[07-Sep-2023 11:16:09 Asia/Calcutta] PHP Warning:  Undefined variable $start in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 11:16:09 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserMain...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserMain...')
+#2 D:\xampp\htdocs\apnalead\app\teams\index.php(197): _DB_COMMAND_('SELECT UserMain...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[07-Sep-2023 11:16:16 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:16:16 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:16:16 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:16:33 Asia/Calcutta] PHP Warning:  Undefined variable $start in D:\xampp\htdocs\apnalead\app\teams\index.php on line 197
+[07-Sep-2023 11:16:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserMain...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserMain...')
+#2 D:\xampp\htdocs\apnalead\app\teams\index.php(197): _DB_COMMAND_('SELECT UserMain...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[07-Sep-2023 11:17:05 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:05 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:05 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:23 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:23 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:23 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:17:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 222
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:20:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 223
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:22:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:24:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:24:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:24:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:24:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:26:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:26:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:26:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:27:49 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:27:49 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:27:49 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:27:49 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:30:59 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:30:59 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:30:59 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:30:59 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:31:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:31:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:31:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:31:20 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 11:31:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:31:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:31:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:31:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:31:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:37:04 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[07-Sep-2023 11:47:03 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 19
+[07-Sep-2023 11:47:09 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 19
+[07-Sep-2023 11:47:17 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 19
+[07-Sep-2023 11:47:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:47:31 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 19
+[07-Sep-2023 11:53:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 11:58:20 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[07-Sep-2023 12:01:43 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 257
+[07-Sep-2023 12:01:43 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 263
+[07-Sep-2023 12:03:24 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 257
+[07-Sep-2023 12:03:24 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 263
+[07-Sep-2023 12:05:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 257
+[07-Sep-2023 12:05:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 263
+[07-Sep-2023 12:07:07 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 299
+[07-Sep-2023 12:07:37 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 299
+[07-Sep-2023 12:07:37 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 303
+[07-Sep-2023 12:08:03 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 299
+[07-Sep-2023 12:08:03 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 303
+[07-Sep-2023 12:08:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 12:08:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 12:08:28 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 12:24:16 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 75
+[07-Sep-2023 12:24:16 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 102
+[07-Sep-2023 12:24:16 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 108
+[07-Sep-2023 12:24:16 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 139
+[07-Sep-2023 12:24:17 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 108
+[07-Sep-2023 12:24:17 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 139
+[07-Sep-2023 12:24:17 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 108
+[07-Sep-2023 12:24:17 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 139
+[07-Sep-2023 12:24:17 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 108
+[07-Sep-2023 12:24:17 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 139
+[07-Sep-2023 12:24:17 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 108
+[07-Sep-2023 12:24:17 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyMainId in D:\xampp\htdocs\apnalead\app\projects\index.php on line 139
+[07-Sep-2023 12:39:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:39:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:39:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:39:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:40:12 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[07-Sep-2023 12:40:19 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[07-Sep-2023 12:40:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:40:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:40:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:40:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:41:24 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 12:41:24 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 12:41:24 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 12:41:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:41:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:41:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:41:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:42:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:42:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:42:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:42:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:42:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:42:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:42:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:42:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:44:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:44:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:44:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:44:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in D:\xampp\htdocs\apnalead\app\users\index.php on line 252
+[07-Sep-2023 12:59:17 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_ANDROID_APP_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 15
+[07-Sep-2023 12:59:17 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_IOS_APP_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 16
+[07-Sep-2023 12:59:17 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_BROCHER_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 17
+[07-Sep-2023 13:00:09 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_ANDROID_APP_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 15
+[07-Sep-2023 13:00:09 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_IOS_APP_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 16
+[07-Sep-2023 13:00:09 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_BROCHER_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 17
+[07-Sep-2023 13:01:25 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[07-Sep-2023 13:01:54 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[07-Sep-2023 15:47:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:06 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:19 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:19 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:19 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:30 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:30 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:30 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 15:47:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[07-Sep-2023 16:17:16 Asia/Calcutta] PHP Warning:  Undefined variable $AdminId in D:\xampp\htdocs\apnalead\app\users\add.php on line 125
+[07-Sep-2023 16:17:16 Asia/Calcutta] PHP Warning:  Undefined variable $TotalUserCount in D:\xampp\htdocs\apnalead\app\users\add.php on line 198
+[07-Sep-2023 16:17:27 Asia/Calcutta] PHP Warning:  Undefined variable $AdminId in D:\xampp\htdocs\apnalead\app\users\add.php on line 125
+[07-Sep-2023 16:17:27 Asia/Calcutta] PHP Warning:  Undefined variable $TotalUserCount in D:\xampp\htdocs\apnalead\app\users\add.php on line 198
+[07-Sep-2023 16:18:06 Asia/Calcutta] PHP Warning:  Undefined variable $TotalUserCount in D:\xampp\htdocs\apnalead\app\users\add.php on line 199
+[07-Sep-2023 16:20:16 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 299
+[07-Sep-2023 16:20:16 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 303
+[07-Sep-2023 16:21:51 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 299
+[07-Sep-2023 16:21:51 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 303
+[07-Sep-2023 16:23:25 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 257
+[07-Sep-2023 16:23:25 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 263
+[07-Sep-2023 16:49:41 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 257
+[07-Sep-2023 16:49:41 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 263
+[07-Sep-2023 17:16:43 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[07-Sep-2023 17:25:16 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[07-Sep-2023 17:26:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 99
+[07-Sep-2023 17:26:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 99
+[07-Sep-2023 17:26:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 175
+[07-Sep-2023 17:26:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[07-Sep-2023 17:33:35 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[07-Sep-2023 17:35:03 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 257
+[07-Sep-2023 17:35:03 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 263
+[07-Sep-2023 17:37:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[07-Sep-2023 17:37:20 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[07-Sep-2023 17:38:30 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[07-Sep-2023 17:38:36 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32

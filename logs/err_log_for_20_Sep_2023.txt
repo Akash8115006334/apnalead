@@ -1,0 +1,315 @@
+[20-Sep-2023 10:24:46 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[20-Sep-2023 10:24:51 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 10:24:51 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:08:00 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:08:00 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:08:15 Asia/Calcutta] PHP Warning:  Undefined array key "DIGITAL_COUNT" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 183
+[20-Sep-2023 11:09:38 Asia/Calcutta] PHP Warning:  Undefined array key "DIGITAL_COUNT" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 183
+[20-Sep-2023 11:09:38 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 269
+[20-Sep-2023 11:09:41 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:09:41 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:09:57 Asia/Calcutta] PHP Warning:  Undefined array key "DIGITAL_COUNT" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 183
+[20-Sep-2023 11:09:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 269
+[20-Sep-2023 11:10:00 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:10:00 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:10:18 Asia/Calcutta] PHP Warning:  Undefined array key "DIGITAL_COUNT" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 183
+[20-Sep-2023 11:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:13:30 Asia/Calcutta] PHP Warning:  Undefined array key "count" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 182
+[20-Sep-2023 11:15:55 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:15:55 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:15:57 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:15:57 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:20:35 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:20:35 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:20:43 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 263
+[20-Sep-2023 11:20:45 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 275
+[20-Sep-2023 11:20:45 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:20:45 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:25:24 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:25:24 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:25:29 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:25:29 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:25:31 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:25:31 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 155
+[20-Sep-2023 11:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 220
+[20-Sep-2023 11:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 227
+[20-Sep-2023 11:25:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 261
+[20-Sep-2023 11:25:41 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 273
+[20-Sep-2023 11:25:41 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:25:41 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:26:01 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:26:01 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:35:37 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:35:37 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:35:50 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:35:50 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:36:04 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:36:04 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:36:25 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:36:25 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:36:29 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 155
+[20-Sep-2023 11:36:29 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 220
+[20-Sep-2023 11:36:29 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 227
+[20-Sep-2023 11:36:29 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 229
+[20-Sep-2023 11:36:29 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 266
+[20-Sep-2023 11:36:33 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 278
+[20-Sep-2023 11:36:33 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:36:33 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:37:18 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 155
+[20-Sep-2023 11:37:18 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 266
+[20-Sep-2023 11:37:20 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:37:20 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:37:37 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyUsers in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 310
+[20-Sep-2023 11:37:37 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: INSERT(): Argument #2 ($RequestedData) must be of type array, null given, called in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 310 and defined in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:3
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(310): INSERT('company_users', NULL)
+#1 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(10): include('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 3
+[20-Sep-2023 11:37:53 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:37:53 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:38:02 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyUsers in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 310
+[20-Sep-2023 11:38:02 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: INSERT(): Argument #2 ($RequestedData) must be of type array, null given, called in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 310 and defined in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:3
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(310): INSERT('company_users', NULL)
+#1 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(10): include('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 3
+[20-Sep-2023 11:39:27 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyUsers in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 307
+[20-Sep-2023 11:39:27 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: INSERT(): Argument #2 ($RequestedData) must be of type array, null given, called in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 307 and defined in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:3
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(307): INSERT('company_users', NULL)
+#1 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(10): include('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 3
+[20-Sep-2023 11:40:10 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:40:10 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:40:28 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 155
+[20-Sep-2023 11:40:28 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 266
+[20-Sep-2023 11:40:31 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:40:31 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:42:16 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:42:16 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:42:26 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 155
+[20-Sep-2023 11:42:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 266
+[20-Sep-2023 11:42:32 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:42:32 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:43:28 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 155
+[20-Sep-2023 11:43:57 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:43:57 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:43:58 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:43:58 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:46:40 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:46:40 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:46:42 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:46:42 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:48:03 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:48:03 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:48:04 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:48:04 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:50:05 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:50:05 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:50:07 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:50:07 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:50:14 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 267
+[20-Sep-2023 11:50:17 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:50:17 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:50:27 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:50:27 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:50:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 267
+[20-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 279
+[20-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:51:00 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:51:00 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:51:43 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:51:43 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:51:53 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:51:53 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:52:01 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:52:01 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:52:10 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:52:10 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:52:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 267
+[20-Sep-2023 11:52:33 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 279
+[20-Sep-2023 11:52:33 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:52:33 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:52:41 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 267
+[20-Sep-2023 11:52:44 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 279
+[20-Sep-2023 11:52:44 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:52:44 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:55:35 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:55:35 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:55:41 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 267
+[20-Sep-2023 11:55:44 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:55:44 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:57:21 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:57:21 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:57:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 267
+[20-Sep-2023 11:57:32 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 279
+[20-Sep-2023 11:57:33 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:57:33 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:58:54 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:58:54 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 11:59:02 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 265
+[20-Sep-2023 11:59:05 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 277
+[20-Sep-2023 11:59:05 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 11:59:05 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:01:08 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:01:08 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:01:17 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 217
+[20-Sep-2023 12:01:17 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 224
+[20-Sep-2023 12:01:17 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[20-Sep-2023 12:01:20 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 270
+[20-Sep-2023 12:01:20 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:01:20 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:01:31 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 217
+[20-Sep-2023 12:01:31 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 224
+[20-Sep-2023 12:01:31 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[20-Sep-2023 12:01:33 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 270
+[20-Sep-2023 12:01:33 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:01:33 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:01:49 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:01:49 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:03:16 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:03:16 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:03:24 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[20-Sep-2023 12:03:27 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:03:27 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:03:51 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:03:51 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:08:56 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:08:56 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:09:05 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:09:05 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:09:48 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:09:48 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:10:20 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:10:20 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:10:21 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:10:21 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:11:57 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:11:57 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:11:59 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:11:59 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:12:08 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:12:08 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:12:29 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:12:29 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:12:31 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:12:31 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:12:38 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 265
+[20-Sep-2023 12:12:41 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 277
+[20-Sep-2023 12:12:41 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:12:41 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:17:33 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 12:17:36 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:17:36 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:18:09 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 12:18:12 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:18:12 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:18:22 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:18:22 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:18:31 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:18:31 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:18:47 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 12:18:50 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 280
+[20-Sep-2023 12:18:50 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:18:50 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:19:04 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:19:04 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:19:14 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:19:14 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:19:20 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:19:20 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:19:31 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:19:31 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:19:36 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 12:19:38 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:19:38 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:20:36 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:20:36 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:23:55 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:23:55 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:24:04 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:24:04 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:24:14 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:24:14 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:24:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:26:50 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:26:50 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:26:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 12:27:01 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 280
+[20-Sep-2023 12:27:01 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:27:01 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:27:11 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[20-Sep-2023 12:27:11 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[20-Sep-2023 12:29:34 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[20-Sep-2023 12:29:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[20-Sep-2023 12:33:08 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[20-Sep-2023 12:33:38 Asia/Calcutta] PHP Warning:  Undefined variable $newdate in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 14
+[20-Sep-2023 12:33:38 Asia/Calcutta] PHP Warning:  Undefined variable $month in D:\xampp\htdocs\apnalead\app\receipt\index.php on line 121
+[20-Sep-2023 12:33:46 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[20-Sep-2023 12:34:04 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 12:35:42 Asia/Calcutta] PHP Warning:  Undefined array key "Leads" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 222
+[20-Sep-2023 12:35:42 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 222
+[20-Sep-2023 12:35:42 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 256
+[20-Sep-2023 13:45:25 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[20-Sep-2023 13:50:07 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[20-Sep-2023 13:51:04 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 13:52:01 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 14:01:03 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[20-Sep-2023 14:01:16 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[20-Sep-2023 14:01:25 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[20-Sep-2023 14:01:34 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[20-Sep-2023 14:40:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[20-Sep-2023 14:40:08 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[20-Sep-2023 14:48:08 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[20-Sep-2023 14:50:27 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[20-Sep-2023 14:51:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 14:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[20-Sep-2023 15:07:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[20-Sep-2023 15:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[20-Sep-2023 15:08:41 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[20-Sep-2023 15:08:51 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[20-Sep-2023 15:11:15 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[20-Sep-2023 15:11:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[20-Sep-2023 15:29:18 Asia/Calcutta] PHP Warning:  Undefined array key "Leads" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 234
+[20-Sep-2023 15:29:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 234
+[20-Sep-2023 15:29:18 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 268
+[20-Sep-2023 16:31:59 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 265
+[20-Sep-2023 16:32:13 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 265
+[20-Sep-2023 16:32:48 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 265
+[20-Sep-2023 16:56:14 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 272
+[20-Sep-2023 16:56:27 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyTableDetails in D:\xampp\htdocs\apnalead\app\leads\index.php on line 16
+[20-Sep-2023 16:56:27 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): FETCH(NULL, 'company_id')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[20-Sep-2023 16:57:03 Asia/Calcutta] PHP Warning:  Undefined variable $MainCompanyId in D:\xampp\htdocs\apnalead\app\leads\index.php on line 15
+[20-Sep-2023 17:04:07 Asia/Calcutta] PHP Warning:  Undefined variable $companyID in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 203
+[20-Sep-2023 17:10:39 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 266
+[20-Sep-2023 17:24:01 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[20-Sep-2023 17:24:03 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[20-Sep-2023 17:24:05 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[20-Sep-2023 17:24:06 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[20-Sep-2023 17:24:11 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[20-Sep-2023 17:24:12 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[20-Sep-2023 17:38:49 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company_user_alloted_id' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\leads\transfer\index.php(12): FETCH('SELECT * FROM c...', 'company_main_id')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12

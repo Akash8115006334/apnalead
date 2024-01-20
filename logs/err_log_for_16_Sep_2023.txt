@@ -1,0 +1,18 @@
+[16-Sep-2023 12:44:45 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[16-Sep-2023 12:45:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[16-Sep-2023 12:45:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[16-Sep-2023 12:46:15 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[16-Sep-2023 12:46:24 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[16-Sep-2023 12:49:20 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 136
+[16-Sep-2023 12:49:20 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 152
+[16-Sep-2023 12:54:36 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[16-Sep-2023 12:54:42 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[16-Sep-2023 13:21:36 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[16-Sep-2023 13:21:36 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[16-Sep-2023 13:22:12 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[16-Sep-2023 13:22:12 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[16-Sep-2023 13:22:19 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[16-Sep-2023 13:22:19 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[16-Sep-2023 13:22:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[16-Sep-2023 13:22:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[16-Sep-2023 13:22:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224

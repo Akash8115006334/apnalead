@@ -1,0 +1,174 @@
+[23-Oct-2023 10:58:01 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[23-Oct-2023 10:58:10 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[23-Oct-2023 10:59:22 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[23-Oct-2023 10:59:22 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[23-Oct-2023 11:32:45 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:32:45 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:34:54 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 109
+[23-Oct-2023 11:34:54 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:34:54 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:35:27 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:35:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:35:41 Asia/Calcutta] PHP Warning:  Undefined variable $LeadFollowUpRemindNotes in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 93
+[23-Oct-2023 11:35:41 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 109
+[23-Oct-2023 11:35:41 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:35:41 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:39:08 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:39:08 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:39:15 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 110
+[23-Oct-2023 11:39:15 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:39:15 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:39:21 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:39:21 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:43:19 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:43:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:43:19 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\leads\add.php on line 295
+[23-Oct-2023 11:43:19 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\leads\add.php(295): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Oct-2023 11:43:24 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:43:24 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 11:43:24 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\leads\add.php on line 295
+[23-Oct-2023 11:43:24 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\leads\add.php(295): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Oct-2023 12:09:20 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:09:20 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:09:20 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\leads\add.php on line 295
+[23-Oct-2023 12:09:20 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\leads\add.php(295): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Oct-2023 12:09:44 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:09:44 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:09:44 Asia/Calcutta] PHP Warning:  Undefined variable $checked in D:\xampp\htdocs\apnalead\app\leads\add.php on line 300
+[23-Oct-2023 12:09:44 Asia/Calcutta] PHP Warning:  Undefined variable $checked in D:\xampp\htdocs\apnalead\app\leads\add.php on line 300
+[23-Oct-2023 12:09:44 Asia/Calcutta] PHP Warning:  Undefined variable $checked in D:\xampp\htdocs\apnalead\app\leads\add.php on line 300
+[23-Oct-2023 12:09:49 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:09:49 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:09:49 Asia/Calcutta] PHP Warning:  Undefined variable $checked in D:\xampp\htdocs\apnalead\app\leads\add.php on line 300
+[23-Oct-2023 12:09:49 Asia/Calcutta] PHP Warning:  Undefined variable $checked in D:\xampp\htdocs\apnalead\app\leads\add.php on line 300
+[23-Oct-2023 12:09:49 Asia/Calcutta] PHP Warning:  Undefined variable $checked in D:\xampp\htdocs\apnalead\app\leads\add.php on line 300
+[23-Oct-2023 12:23:27 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:23:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:23:27 Asia/Calcutta] PHP Warning:  Undefined variable $checked in D:\xampp\htdocs\apnalead\app\leads\add.php on line 300
+[23-Oct-2023 12:23:27 Asia/Calcutta] PHP Warning:  Undefined variable $checked in D:\xampp\htdocs\apnalead\app\leads\add.php on line 300
+[23-Oct-2023 12:23:27 Asia/Calcutta] PHP Warning:  Undefined variable $checked in D:\xampp\htdocs\apnalead\app\leads\add.php on line 300
+[23-Oct-2023 12:24:31 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:24:31 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:25:48 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:25:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:26:19 Asia/Calcutta] PHP Warning:  Undefined variable $LeadFollowUpRemindNotes in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 94
+[23-Oct-2023 12:26:19 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 110
+[23-Oct-2023 12:26:19 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 12:26:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:43:37 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:43:37 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:43:48 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 30
+[23-Oct-2023 15:43:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 96
+[23-Oct-2023 15:43:48 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:43:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:45:12 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:45:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:45:20 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 31
+[23-Oct-2023 15:45:20 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 97
+[23-Oct-2023 15:45:20 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:45:20 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:45:28 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:45:28 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:45:36 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 31
+[23-Oct-2023 15:45:36 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 97
+[23-Oct-2023 15:45:36 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 15:45:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 16:09:16 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY LeadsId DESC LIMIT 0, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(293): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Oct-2023 16:09:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY LeadsId DESC LIMIT 0, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(293): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Oct-2023 16:11:05 Asia/Calcutta] PHP Warning:  Undefined array key "Leads" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 260
+[23-Oct-2023 16:11:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 260
+[23-Oct-2023 16:11:05 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 294
+[23-Oct-2023 16:11:16 Asia/Calcutta] PHP Warning:  Undefined array key "Leads" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 260
+[23-Oct-2023 16:11:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 260
+[23-Oct-2023 16:11:16 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 294
+[23-Oct-2023 16:21:04 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 16:21:04 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 16:21:11 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 31
+[23-Oct-2023 16:21:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 97
+[23-Oct-2023 16:21:11 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 16:21:11 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 16:30:02 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 207
+[23-Oct-2023 16:50:59 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\index.php on line 192
+[23-Oct-2023 17:00:57 Asia/Calcutta] PHP Warning:  Undefined variable $5 in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 130
+[23-Oct-2023 17:00:57 Asia/Calcutta] PHP Warning:  Undefined variable $5 in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 130
+[23-Oct-2023 17:00:57 Asia/Calcutta] PHP Warning:  Undefined variable $5 in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 130
+[23-Oct-2023 17:00:57 Asia/Calcutta] PHP Warning:  Undefined variable $5 in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 130
+[23-Oct-2023 17:00:57 Asia/Calcutta] PHP Warning:  Undefined variable $5 in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 130
+[23-Oct-2023 17:21:58 Asia/Calcutta] PHP Warning:  Undefined variable $currentDate in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 350
+[23-Oct-2023 17:23:19 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 17:23:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 17:23:29 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 31
+[23-Oct-2023 17:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 97
+[23-Oct-2023 17:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[23-Oct-2023 17:23:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180

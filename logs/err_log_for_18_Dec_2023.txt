@@ -1,0 +1,347 @@
+[18-Dec-2023 10:36:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'live_apnalead' in C:\xampp\htdocs\apnalead\acm\SystemDBConnector.php:5
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SystemDBConnector.php(5): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'live_apnalead')
+#1 C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php(37): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\apnalead\index.php(3): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SystemDBConnector.php on line 5
+[18-Dec-2023 10:47:35 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'live_apnalead' in C:\xampp\htdocs\apnalead\acm\SystemDBConnector.php:5
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SystemDBConnector.php(5): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'live_apnalead')
+#1 C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php(37): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\apnalead\index.php(3): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SystemDBConnector.php on line 5
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\app\index.php on line 9
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in C:\xampp\htdocs\apnalead\app\index.php on line 20
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in C:\xampp\htdocs\apnalead\app\index.php on line 134
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 10:47:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\app\index.php on line 9
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in C:\xampp\htdocs\apnalead\app\index.php on line 20
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in C:\xampp\htdocs\apnalead\app\index.php on line 134
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:46 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 12:40:59 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Dec-2023 15:55:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:55:59 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:55:59 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:56:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:56:00 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:56:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:56:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:56:22 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:56:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:56:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:56:22 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:56:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:56:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:56:49 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:56:49 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:56:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:56:49 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:56:49 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:57:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:09 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:09 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:57:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:10 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:10 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:57:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:34 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:57:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:35 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:35 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:57:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:56 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:56 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:57:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:57 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:57:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:58:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:58:20 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:58:20 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:58:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:58:20 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:58:20 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:58:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:58:40 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:58:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:58:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:58:40 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:58:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:59:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:02 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:59:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:02 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:59:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:22 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:59:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:22 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:59:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:40 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 15:59:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:40 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 15:59:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 16:00:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:00 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 16:00:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:01 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 16:00:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:19 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 16:00:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:19 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 16:00:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:40 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 16:00:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:41 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 28
+[18-Dec-2023 16:00:41 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 29
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\app\index.php on line 9
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in C:\xampp\htdocs\apnalead\app\index.php on line 20
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in C:\xampp\htdocs\apnalead\app\index.php on line 134
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:44 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[18-Dec-2023 16:09:47 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  Undefined variable $leadsFieldDataForFbUploadTable in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:17:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 40
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:25:48 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CHECK(), 0 passed in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39 and at least 1 expected in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php(39): CHECK()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 3
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 16:29:11 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyID in C:\xampp\htdocs\apnalead\handler\AutoRunner\FetchingLeadsFromWebHooks.php on line 39
+[18-Dec-2023 17:08:44 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpReraId" in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 80
+[18-Dec-2023 17:09:45 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\app\leads\index.php on line 184
+[18-Dec-2023 17:10:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apnalead\app\leads\index.php on line 184

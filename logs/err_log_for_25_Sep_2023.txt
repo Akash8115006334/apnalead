@@ -1,0 +1,16 @@
+[25-Sep-2023 09:37:40 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[25-Sep-2023 09:40:05 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[25-Sep-2023 09:40:18 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[25-Sep-2023 09:40:18 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[25-Sep-2023 09:40:32 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[25-Sep-2023 09:40:39 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[25-Sep-2023 09:40:39 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[25-Sep-2023 10:47:24 Asia/Calcutta] PHP Warning:  Undefined variable $LeadsId in D:\xampp\htdocs\apnalead\app\feedback.php on line 72
+[25-Sep-2023 10:47:46 Asia/Calcutta] PHP Warning:  Undefined variable $LeadsId in D:\xampp\htdocs\apnalead\app\feedback.php on line 72
+[25-Sep-2023 16:08:48 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\app\feedback.php on line 18
+[25-Sep-2023 16:08:48 Asia/Calcutta] PHP Warning:  Undefined variable $REQ_LeadsId in D:\xampp\htdocs\apnalead\app\feedback.php on line 28
+[25-Sep-2023 16:17:24 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 182
+[25-Sep-2023 16:17:59 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 183
+[25-Sep-2023 16:41:36 Asia/Calcutta] PHP Warning:  Undefined variable $LeadsId in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 184
+[25-Sep-2023 16:53:58 Asia/Calcutta] PHP Warning:  Undefined variable $LeadsId in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 184
+[25-Sep-2023 16:54:41 Asia/Calcutta] PHP Warning:  Undefined variable $LeadsId in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 184

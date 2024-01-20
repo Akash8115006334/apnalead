@@ -1,0 +1,17 @@
+[14-Jun-2023 10:09:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\saleskumar\include\admin\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\saleskumar\include\admin\header.php on line 20
+[14-Jun-2023 11:42:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadFollowUpHandleBy='1'' at line 1 in C:\xampp\htdocs\saleskumar\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 C:\xampp\htdocs\saleskumar\admin\reports\index.php(122): TOTAL('SELECT * FROM l...')
+#2 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 131
+[14-Jun-2023 11:50:08 Asia/Calcutta] PHP Warning:  Undefined variable $AllDataRecords in C:\xampp\htdocs\saleskumar\admin\reports\index.php on line 135
+[14-Jun-2023 11:50:08 Asia/Calcutta] PHP Warning:  Undefined variable $AllDataRecords in C:\xampp\htdocs\saleskumar\admin\reports\index.php on line 135
+[14-Jun-2023 11:50:08 Asia/Calcutta] PHP Warning:  Undefined variable $AllDataRecords in C:\xampp\htdocs\saleskumar\admin\reports\index.php on line 135
+[14-Jun-2023 11:50:08 Asia/Calcutta] PHP Warning:  Undefined variable $AllDataRecords in C:\xampp\htdocs\saleskumar\admin\reports\index.php on line 135
+[14-Jun-2023 11:50:08 Asia/Calcutta] PHP Warning:  Undefined variable $AllDataRecords in C:\xampp\htdocs\saleskumar\admin\reports\index.php on line 135
+[14-Jun-2023 11:50:08 Asia/Calcutta] PHP Warning:  Undefined variable $AllDataRecords in C:\xampp\htdocs\saleskumar\admin\reports\index.php on line 135

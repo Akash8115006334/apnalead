@@ -1,0 +1,52 @@
+[31-May-2023 13:41:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\saleskumar\admin\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\admin\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\saleskumar\admin\leads\sections\pageHeader.php on line 37
+[31-May-2023 13:59:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserId")" in C:\xampp\htdocs\saleskumar\require\module\autoload.php:81
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\modules.php(50): include()
+#1 C:\xampp\htdocs\saleskumar\admin\index.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 81
+[31-May-2023 13:59:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserId")" in C:\xampp\htdocs\saleskumar\require\module\autoload.php:81
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\modules.php(50): include()
+#1 C:\xampp\htdocs\saleskumar\admin\index.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 81
+[31-May-2023 13:59:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserId")" in C:\xampp\htdocs\saleskumar\require\module\autoload.php:81
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\modules.php(50): include()
+#1 C:\xampp\htdocs\saleskumar\admin\index.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 81
+[31-May-2023 14:04:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:12 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:12 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:12 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 38
+[31-May-2023 14:04:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:24 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:24 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:24 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:24 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 38
+[31-May-2023 14:04:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:58 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:58 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:58 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:58 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:04:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 38
+[31-May-2023 14:05:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:05:33 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:05:33 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:05:33 Asia/Calcutta] PHP Warning:  Attempt to read property "campaigns" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:05:33 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:05:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 38
+[31-May-2023 14:07:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:07:08 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:07:08 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 37
+[31-May-2023 14:08:51 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\saleskumar\admin\logout.php on line 5
+[31-May-2023 14:24:03 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\saleskumar\admin\logout.php on line 5

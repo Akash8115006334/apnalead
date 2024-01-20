@@ -1,0 +1,167 @@
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 23
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 30
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:51:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:52:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:52:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:52:47 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[28-Aug-2023 10:53:02 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[28-Aug-2023 10:53:09 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[28-Aug-2023 10:53:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[28-Aug-2023 11:05:55 Asia/Calcutta] PHP Warning:  Undefined array key "bill_ref_no" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 31
+[28-Aug-2023 11:05:55 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 32
+[28-Aug-2023 11:05:55 Asia/Calcutta] PHP Warning:  include(./../assets/FooterFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 58
+[28-Aug-2023 11:05:55 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/FooterFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 58
+[28-Aug-2023 11:06:20 Asia/Calcutta] PHP Warning:  Undefined array key "bill_ref_no" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 31
+[28-Aug-2023 11:06:20 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 32
+[28-Aug-2023 11:06:20 Asia/Calcutta] PHP Warning:  include(../../assets/FooterFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 58
+[28-Aug-2023 11:06:20 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../assets/FooterFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 58
+[28-Aug-2023 11:06:50 Asia/Calcutta] PHP Warning:  Undefined array key "bill_ref_no" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 31
+[28-Aug-2023 11:06:50 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 32
+[28-Aug-2023 11:07:55 Asia/Calcutta] PHP Warning:  Undefined array key "bill_ref_no" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 33
+[28-Aug-2023 11:07:55 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 34
+[28-Aug-2023 11:13:53 Asia/Calcutta] PHP Warning:  Undefined array key "user_description" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 29
+[28-Aug-2023 11:13:53 Asia/Calcutta] PHP Warning:  Undefined array key "bill_ref_no" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 35
+[28-Aug-2023 11:13:53 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 36
+[28-Aug-2023 11:14:04 Asia/Calcutta] PHP Warning:  Undefined array key "user_description" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 29
+[28-Aug-2023 11:14:04 Asia/Calcutta] PHP Warning:  Undefined array key "bill_ref_no" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 35
+[28-Aug-2023 11:14:04 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 36
+[28-Aug-2023 11:19:45 Asia/Calcutta] PHP Warning:  Undefined array key "bill_ref_no" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 24
+[28-Aug-2023 11:19:45 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 25
+[28-Aug-2023 11:19:45 Asia/Calcutta] PHP Warning:  Undefined array key "bill_ref_no" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 44
+[28-Aug-2023 11:19:45 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 45
+[28-Aug-2023 11:20:58 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 25
+[28-Aug-2023 11:20:58 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 45
+[28-Aug-2023 11:21:31 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 25
+[28-Aug-2023 11:21:31 Asia/Calcutta] PHP Warning:  Undefined array key "total_user" in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 45
+[28-Aug-2023 11:46:15 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 30
+[28-Aug-2023 11:52:32 Asia/Calcutta] PHP Warning:  Undefined array key "UserId " in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[28-Aug-2023 11:52:32 Asia/Calcutta] PHP Warning:  Undefined variable $userId in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 70
+[28-Aug-2023 11:53:46 Asia/Calcutta] PHP Warning:  Undefined variable $userId in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 71
+[28-Aug-2023 12:15:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[28-Aug-2023 12:15:41 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[28-Aug-2023 12:22:01 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\Payment\index.php:28
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 28
+[28-Aug-2023 12:37:56 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:37:56 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:37:56 Asia/Calcutta] PHP Warning:  require(../../acm/SysFileAutoLoader.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 3
+[28-Aug-2023 12:37:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required '../../acm/SysFileAutoLoader.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php:3
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include()
+#1 {main}
+  thrown in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 3
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Warning:  Constant HOST already defined in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 27
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Warning:  Constant LOCAL_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 27
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Warning:  Constant DOMAIN already defined in D:\xampp\htdocs\apnalead\config.php on line 44
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Warning:  Constant CONTROL_DATABASE already defined in D:\xampp\htdocs\apnalead\config.php on line 50
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Warning:  Constant CONTROL_DB_STATUS already defined in D:\xampp\htdocs\apnalead\config.php on line 51
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 54
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_USER already defined in D:\xampp\htdocs\apnalead\config.php on line 55
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_PASS already defined in D:\xampp\htdocs\apnalead\config.php on line 56
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_DB_NAME already defined in D:\xampp\htdocs\apnalead\config.php on line 57
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Warning:  Constant DBConnection already defined in D:\xampp\htdocs\apnalead\acm\SystemDBConnector.php on line 6
+[28-Aug-2023 12:38:46 Asia/Calcutta] PHP Fatal error:  Cannot redeclare DATE_FORMATES() (previously declared in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php:3) in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php on line 3
+[28-Aug-2023 12:41:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`apnalead`.`user_plan`, CONSTRAINT `user_plan` FOREIGN KEY (`user_plan_main_id`) REFERENCES `config_plans` (`plan_id`)) in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO use...')
+#1 D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php(13): INSERT('user_plan', Array)
+#2 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[28-Aug-2023 12:43:59 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`apnalead`.`user_plan`, CONSTRAINT `user_plan` FOREIGN KEY (`user_plan_main_id`) REFERENCES `config_plans` (`plan_id`)) in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO use...')
+#1 D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php(13): INSERT('user_plan', Array)
+#2 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[28-Aug-2023 12:45:07 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:45:07 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:45:07 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`apnalead`.`user_plan`, CONSTRAINT `user_plan` FOREIGN KEY (`user_plan_main_id`) REFERENCES `config_plans` (`plan_id`)) in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO use...')
+#1 D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php(13): INSERT('user_plan', Array)
+#2 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[28-Aug-2023 12:48:23 Asia/Calcutta] PHP Warning:  Undefined array key "PlanPeriod" in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 16
+[28-Aug-2023 12:48:23 Asia/Calcutta] PHP Warning:  Undefined array key "PlanPeriod" in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 18
+[28-Aug-2023 12:48:23 Asia/Calcutta] PHP Warning:  Undefined array key "PlanPeriod" in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 20
+[28-Aug-2023 12:48:23 Asia/Calcutta] PHP Warning:  Undefined variable $newdate in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 24
+[28-Aug-2023 12:48:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`apnalead`.`user_billings`, CONSTRAINT `user_billings_ibfk_1` FOREIGN KEY (`user_billing_plan_main_id`) REFERENCES `config_plans` (`plan_id`)) in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO use...')
+#1 D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php(38): INSERT('user_billings', Array)
+#2 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[28-Aug-2023 12:52:44 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:52:44 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:54:15 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:54:15 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:58:09 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:58:09 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:59:21 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:59:21 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 12:59:21 Asia/Calcutta] PHP Warning:  Undefined array key "PlanPeriod" in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 18
+[28-Aug-2023 12:59:21 Asia/Calcutta] PHP Warning:  Undefined array key "PlanPeriod" in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 20
+[28-Aug-2023 12:59:21 Asia/Calcutta] PHP Warning:  Undefined array key "PlanPeriod" in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 22
+[28-Aug-2023 12:59:21 Asia/Calcutta] PHP Warning:  Undefined variable $newdate in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 26
+[28-Aug-2023 13:03:07 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 13:03:07 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 13:08:45 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\receipt\index.php on line 12
+[28-Aug-2023 13:08:45 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\receipt\index.php on line 12
+[28-Aug-2023 13:08:45 Asia/Calcutta] PHP Warning:  include(./../assets/FooterFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\receipt\index.php on line 142
+[28-Aug-2023 13:08:45 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/FooterFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\receipt\index.php on line 142
+[28-Aug-2023 13:09:19 Asia/Calcutta] PHP Warning:  include(./../assets/FooterFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\receipt\index.php on line 142
+[28-Aug-2023 13:09:19 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/FooterFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\receipt\index.php on line 142
+[28-Aug-2023 13:18:35 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 13:18:35 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 16:33:01 Asia/Calcutta] PHP Warning:  Undefined array key "payment_error" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 129
+[28-Aug-2023 16:34:00 Asia/Calcutta] PHP Warning:  Undefined array key "payment_error" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 129
+[28-Aug-2023 16:36:51 Asia/Calcutta] PHP Warning:  Undefined array key "payment_error" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 131
+[28-Aug-2023 16:37:15 Asia/Calcutta] PHP Warning:  Undefined array key "payment_error" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 131
+[28-Aug-2023 16:37:17 Asia/Calcutta] PHP Warning:  Undefined array key "payment_error" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 131
+[28-Aug-2023 16:37:17 Asia/Calcutta] PHP Warning:  Undefined array key "payment_error" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 131
+[28-Aug-2023 16:37:18 Asia/Calcutta] PHP Warning:  Undefined array key "payment_error" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 131
+[28-Aug-2023 16:37:18 Asia/Calcutta] PHP Warning:  Undefined array key "payment_error" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 131
+[28-Aug-2023 16:37:19 Asia/Calcutta] PHP Warning:  Undefined array key "payment_error" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 131
+[28-Aug-2023 16:37:19 Asia/Calcutta] PHP Warning:  Undefined array key "payment_error" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 131
+[28-Aug-2023 16:52:16 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 16:52:16 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 16:55:15 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[28-Aug-2023 16:56:12 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 189
+[28-Aug-2023 17:00:45 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 17:00:45 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[28-Aug-2023 17:06:11 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[28-Aug-2023 17:18:46 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32

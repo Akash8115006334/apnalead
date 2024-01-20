@@ -1,0 +1,205 @@
+[11-Apr-2023 15:08:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\campustimes\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\campustimes\admin\projects\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\campustimes\include\admin\header.php on line 62
+[11-Apr-2023 15:11:59 Asia/Calcutta] PHP Warning:  Undefined array key "SHORT_DESCRIPTION" in C:\xampp\htdocs\saleskumar\controller\configcontroller.php on line 15
+[11-Apr-2023 15:13:18 Asia/Calcutta] PHP Warning:  Undefined array key "SHORT_DESCRIPTION" in C:\xampp\htdocs\saleskumar\controller\configcontroller.php on line 15
+[11-Apr-2023 15:18:04 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172
+[11-Apr-2023 15:18:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:50 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:18:51 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 259
+[11-Apr-2023 15:26:47 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\saleskumar\require\module\request.php on line 95
+[11-Apr-2023 15:26:47 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\saleskumar\require\module\request.php on line 95
+[11-Apr-2023 16:06:29 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\saleskumar\controller\LeadsController.php on line 260
+[11-Apr-2023 16:06:29 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0='LeadUniversityName'  where LeadsId='179'' at line 1 in C:\xampp\htdocs\saleskumar\require\module\crud.php:13
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\module\crud.php(13): mysqli_query(Object(mysqli), 'UPDATE leads SE...')
+#1 C:\xampp\htdocs\saleskumar\require\module\crud.php(392): UPDATE('UPDATE leads SE...')
+#2 C:\xampp\htdocs\saleskumar\controller\LeadsController.php(268): UPDATE_TABLE('leads', Array, 'LeadsId='179'')
+#3 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 13
+[11-Apr-2023 16:06:46 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\saleskumar\controller\LeadsController.php on line 260
+[11-Apr-2023 16:06:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0='LeadUniversityName'  where LeadsId='179'' at line 1 in C:\xampp\htdocs\saleskumar\require\module\crud.php:13
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\module\crud.php(13): mysqli_query(Object(mysqli), 'UPDATE leads SE...')
+#1 C:\xampp\htdocs\saleskumar\require\module\crud.php(392): UPDATE('UPDATE leads SE...')
+#2 C:\xampp\htdocs\saleskumar\controller\LeadsController.php(268): UPDATE_TABLE('leads', Array, 'LeadsId='179'')
+#3 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 13
+[11-Apr-2023 16:07:32 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in C:\xampp\htdocs\saleskumar\controller\LeadsController.php on line 260

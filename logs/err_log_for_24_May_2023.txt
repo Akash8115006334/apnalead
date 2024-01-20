@@ -1,0 +1,5 @@
+[24-May-2023 12:56:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\saleskumar\admin\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\admin\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\saleskumar\admin\leads\sections\pageHeader.php on line 37

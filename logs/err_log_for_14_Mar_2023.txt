@@ -1,0 +1,107 @@
+[14-Mar-2023 09:09:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php(36): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[14-Mar-2023 09:20:05 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsIssueDate" in C:\xampp\htdocs\roofnassets\controller\AssetsController.php on line 90
+[14-Mar-2023 09:20:05 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsIssueNotes" in C:\xampp\htdocs\roofnassets\controller\AssetsController.php on line 91
+[14-Mar-2023 09:37:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'AssetsIssuedStatus' in 'where clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php(70): TOTAL('SELECT * FROM a...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 83
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 83
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 83
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 83
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 83
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 83
+[14-Mar-2023 09:47:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpBloodGroup in C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php on line 106
+[14-Mar-2023 09:47:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'user_employment_details.UserMainUserId' in 'where clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\birthdays\index.php(77): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:01:02 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[14-Mar-2023 10:20:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ProjectName' in 'where clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php(189): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[14-Mar-2023 10:20:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ProjectName' in 'where clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php(189): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[14-Mar-2023 13:44:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[14-Mar-2023 13:44:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[14-Mar-2023 13:52:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\member\ods\index.php(35): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[14-Mar-2023 13:59:05 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function IfRequested(), 0 passed in C:\xampp\htdocs\roofnassets\admin\hr\leaves\index.php on line 149 and at least 2 expected in C:\xampp\htdocs\roofnassets\require\module\request.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\hr\leaves\index.php(149): IfRequested()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\request.php on line 37
+[14-Mar-2023 15:13:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected single-quoted string ">
+", expecting "," or ";" in C:\xampp\htdocs\roofnassets\include\sections\Add-Leave-Request.php on line 66
+[14-Mar-2023 15:21:41 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in C:\xampp\htdocs\roofnassets\require\module\upload.php:23
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\upload.php(23): explode('.', Array)
+#1 C:\xampp\htdocs\roofnassets\controller\LeaveController.php(27): UPLOAD_FILES('../storage/leav...', NULL, 'Leave_2023-03-1...', '2023-03-15', 'UserLeaveAttach...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[14-Mar-2023 15:22:26 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in C:\xampp\htdocs\roofnassets\require\module\upload.php:23
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\upload.php(23): explode('.', Array)
+#1 C:\xampp\htdocs\roofnassets\controller\LeaveController.php(27): UPLOAD_FILES('../storage/leav...', 'null', 'Leave_2023-03-1...', '2023-03-15', 'UserLeaveAttach...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[14-Mar-2023 16:43:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\member\ods\index.php(35): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62

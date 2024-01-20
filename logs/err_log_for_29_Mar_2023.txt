@@ -1,0 +1,5 @@
+[29-Mar-2023 18:55:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\navix365\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\navix365\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\navix365\include\admin\header.php on line 62

@@ -1,0 +1,150 @@
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:05 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 12:02:12 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 12:10:16 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\app\leads\details\index.php on line 180
+[24-Nov-2023 12:10:39 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\app\leads\details\index.php on line 180
+[24-Nov-2023 12:15:25 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[24-Nov-2023 12:15:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[24-Nov-2023 12:15:31 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 34
+[24-Nov-2023 12:15:31 Asia/Calcutta] PHP Warning:  Undefined array key "LeadRequirementDetails" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 103
+[24-Nov-2023 12:15:31 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectTypeId" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 116
+[24-Nov-2023 12:15:31 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 117
+[24-Nov-2023 12:15:31 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectDescriptions" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 118
+[24-Nov-2023 12:15:31 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[24-Nov-2023 12:15:31 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[24-Nov-2023 12:16:06 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[24-Nov-2023 12:16:06 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[24-Nov-2023 12:16:12 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 34
+[24-Nov-2023 12:16:12 Asia/Calcutta] PHP Warning:  Undefined array key "LeadRequirementDetails" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 103
+[24-Nov-2023 12:16:12 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectTypeId" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 116
+[24-Nov-2023 12:16:12 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 117
+[24-Nov-2023 12:16:12 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectDescriptions" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 118
+[24-Nov-2023 12:16:13 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[24-Nov-2023 12:16:13 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[24-Nov-2023 12:25:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[24-Nov-2023 12:26:01 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 12:34:26 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[24-Nov-2023 12:34:32 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 13:31:37 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[24-Nov-2023 13:31:37 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[24-Nov-2023 13:59:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\test.php on line 38
+[24-Nov-2023 14:03:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[24-Nov-2023 14:03:42 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:17 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[24-Nov-2023 14:25:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:46:14 Asia/Calcutta] PHP Warning:  Undefined array key "Leads" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 263
+[24-Nov-2023 14:46:14 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 263
+[24-Nov-2023 14:46:14 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 298
+[24-Nov-2023 14:46:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:46:41 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 286
+[24-Nov-2023 14:46:41 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:46:41 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 286
+[24-Nov-2023 14:47:05 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:47:05 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 286
+[24-Nov-2023 14:47:05 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:47:05 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 286
+[24-Nov-2023 14:49:56 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonManagedBy" in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 17
+[24-Nov-2023 14:49:56 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonManagedBy" in D:\xampp\htdocs\apnalead\app\leads\index.php on line 517
+[24-Nov-2023 14:50:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonManagedBy" in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 17
+[24-Nov-2023 14:50:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonManagedBy" in D:\xampp\htdocs\apnalead\app\leads\index.php on line 517
+[24-Nov-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:51:08 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 286
+[24-Nov-2023 14:51:57 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:51:57 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 286
+[24-Nov-2023 14:52:26 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:52:26 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 286
+[24-Nov-2023 14:52:26 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:52:26 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 286
+[24-Nov-2023 14:56:45 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\index.php on line 192
+[24-Nov-2023 14:58:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[24-Nov-2023 14:58:27 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 286
+[24-Nov-2023 15:02:14 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 285
+[24-Nov-2023 15:02:14 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 285
+[24-Nov-2023 15:10:11 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 285
+[24-Nov-2023 15:16:08 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 267
+[24-Nov-2023 15:16:39 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 267
+[24-Nov-2023 15:17:12 Asia/Calcutta] PHP Warning:  Attempt to read property "leadsUploadId" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 267
+[24-Nov-2023 15:19:42 Asia/Calcutta] PHP Warning:  Attempt to read property "leadsUploadId" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 267
+[24-Nov-2023 15:23:40 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 267
+[24-Nov-2023 15:24:01 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 267

@@ -1,0 +1,434 @@
+[15-Sep-2023 10:11:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 10:33:33 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 259
+[15-Sep-2023 10:56:05 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 10:56:14 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[15-Sep-2023 10:56:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 10:56:40 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[15-Sep-2023 10:58:25 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[15-Sep-2023 11:00:03 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 259
+[15-Sep-2023 11:00:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 259
+[15-Sep-2023 11:36:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 11:37:28 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 12:00:39 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:00:39 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:00:39 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:00:39 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:00:39 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:33 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 166
+[15-Sep-2023 12:06:33 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 166
+[15-Sep-2023 12:06:33 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 166
+[15-Sep-2023 12:06:33 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 166
+[15-Sep-2023 12:06:33 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 166
+[15-Sep-2023 12:06:40 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 166
+[15-Sep-2023 12:06:40 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 166
+[15-Sep-2023 12:06:40 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 166
+[15-Sep-2023 12:06:40 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 166
+[15-Sep-2023 12:06:40 Asia/Calcutta] PHP Warning:  Undefined array key "company_alloted_user_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 12:06:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 166
+[15-Sep-2023 12:12:50 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 163
+[15-Sep-2023 12:12:50 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 163
+[15-Sep-2023 12:12:50 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 163
+[15-Sep-2023 12:24:21 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:24:21 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:24:21 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:24:21 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:24:21 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:28:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:28:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:28:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:28:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:28:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:44:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:44:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:44:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:44:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:44:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:46:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:46:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:46:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:46:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:46:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:05 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 300
+[15-Sep-2023 12:47:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:19 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 300
+[15-Sep-2023 12:47:19 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 304
+[15-Sep-2023 12:47:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:30 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 300
+[15-Sep-2023 12:47:30 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 304
+[15-Sep-2023 12:47:30 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:30 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:30 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:30 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:47:30 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:48:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:48:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:48:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:48:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:48:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:49:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:57:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:57:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:57:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:57:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:57:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:57:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:57:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:57:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:57:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:57:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:58:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:58:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:58:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:58:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:58:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:58:34 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 300
+[15-Sep-2023 12:58:34 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 304
+[15-Sep-2023 12:58:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:58:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:58:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:58:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 12:58:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:08:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:08:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:08:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:08:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:08:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:09:09 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:09:09 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:09:09 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:09:09 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:09:09 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:11:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:11:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:11:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:11:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:11:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:11:03 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:11:03 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:11:03 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:11:03 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:11:03 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:12:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:12:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:12:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:12:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:12:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:13:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in D:\xampp\htdocs\apnalead\app\Setup\3\index.php:179
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 179
+[15-Sep-2023 13:13:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:13:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:13:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:13:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:13:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:19:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:20:14 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:20:14 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:20:14 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:20:14 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:20:14 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:21:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:21:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:21:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:21:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:21:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:23:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:23:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:23:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:23:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:23:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:23:56 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:23:56 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:23:56 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:23:56 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:23:56 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:26:15 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:26:15 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:26:15 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:26:15 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:26:15 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:27:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:27:16 Asia/Calcutta] PHP Warning:  Undefined array key "UserMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 13:27:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:27:16 Asia/Calcutta] PHP Warning:  Undefined array key "UserMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 13:27:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:27:16 Asia/Calcutta] PHP Warning:  Undefined array key "UserMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 13:27:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:27:16 Asia/Calcutta] PHP Warning:  Undefined array key "UserMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 13:27:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:27:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:27:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:27:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:27:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:27:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:29:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:31:17 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:31:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:31:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 13:31:41 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:31:41 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:31:41 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:31:41 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:31:41 Asia/Calcutta] PHP Warning:  Undefined variable $ReportingMember in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 169
+[15-Sep-2023 13:31:41 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:32:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:32:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:32:40 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 13:32:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:32:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:32:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:33:16 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 13:33:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:33:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:33:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:33:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:34:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:34:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:34:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:34:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:36:08 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:36:08 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:36:08 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:36:08 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:40:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:40:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:40:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:40:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:42:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 13:42:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:42:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:42:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:42:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:42:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 13:43:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:16 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:43:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:45:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:45:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:45:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:45:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:45:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:45:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:51:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:51:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:51:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:51:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:51:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:51:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:54:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:54:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:54:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:54:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:54:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:54:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:55:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:55:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:55:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:55:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:55:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:55:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:58:37 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:58:58 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 13:59:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 13:59:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:01:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:01:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:01:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:01:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:01:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 14:01:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:01:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:01:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:02:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:02:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:02:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:03:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:03:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:03:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:04:35 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:04:35 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:04:35 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:04:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:04:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:04:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:05:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:05:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:05:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:05:38 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:05:38 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:05:38 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:06:48 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[15-Sep-2023 14:07:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:07:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:07:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:09:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:09:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:09:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:10:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:10:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:10:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:11:50 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:11:50 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:11:50 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 47
+[15-Sep-2023 14:27:17 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[15-Sep-2023 14:27:28 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[15-Sep-2023 14:45:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[15-Sep-2023 14:45:41 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[15-Sep-2023 14:46:17 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[15-Sep-2023 14:46:17 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[15-Sep-2023 14:46:22 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[15-Sep-2023 14:46:22 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[15-Sep-2023 14:46:43 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[15-Sep-2023 14:46:43 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 224
+[15-Sep-2023 15:59:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 16:00:12 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 16:00:12 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 16
+[15-Sep-2023 16:00:12 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[15-Sep-2023 16:00:22 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 16
+[15-Sep-2023 16:00:22 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[15-Sep-2023 16:00:26 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 16:00:34 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[15-Sep-2023 16:01:18 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[15-Sep-2023 16:01:43 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 16:02:32 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 16:02:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 16:03:17 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 16:03:17 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 16
+[15-Sep-2023 16:03:17 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[15-Sep-2023 16:15:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 16:15:58 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 16:16:10 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 16:16:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 16:18:13 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[15-Sep-2023 16:18:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in D:\xampp\htdocs\apnalead\app\users\details\index.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\users\details\index.php on line 19
+[15-Sep-2023 16:19:51 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 16:20:34 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 16:21:03 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 16:21:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 16:27:18 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[15-Sep-2023 16:27:51 Asia/Calcutta] PHP Warning:  Undefined variable $newdate in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 14
+[15-Sep-2023 16:27:51 Asia/Calcutta] PHP Warning:  Undefined variable $month in D:\xampp\htdocs\apnalead\app\receipt\index.php on line 121
+[15-Sep-2023 16:31:45 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 16:32:16 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[15-Sep-2023 16:34:54 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[15-Sep-2023 16:36:42 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 217
+[15-Sep-2023 16:36:42 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 224
+[15-Sep-2023 16:36:42 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 16:36:47 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 270
+[15-Sep-2023 16:37:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 16:37:38 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 16:38:05 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[15-Sep-2023 16:57:57 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 16:59:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 17:00:01 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 17:00:07 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 17:21:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 136
+[15-Sep-2023 17:21:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 152
+[15-Sep-2023 17:22:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 136
+[15-Sep-2023 17:22:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 152
+[15-Sep-2023 17:54:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[15-Sep-2023 17:54:53 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[15-Sep-2023 17:57:52 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5

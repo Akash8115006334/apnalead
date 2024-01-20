@@ -1,0 +1,400 @@
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:03 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[12-Oct-2023 10:49:11 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $display in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Undefined variable $display in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 11:25:05 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 11:43:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[12-Oct-2023 11:44:21 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[12-Oct-2023 11:44:26 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[12-Oct-2023 11:44:45 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[12-Oct-2023 12:11:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[12-Oct-2023 12:21:34 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[12-Oct-2023 12:21:34 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 217
+[12-Oct-2023 12:21:34 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[12-Oct-2023 12:21:34 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 217
+[12-Oct-2023 12:21:34 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[12-Oct-2023 12:21:34 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 217
+[12-Oct-2023 12:21:34 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[12-Oct-2023 12:21:34 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 217
+[12-Oct-2023 12:21:34 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[12-Oct-2023 12:21:34 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadProjectsRef" on string in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 217
+[12-Oct-2023 12:38:52 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 255
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Undefined variable $display in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 12:57:17 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Undefined variable $display in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\leads\add.php on line 365
+[12-Oct-2023 13:00:53 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\leads\add.php(365): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $display in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\leads\add.php on line 365
+[12-Oct-2023 13:01:34 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\leads\add.php(365): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $display in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\leads\add.php on line 365
+[12-Oct-2023 13:02:03 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\leads\add.php(365): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Undefined variable $display in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:02:25 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Undefined variable $display in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:02:34 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 212
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Undefined variable $display in D:\xampp\htdocs\apnalead\app\leads\add.php on line 231
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 234
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 243
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Undefined variable $Status in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:03:54 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\leads\add.php on line 245
+[12-Oct-2023 13:05:49 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:05:49 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:06:02 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:06:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:07:06 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:07:06 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:08:12 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:08:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:08:39 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:08:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:09:32 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:09:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:09:52 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:09:52 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:13:18 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:13:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:20:46 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 13:20:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:29:59 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:29:59 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:47:00 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:47:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:47:34 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 94
+[12-Oct-2023 14:47:34 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:47:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:49:53 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:49:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:50:22 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 94
+[12-Oct-2023 14:50:22 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:50:22 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:51:58 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 94
+[12-Oct-2023 14:51:58 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:51:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:53:25 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:53:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:54:34 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:54:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:54:35 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:54:35 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:56:00 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:56:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:56:03 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:56:03 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:57:47 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:57:47 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:57:50 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 14:57:50 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 15:00:12 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 15:00:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 15:01:01 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 15:01:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 15:01:25 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 95
+[12-Oct-2023 15:01:25 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 15:01:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:14:35 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:14:35 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:15:57 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:15:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:16:11 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:16:11 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:16:17 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:16:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:16:21 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:16:21 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:16:23 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:16:23 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:17:14 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:17:14 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:17:48 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:17:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:17:53 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:17:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:00 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:07 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:07 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:10 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:10 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:15 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:15 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:29 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:57 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:18:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:19:09 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:19:09 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:19:12 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:19:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:19:59 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:19:59 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:20:26 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:20:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:20:30 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:20:30 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:24:41 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:24:41 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:25:52 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:25:52 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:25:55 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:25:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:25:58 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:25:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:27:31 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:27:31 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:28:11 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:28:11 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:28:17 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:28:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:28:37 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:28:37 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:28:43 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:28:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:30:55 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:30:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:36:40 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:36:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:37:30 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:37:30 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:37:34 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:37:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:38:51 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:38:51 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:15 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:15 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:19 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:23 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:23 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:32 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:45 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:39:45 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:40:03 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:40:03 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:40:26 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:40:26 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:41:25 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:41:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:42:20 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:42:20 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:42:35 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:42:35 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:42:54 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:42:54 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:43:21 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:43:21 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:50:11 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:50:11 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:51:51 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:51:51 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:52:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonCreatedAt in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 95
+[12-Oct-2023 17:52:30 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:52:30 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:52:45 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:52:45 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:55:40 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:55:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:56:40 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:56:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:56:48 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:56:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:57:42 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180
+[12-Oct-2023 17:57:42 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 180

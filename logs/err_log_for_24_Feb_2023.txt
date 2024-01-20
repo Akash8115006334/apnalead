@@ -1,0 +1,134 @@
+[24-Feb-2023 09:34:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Online-Payment-Details.php on line 11
+[24-Feb-2023 09:46:10 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Online-Payment-Details.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Online-Payment-Details.php on line 11
+[24-Feb-2023 09:46:49 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Online-Payment-Details.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Wallet-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cheque-Payment-Details.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Cash-Payments.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\roofnassets\include\sections\Update-Online-Payment-Details.php on line 11
+[24-Feb-2023 09:49:34 Asia/Calcutta] PHP Warning:  Attempt to read property "AssetsId" on null in C:\xampp\htdocs\roofnassets\include\sections\Update-Online-Payment-Details.php on line 11
+[24-Feb-2023 10:48:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[24-Feb-2023 10:57:03 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[24-Feb-2023 11:03:53 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\roofnassets\require/web/): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\require\web-modules.php on line 7
+[24-Feb-2023 11:03:53 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\roofnassets\require/web/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\require\web-modules.php on line 7
+[24-Feb-2023 11:03:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[24-Feb-2023 11:38:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php(35): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[24-Feb-2023 11:55:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\member\ods\index.php(35): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[24-Feb-2023 12:24:25 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[24-Feb-2023 12:24:45 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[24-Feb-2023 12:31:18 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[24-Feb-2023 12:32:08 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[24-Feb-2023 14:02:41 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[24-Feb-2023 15:05:30 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[24-Feb-2023 15:16:31 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[24-Feb-2023 15:17:06 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[24-Feb-2023 15:17:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[24-Feb-2023 15:18:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[24-Feb-2023 15:18:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[24-Feb-2023 15:18:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[24-Feb-2023 15:18:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[24-Feb-2023 15:25:07 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 74
+[24-Feb-2023 15:25:07 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 75
+[24-Feb-2023 15:25:07 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 76
+[24-Feb-2023 15:25:07 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 114
+[24-Feb-2023 15:25:07 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 128
+[24-Feb-2023 15:25:07 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 142
+[24-Feb-2023 15:25:07 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: openssl_encrypt(): Argument #1 ($data) must be of type string, array given in C:\xampp\htdocs\roofnassets\require\module\enc-dec.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\enc-dec.php(15): openssl_encrypt(Object(SensitiveParameterValue), 'AES-256-CBC', Object(SensitiveParameterValue), 0, 'd9ec53dadaf1e96...')
+#1 C:\xampp\htdocs\roofnassets\controller\RegistrationController.php(281): SECURE(Array, 'e')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\enc-dec.php on line 15
+[24-Feb-2023 15:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 74
+[24-Feb-2023 15:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 75
+[24-Feb-2023 15:25:18 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 76
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:26:48 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 86
+[24-Feb-2023 15:27:39 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-New-Assets.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 122
+[24-Feb-2023 15:27:39 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-New-Assets.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 122

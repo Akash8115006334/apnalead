@@ -1,0 +1,27 @@
+[06-Mar-2023 15:53:49 Asia/Calcutta] PHP Warning:  Undefined array key "LOGIN_USER_ID" in C:\xampp\htdocs\roofnassets\require\module\autoload.php on line 70
+[06-Mar-2023 15:53:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[06-Mar-2023 15:53:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[06-Mar-2023 15:59:54 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 74
+[06-Mar-2023 15:59:54 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 75
+[06-Mar-2023 15:59:54 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 76
+[06-Mar-2023 15:59:54 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 113
+[06-Mar-2023 15:59:54 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 127
+[06-Mar-2023 15:59:54 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 141
+[06-Mar-2023 22:18:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[06-Mar-2023 22:18:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62

@@ -1,0 +1,227 @@
+[21-Feb-2023 09:17:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[21-Feb-2023 09:17:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:00:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegProjectId in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 125
+[21-Feb-2023 10:38:23 Asia/Calcutta] PHP Warning:  Undefined variable $BookingSql in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 90
+[21-Feb-2023 10:38:23 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php(90): FETCH(NULL, 'BookingForProje...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:39:17 Asia/Calcutta] PHP Warning:  Undefined variable $selected in C:\xampp\htdocs\roofnassets\admin\crm\payments\index.php on line 87
+[21-Feb-2023 10:54:44 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[21-Feb-2023 11:11:37 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GET_DATA(), 1 passed in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 25 and at least 3 expected in C:\xampp\htdocs\roofnassets\require\module\crud.php:266
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\team\details\index.php(25): GET_DATA('UserSalutation')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 266
+[21-Feb-2023 11:11:43 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GET_DATA(), 1 passed in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 25 and at least 3 expected in C:\xampp\htdocs\roofnassets\require\module\crud.php:266
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\team\details\index.php(25): GET_DATA('UserSalutation')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 266
+[21-Feb-2023 11:13:38 Asia/Calcutta] PHP Warning:  Undefined variable $REG_UserId in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 25
+[21-Feb-2023 11:13:38 Asia/Calcutta] PHP Warning:  Undefined variable $REG_UserId in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 25
+[21-Feb-2023 11:19:05 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GET_DATA(), 1 passed in C:\xampp\htdocs\roofnassets\admin\teams\details\index.php on line 28 and at least 3 expected in C:\xampp\htdocs\roofnassets\require\module\crud.php:266
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\teams\details\index.php(28): GET_DATA('UserSalutation')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 266
+[21-Feb-2023 11:23:41 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[21-Feb-2023 11:23:55 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GET_DATA(), 1 passed in C:\xampp\htdocs\roofnassets\admin\leads\details\index.php on line 34 and at least 3 expected in C:\xampp\htdocs\roofnassets\require\module\crud.php:266
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\leads\details\index.php(34): GET_DATA('LeadPersonFulln...')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 266
+[21-Feb-2023 11:23:59 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GET_DATA(), 1 passed in C:\xampp\htdocs\roofnassets\admin\leads\details\index.php on line 34 and at least 3 expected in C:\xampp\htdocs\roofnassets\require\module\crud.php:266
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\leads\details\index.php(34): GET_DATA('LeadPersonFulln...')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 266
+[21-Feb-2023 11:28:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[21-Feb-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[21-Feb-2023 11:30:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\sections\VisitorUpdatePopWindow.php on line 60
+[21-Feb-2023 11:38:52 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[21-Feb-2023 11:42:40 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[21-Feb-2023 11:42:59 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[21-Feb-2023 11:43:29 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GET_DATA(), 1 passed in C:\xampp\htdocs\roofnassets\admin\digital\teams\details\index.php on line 28 and at least 3 expected in C:\xampp\htdocs\roofnassets\require\module\crud.php:266
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\digital\teams\details\index.php(28): GET_DATA('UserSalutation')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 266
+[21-Feb-2023 11:50:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[21-Feb-2023 12:35:23 Asia/Calcutta] PHP Warning:  include(info.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 54
+[21-Feb-2023 12:35:23 Asia/Calcutta] PHP Warning:  include(): Failed opening 'info.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 54
+[21-Feb-2023 12:35:23 Asia/Calcutta] PHP Warning:  include(common.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 59
+[21-Feb-2023 12:35:23 Asia/Calcutta] PHP Warning:  include(): Failed opening 'common.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 59
+[21-Feb-2023 12:37:09 Asia/Calcutta] PHP Warning:  include(info.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 52
+[21-Feb-2023 12:37:09 Asia/Calcutta] PHP Warning:  include(): Failed opening 'info.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 52
+[21-Feb-2023 12:37:09 Asia/Calcutta] PHP Warning:  include(common.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 57
+[21-Feb-2023 12:37:09 Asia/Calcutta] PHP Warning:  include(): Failed opening 'common.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 57
+[21-Feb-2023 12:37:09 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 78
+[21-Feb-2023 12:37:09 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\admin\team\details\index.php(78): FETCH(NULL, 'UserSalutation')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[21-Feb-2023 12:43:53 Asia/Calcutta] PHP Warning:  include(info.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 52
+[21-Feb-2023 12:43:53 Asia/Calcutta] PHP Warning:  include(): Failed opening 'info.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 52
+[21-Feb-2023 12:43:53 Asia/Calcutta] PHP Warning:  include(common.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 57
+[21-Feb-2023 12:43:53 Asia/Calcutta] PHP Warning:  include(): Failed opening 'common.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 57
+[21-Feb-2023 12:43:53 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 78
+[21-Feb-2023 12:43:53 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\admin\team\details\index.php(78): FETCH(NULL, 'UserSalutation')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[21-Feb-2023 13:38:05 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[21-Feb-2023 13:52:01 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[21-Feb-2023 14:24:28 Asia/Calcutta] PHP Warning:  include(info.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 52
+[21-Feb-2023 14:24:28 Asia/Calcutta] PHP Warning:  include(): Failed opening 'info.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 52
+[21-Feb-2023 14:24:28 Asia/Calcutta] PHP Warning:  include(common.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 57
+[21-Feb-2023 14:24:28 Asia/Calcutta] PHP Warning:  include(): Failed opening 'common.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 57
+[21-Feb-2023 14:24:28 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 78
+[21-Feb-2023 14:24:28 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\admin\team\details\index.php(78): FETCH(NULL, 'UserSalutation')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[21-Feb-2023 14:24:53 Asia/Calcutta] PHP Warning:  include(info.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 52
+[21-Feb-2023 14:24:53 Asia/Calcutta] PHP Warning:  include(): Failed opening 'info.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 52
+[21-Feb-2023 14:24:53 Asia/Calcutta] PHP Warning:  include(common.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 57
+[21-Feb-2023 14:24:53 Asia/Calcutta] PHP Warning:  include(): Failed opening 'common.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 57
+[21-Feb-2023 14:24:53 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\roofnassets\admin\team\details\index.php on line 78
+[21-Feb-2023 14:24:53 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\admin\team\details\index.php(78): FETCH(NULL, 'UserSalutation')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[21-Feb-2023 14:34:42 Asia/Calcutta] PHP Warning:  Undefined array key "CustomerName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[21-Feb-2023 14:38:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[21-Feb-2023 14:52:20 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\roofnassets\admin\team\index.php on line 206
+[21-Feb-2023 14:52:20 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\admin\team\index.php(206): FETCH(NULL, 'UserProfileImag...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[21-Feb-2023 14:55:38 Asia/Calcutta] PHP Warning:  Undefined variable $AuthAppUser("UserProfileImage")1 in C:\xampp\htdocs\roofnassets\admin\team\details\sections\DataCapture.php on line 12
+[21-Feb-2023 14:55:38 Asia/Calcutta] PHP Warning:  Undefined variable $AuthAppUser("UserProfileImage")1 in C:\xampp\htdocs\roofnassets\admin\team\details\sections\DataCapture.php on line 15
+[21-Feb-2023 15:49:14 Asia/Calcutta] PHP Warning:  include(../../..admin/team/details/sections/Navbar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\sections\EmpProfile.php on line 41
+[21-Feb-2023 15:49:14 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../..admin/team/details/sections/Navbar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\sections\EmpProfile.php on line 41
+[21-Feb-2023 16:20:49 Asia/Calcutta] PHP Warning:  include(views/primary_info.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:20:49 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/primary_info.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:21:35 Asia/Calcutta] PHP Warning:  include(views/primary_info.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:21:35 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/primary_info.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:21:39 Asia/Calcutta] PHP Warning:  include(views/emp_details.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:21:39 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/emp_details.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:22:55 Asia/Calcutta] PHP Warning:  include(views/primary_info.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:22:55 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/primary_info.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:23:35 Asia/Calcutta] PHP Warning:  include(views/emp_details.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:23:35 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/emp_details.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:23:56 Asia/Calcutta] PHP Warning:  include(views/attandance.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:23:56 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/attandance.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:24:16 Asia/Calcutta] PHP Warning:  include(views/documents.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:24:16 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/documents.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:24:34 Asia/Calcutta] PHP Warning:  include(views/transactions.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:24:34 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/transactions.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:25:23 Asia/Calcutta] PHP Warning:  include(views/reward_apps.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:25:23 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/reward_apps.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:25:44 Asia/Calcutta] PHP Warning:  include(views/training.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:25:44 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/training.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:26:05 Asia/Calcutta] PHP Warning:  include(views/notifications.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:26:05 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/notifications.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:26:19 Asia/Calcutta] PHP Warning:  include(views/assets.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:26:19 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/assets.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:26:41 Asia/Calcutta] PHP Warning:  include(views/team.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:26:41 Asia/Calcutta] PHP Warning:  include(): Failed opening 'views/team.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php on line 8
+[21-Feb-2023 16:39:12 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\roofnassets\admin\team\details\views\primary_info.php on line 20
+[21-Feb-2023 16:39:12 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\admin\team\details\views\primary_info.php(20): FETCH(NULL, 'UserSalutation')
+#3 C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php(8): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\admin\team\details\index.php(50): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[21-Feb-2023 16:39:45 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\roofnassets\admin\team\details\views\primary_info.php on line 20
+[21-Feb-2023 16:39:45 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\admin\team\details\views\primary_info.php(20): FETCH(NULL, 'UserSalutation')
+#3 C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php(8): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\admin\team\details\index.php(50): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[21-Feb-2023 16:52:33 Asia/Calcutta] PHP Warning:  Undefined variable $AddressSql in C:\xampp\htdocs\roofnassets\admin\team\details\views\primary_info.php on line 93
+[21-Feb-2023 16:52:33 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\admin\team\details\views\primary_info.php(93): FETCH(NULL, 'UserStreetAddre...')
+#3 C:\xampp\htdocs\roofnassets\admin\team\details\LoadViews.php(8): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\admin\team\details\index.php(50): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114

@@ -1,0 +1,68 @@
+[12-Jun-2023 11:53:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 45
+[12-Jun-2023 11:53:47 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 45
+[12-Jun-2023 11:53:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 45
+[12-Jun-2023 11:53:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 45
+[12-Jun-2023 11:53:53 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 45
+[12-Jun-2023 11:53:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 45
+[12-Jun-2023 11:54:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 45
+[12-Jun-2023 11:54:34 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 45
+[12-Jun-2023 11:54:34 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 45
+[12-Jun-2023 12:02:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:02:02 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:02:02 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:02:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 54
+[12-Jun-2023 12:03:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:03:11 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:03:11 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:03:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 54
+[12-Jun-2023 12:03:36 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 54
+[12-Jun-2023 12:04:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\saleskumar\require\module\autoload.php:54
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\modules.php(50): include()
+#1 C:\xampp\htdocs\saleskumar\admin\index.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 54
+[12-Jun-2023 12:04:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:04:28 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:04:28 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:06:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:06:16 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:06:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 56
+[12-Jun-2023 12:08:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:08:11 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:08:11 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:14:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:14:07 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:14:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:15:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\saleskumar\require\module\autoload.php:55
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\modules.php(50): include()
+#1 C:\xampp\htdocs\saleskumar\admin\index.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 55
+[12-Jun-2023 12:15:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:15:31 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:15:31 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:18:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:18:21 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:18:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:36:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:36:57 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:36:57 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 57
+[12-Jun-2023 12:37:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in C:\xampp\htdocs\saleskumar\require\module\autoload.php:54
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\modules.php(50): include()
+#1 C:\xampp\htdocs\saleskumar\admin\index.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 54
+[12-Jun-2023 12:59:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in C:\xampp\htdocs\saleskumar\require\module\autoload.php:54
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\modules.php(50): include()
+#1 C:\xampp\htdocs\saleskumar\admin\index.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\autoload.php on line 54
+[12-Jun-2023 14:31:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\saleskumar\include\admin\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\saleskumar\include\admin\header.php on line 20

@@ -1,0 +1,351 @@
+[07-Mar-2023 09:31:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:28 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 39
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 40
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 42
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Undefined variable $Data in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 10:21:29 Asia/Calcutta] PHP Warning:  Attempt to read property "OdMainUserId" on null in C:\xampp\htdocs\roofnassets\include\sections\Add-New-Rewards.php on line 43
+[07-Mar-2023 18:59:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[07-Mar-2023 18:59:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[07-Mar-2023 23:01:21 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\roofnassets\admin\hr\rewards\index.php:115
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\hr\rewards\index.php on line 115
+[07-Mar-2023 23:01:30 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\roofnassets\admin\hr\rewards\index.php:115
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\hr\rewards\index.php on line 115

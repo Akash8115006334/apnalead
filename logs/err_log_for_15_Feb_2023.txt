@@ -1,0 +1,89 @@
+[15-Feb-2023 12:06:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[15-Feb-2023 13:15:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[15-Feb-2023 13:17:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[15-Feb-2023 13:18:14 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 13:22:32 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 61
+[15-Feb-2023 13:22:32 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 62
+[15-Feb-2023 13:22:32 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 63
+[15-Feb-2023 13:22:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 100
+[15-Feb-2023 13:22:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 114
+[15-Feb-2023 13:22:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 128
+[15-Feb-2023 14:38:36 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 15:02:18 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 15:03:46 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[15-Feb-2023 15:03:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 15:04:04 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + int in C:\xampp\htdocs\roofnassets\admin\crm\bookings\create\project-details.php:126
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\crm\bookings\create\project-details.php on line 126
+[15-Feb-2023 15:20:07 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[15-Feb-2023 15:59:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[15-Feb-2023 15:59:58 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:00:49 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:00:56 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:01:04 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:01:38 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:01:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:01:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:02:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:03:33 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:03:45 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:04:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82
+[15-Feb-2023 16:07:23 Asia/Calcutta] PHP Warning:  include(../../../../admin/crm/custs/details/views/cancellation.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\crm\custs\details\index.php on line 61
+[15-Feb-2023 16:07:23 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../../admin/crm/custs/details/views/cancellation.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\crm\custs\details\index.php on line 61
+[15-Feb-2023 16:08:56 Asia/Calcutta] PHP Warning:  Undefined variable $Booking in C:\xampp\htdocs\roofnassets\admin\crm\custs\details\views\bookings.php on line 35
+[15-Feb-2023 16:08:56 Asia/Calcutta] PHP Warning:  Attempt to read property "bookingId" on null in C:\xampp\htdocs\roofnassets\admin\crm\custs\details\views\bookings.php on line 35
+[15-Feb-2023 16:18:54 Asia/Calcutta] PHP Warning:  Undefined variable $Code in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 16
+[15-Feb-2023 16:18:54 Asia/Calcutta] PHP Warning:  Undefined variable $BookingSql in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 21
+[15-Feb-2023 16:18:54 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php(21): FETCH(NULL, 'BookingProjectP...')
+#3 C:\xampp\htdocs\roofnassets\admin\crm\custs\details\views\bookings.php(44): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\admin\crm\custs\details\index.php(53): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[15-Feb-2023 16:18:59 Asia/Calcutta] PHP Warning:  Undefined variable $Code in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 16
+[15-Feb-2023 16:18:59 Asia/Calcutta] PHP Warning:  Undefined variable $BookingSql in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 21
+[15-Feb-2023 16:18:59 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php(21): FETCH(NULL, 'BookingProjectP...')
+#3 C:\xampp\htdocs\roofnassets\admin\crm\custs\details\views\bookings.php(44): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\admin\crm\custs\details\index.php(53): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[15-Feb-2023 16:26:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegUnitType in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 134
+[15-Feb-2023 16:26:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UnitRate in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 139
+[15-Feb-2023 16:26:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegUnitType in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 134
+[15-Feb-2023 16:26:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UnitRate in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 139
+[15-Feb-2023 16:26:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegUnitType in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 134
+[15-Feb-2023 16:26:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UnitRate in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 139
+[15-Feb-2023 16:27:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegUnitType in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 134
+[15-Feb-2023 16:27:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UnitRate in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 139
+[15-Feb-2023 16:29:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegUnitType in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 139
+[15-Feb-2023 16:30:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegUnitType in C:\xampp\htdocs\roofnassets\include\sections\Update-Registration-Details.php on line 134
+[15-Feb-2023 16:37:17 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 343
+[15-Feb-2023 16:37:17 Asia/Calcutta] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 343
+[15-Feb-2023 16:37:17 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 343
+[15-Feb-2023 16:37:17 Asia/Calcutta] PHP Warning:  Undefined array key "RegProjectCost" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 356
+[15-Feb-2023 16:37:26 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 343
+[15-Feb-2023 16:37:26 Asia/Calcutta] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 343
+[15-Feb-2023 16:37:26 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 343
+[15-Feb-2023 16:37:26 Asia/Calcutta] PHP Warning:  Undefined array key "RegProjectCost" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 356
+[15-Feb-2023 16:37:34 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 343
+[15-Feb-2023 16:37:34 Asia/Calcutta] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 343
+[15-Feb-2023 16:37:34 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 343
+[15-Feb-2023 16:37:34 Asia/Calcutta] PHP Warning:  Undefined array key "RegProjectCost" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 356
+[15-Feb-2023 16:41:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 84
+[15-Feb-2023 16:42:59 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\roofnassets\include\sections\AddNewBookings.php on line 82

@@ -1,0 +1,279 @@
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 17
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:29 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[04-Jan-2024 10:11:58 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 10:11:58 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 10:11:58 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 10:13:40 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 10:13:40 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 10:13:40 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 10:19:35 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 10:19:35 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 10:19:35 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 10:23:13 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 17
+[04-Jan-2024 10:23:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 10:23:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 10:23:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 10:23:13 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[04-Jan-2024 10:23:16 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 10:23:16 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 10:23:16 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 10:23:16 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[04-Jan-2024 10:23:19 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[04-Jan-2024 10:23:42 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 10:23:42 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 10:23:42 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 10:28:54 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 10:28:54 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 10:28:54 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:07:33 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:07:33 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:07:33 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:07:46 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[04-Jan-2024 11:07:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[04-Jan-2024 11:08:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 46
+[04-Jan-2024 11:08:03 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[04-Jan-2024 11:08:03 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[04-Jan-2024 11:08:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:08:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:08:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:10:25 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:10:25 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:10:25 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:15:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:15:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:15:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:15:32 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:15:32 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:15:32 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:39:39 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:39:39 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:39:39 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:41:00 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:41:00 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:41:00 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:47:25 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:47:25 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:47:25 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:47:46 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:47:46 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:47:46 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:47:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:47:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:47:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:49:59 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:49:59 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:49:59 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:50:01 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:50:01 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:50:01 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:50:17 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:50:17 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:50:17 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 11:56:47 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 11:56:47 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 11:56:47 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:28:15 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:28:15 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:28:15 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:28:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:28:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:28:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:28:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:28:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:28:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:29:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:29:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:29:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:29:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:29:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:29:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:30:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:30:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:30:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:30:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:30:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:30:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:31:04 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:31:04 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:31:04 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:34:00 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:34:00 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:34:00 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:34:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:34:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:34:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:34:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:34:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:34:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:36:32 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:36:32 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:36:32 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:36:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 12:36:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 12:36:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 12:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpCreatedAt in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 133
+[04-Jan-2024 14:25:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[04-Jan-2024 14:25:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[04-Jan-2024 14:25:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[04-Jan-2024 14:25:54 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[04-Jan-2024 14:26:00 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 14:26:00 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 14:26:00 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 14:42:47 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 14:42:47 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 14:42:47 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 14:42:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 14:42:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 14:42:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 14:45:03 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 14:45:03 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 14:45:03 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 14:56:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 14:56:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 14:56:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 14:57:08 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 14:57:08 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 14:57:08 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 14:57:47 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 14:57:47 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 14:57:47 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 14:58:28 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 14:58:28 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 14:58:28 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 14:59:05 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 14:59:05 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 14:59:05 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 14:59:14 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 14:59:14 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 14:59:14 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 15:00:19 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 15:00:19 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 15:00:19 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 15:00:29 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 15:00:29 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 15:00:29 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 16:49:28 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[04-Jan-2024 16:49:42 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[04-Jan-2024 16:49:47 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[04-Jan-2024 16:55:43 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[04-Jan-2024 16:59:31 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 16:59:31 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 16:59:31 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[04-Jan-2024 18:08:31 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[04-Jan-2024 18:08:31 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[04-Jan-2024 18:08:33 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[04-Jan-2024 18:08:33 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[04-Jan-2024 18:08:33 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213

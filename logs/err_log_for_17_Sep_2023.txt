@@ -1,0 +1,24 @@
+[17-Sep-2023 09:49:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[17-Sep-2023 09:49:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in D:\xampp\htdocs\apnalead\app\users\details\index.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\users\details\index.php on line 19
+[17-Sep-2023 09:49:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in D:\xampp\htdocs\apnalead\app\users\details\index.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\users\details\index.php on line 19
+[17-Sep-2023 09:51:21 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[17-Sep-2023 09:51:29 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[17-Sep-2023 09:58:59 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[17-Sep-2023 09:59:04 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[17-Sep-2023 09:59:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[17-Sep-2023 09:59:49 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[17-Sep-2023 10:00:16 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[17-Sep-2023 10:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 177
+[17-Sep-2023 10:02:20 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 175
+[17-Sep-2023 10:02:25 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 175
+[17-Sep-2023 10:02:39 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 175
+[17-Sep-2023 10:04:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[17-Sep-2023 10:04:13 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 128
+[17-Sep-2023 10:04:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[17-Sep-2023 10:05:07 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32

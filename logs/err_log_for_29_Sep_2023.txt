@@ -1,0 +1,120 @@
+[29-Sep-2023 10:37:53 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[29-Sep-2023 11:57:10 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[29-Sep-2023 11:57:25 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[29-Sep-2023 11:57:32 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[29-Sep-2023 11:58:24 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[29-Sep-2023 11:58:31 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[29-Sep-2023 12:00:20 Asia/Calcutta] PHP Parse error:  Unmatched '}' in D:\xampp\htdocs\apnalead\include\forms\Add-Instant-Feedback.php on line 141
+[29-Sep-2023 12:00:31 Asia/Calcutta] PHP Parse error:  Unmatched '}' in D:\xampp\htdocs\apnalead\include\forms\Add-Instant-Feedback.php on line 141
+[29-Sep-2023 12:44:45 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 300
+[29-Sep-2023 12:47:30 Asia/Calcutta] PHP Warning:  Undefined array key "mycheckbtn" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 303
+[29-Sep-2023 12:47:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeadFollowUpDate in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 303
+[29-Sep-2023 12:49:25 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 300
+[29-Sep-2023 12:49:25 Asia/Calcutta] PHP Warning:  Undefined array key "mycheckbtn" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 303
+[29-Sep-2023 12:49:25 Asia/Calcutta] PHP Warning:  Undefined variable $LeadFollowUpDate in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 303
+[29-Sep-2023 12:53:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 300
+[29-Sep-2023 12:53:49 Asia/Calcutta] PHP Warning:  Undefined array key "mycheckbtn" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 303
+[29-Sep-2023 12:53:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeadFollowUpDate in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 303
+[29-Sep-2023 12:55:36 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 300
+[29-Sep-2023 12:55:36 Asia/Calcutta] PHP Warning:  Undefined array key "mycheckbtn" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 303
+[29-Sep-2023 12:55:36 Asia/Calcutta] PHP Warning:  Undefined variable $LeadFollowUpDate in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 303
+[29-Sep-2023 12:55:52 Asia/Calcutta] PHP Warning:  Undefined variable $LeadFollowUpDate in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 303
+[29-Sep-2023 15:00:04 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[29-Sep-2023 15:08:12 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[29-Sep-2023 15:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $ in D:\xampp\htdocs\apnalead\app\leads\index.php on line 277
+[29-Sep-2023 15:15:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY LeadsId ORDER by LeadPersonStatus ASC limit 0, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(279): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[29-Sep-2023 15:15:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY LeadsId ORDER by LeadPersonStatus ASC limit 0, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(279): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[29-Sep-2023 15:15:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY LeadsId ORDER by LeadPersonStatus ASC limit 0, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(279): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[29-Sep-2023 15:15:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY LeadsId ORDER by LeadPersonStatus ASC limit 0, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(279): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[29-Sep-2023 15:15:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY LeadsId ORDER by LeadPersonStatus ASC limit 0, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(279): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[29-Sep-2023 15:42:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[29-Sep-2023 15:42:40 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 128
+[29-Sep-2023 15:48:04 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[29-Sep-2023 15:48:10 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 136
+[29-Sep-2023 15:53:37 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 128
+[29-Sep-2023 16:03:07 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 118
+[29-Sep-2023 16:03:07 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 131
+[29-Sep-2023 16:07:52 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 118
+[29-Sep-2023 16:07:58 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[29-Sep-2023 16:08:11 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[29-Sep-2023 16:08:31 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 88
+[29-Sep-2023 16:08:31 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 226
+[29-Sep-2023 16:08:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 88
+[29-Sep-2023 16:08:57 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 226
+[29-Sep-2023 16:08:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 88
+[29-Sep-2023 16:08:58 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 226
+[29-Sep-2023 16:08:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 88
+[29-Sep-2023 16:08:58 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 226
+[29-Sep-2023 16:08:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 88
+[29-Sep-2023 16:08:58 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 226
+[29-Sep-2023 16:10:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 88
+[29-Sep-2023 16:10:48 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 226
+[29-Sep-2023 16:11:33 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\users\add.php on line 99
+[29-Sep-2023 16:11:33 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\users\add.php on line 235
+[29-Sep-2023 16:11:33 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[29-Sep-2023 16:11:33 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[29-Sep-2023 16:11:37 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[29-Sep-2023 16:11:46 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[29-Sep-2023 16:14:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[29-Sep-2023 16:15:48 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[29-Sep-2023 16:24:27 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 142
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  Undefined variable $User_Main_ID in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 147
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  Undefined variable $User_Main_ID in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 150
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  Undefined variable $User_Main_ID in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 152
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  Undefined variable $User_Main_ID in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 166
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  Undefined variable $User_Main_ID in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 170
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 186
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 192
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  Undefined variable $User_Phone in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 193
+[29-Sep-2023 16:24:43 Asia/Calcutta] PHP Warning:  Undefined variable $User_Main_ID in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 199
+[29-Sep-2023 16:25:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[29-Sep-2023 16:43:53 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 118
+[29-Sep-2023 16:43:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 177
+[29-Sep-2023 16:43:53 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 183
+[29-Sep-2023 16:43:53 Asia/Calcutta] PHP Warning:  Undefined variable $User_Phone in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 184
+[29-Sep-2023 16:43:56 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[29-Sep-2023 16:43:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 88
+[29-Sep-2023 16:43:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 170
+[29-Sep-2023 16:47:06 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[29-Sep-2023 16:52:57 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[29-Sep-2023 17:25:11 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[29-Sep-2023 17:25:11 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[29-Sep-2023 17:25:11 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[29-Sep-2023 17:25:11 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[29-Sep-2023 17:25:11 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[29-Sep-2023 17:25:11 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[29-Sep-2023 17:31:41 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[29-Sep-2023 17:31:52 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[29-Sep-2023 17:31:52 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246

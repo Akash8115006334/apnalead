@@ -1,0 +1,15 @@
+[27-Feb-2023 10:04:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[27-Feb-2023 10:04:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[27-Feb-2023 10:43:27 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[27-Feb-2023 15:44:27 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[27-Feb-2023 15:56:23 Asia/Calcutta] PHP Warning:  Undefined array key "AllViews" in C:\xampp\htdocs\roofnassets\include\admin\sidebar.php on line 7
+[27-Feb-2023 15:59:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\roofnassets\include\admin\sidebar.php on line 22
+[27-Feb-2023 16:01:36 Asia/Calcutta] PHP Parse error:  Unclosed '(' on line 22 does not match '}' in C:\xampp\htdocs\roofnassets\include\admin\sidebar.php on line 28

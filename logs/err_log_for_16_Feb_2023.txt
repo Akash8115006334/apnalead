@@ -1,0 +1,94 @@
+[16-Feb-2023 10:11:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Feb-2023 10:38:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Feb-2023 10:38:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Feb-2023 10:52:20 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 10:52:20 Asia/Calcutta] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 10:52:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 10:54:20 Asia/Calcutta] PHP Warning:  Undefined variable $Reg in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 122
+[16-Feb-2023 10:54:20 Asia/Calcutta] PHP Warning:  Attempt to read property "RegProjectCost" on null in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 122
+[16-Feb-2023 10:55:50 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 10:55:50 Asia/Calcutta] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 10:55:50 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 11:02:50 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 11:02:50 Asia/Calcutta] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 11:02:50 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 11:07:34 Asia/Calcutta] PHP Warning:  Undefined array key "VIEW_REGISTRATION_RECORD" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 15
+[16-Feb-2023 11:07:34 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 61
+[16-Feb-2023 11:07:34 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 62
+[16-Feb-2023 11:07:34 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 63
+[16-Feb-2023 11:10:29 Asia/Calcutta] PHP Warning:  Undefined array key "VIEW_REGISTRATION_RECORD" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 15
+[16-Feb-2023 11:10:29 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 61
+[16-Feb-2023 11:10:29 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 62
+[16-Feb-2023 11:10:29 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 63
+[16-Feb-2023 11:34:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\reg\details\index.php(48): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Feb-2023 12:06:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Feb-2023 12:46:46 Asia/Calcutta] PHP Warning:  Undefined array key "VIEW_REGISTRATION_RECORD" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 15
+[16-Feb-2023 12:46:46 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 61
+[16-Feb-2023 12:46:46 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 62
+[16-Feb-2023 12:46:46 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 63
+[16-Feb-2023 12:47:47 Asia/Calcutta] PHP Warning:  Undefined array key "BookingPayment,Details" in C:\xampp\htdocs\roofnassets\controller\BookingController.php on line 332
+[16-Feb-2023 12:59:41 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 12:59:41 Asia/Calcutta] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 12:59:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 344
+[16-Feb-2023 13:08:17 Asia/Calcutta] PHP Warning:  Undefined array key "APPLICANTS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 61
+[16-Feb-2023 13:08:17 Asia/Calcutta] PHP Warning:  Undefined array key "NOMINEES" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 62
+[16-Feb-2023 13:08:17 Asia/Calcutta] PHP Warning:  Undefined array key "OTHER_MEMBERS" in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 63
+[16-Feb-2023 13:08:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 101
+[16-Feb-2023 13:08:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 115
+[16-Feb-2023 13:08:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\RegistrationController.php on line 129
+[16-Feb-2023 13:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $Reg in C:\xampp\htdocs\roofnassets\view\cif_form.php on line 150
+[16-Feb-2023 13:18:19 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\view\cif_form.php(150): FETCH(NULL, 'RegUnitCost')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[16-Feb-2023 13:45:40 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'CustomerId' in 'where clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\roofnassets\view\cif_form.php(16): CHECK('SELECT * FROM c...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 49
+[16-Feb-2023 17:09:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'CustNomineeId' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(283): SELECT('SELECT * FROM c...')
+#2 C:\xampp\htdocs\roofnassets\view\cif_form.php(236): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[16-Feb-2023 17:10:16 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY CustCoId DESC limit 1' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(283): SELECT('SELECT * FROM c...')
+#2 C:\xampp\htdocs\roofnassets\view\cif_form.php(284): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[16-Feb-2023 17:22:43 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: float / array in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php:165
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 165
+[16-Feb-2023 17:23:31 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: float / array in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php:165
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 165

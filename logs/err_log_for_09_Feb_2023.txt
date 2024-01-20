@@ -1,0 +1,46 @@
+[09-Feb-2023 09:47:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:61
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(50): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 61
+[09-Feb-2023 10:10:50 Asia/Calcutta] PHP Warning:  Undefined variable $page in C:\xampp\htdocs\roofnassets\include\admin\common\pagination.php on line 3
+[09-Feb-2023 10:13:53 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 235
+[09-Feb-2023 10:13:59 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 325
+[09-Feb-2023 10:36:26 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\roofnassets\admin\digital\teams\index.php on line 183
+[09-Feb-2023 12:19:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 12:24:03 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 12:42:53 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 12:43:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 12:44:06 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 14:40:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(50): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[09-Feb-2023 15:37:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(50): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[09-Feb-2023 15:39:26 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 15:40:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 15:42:59 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 15:44:34 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 15:45:17 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 15:46:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:36 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:36 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:37 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:38 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:38 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:40 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:40 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:41 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:42 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:42 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:43 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:43 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[09-Feb-2023 15:46:44 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[09-Feb-2023 15:47:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5

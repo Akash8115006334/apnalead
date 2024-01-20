@@ -1,0 +1,185 @@
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:37 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[27-Nov-2023 11:16:46 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[27-Nov-2023 12:30:21 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[27-Nov-2023 12:32:21 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[27-Nov-2023 12:56:31 Asia/Calcutta] PHP Warning:  Undefined variable $LeadPersonManagedBy in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 14
+[27-Nov-2023 13:01:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(37): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 13:01:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(37): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 13:01:20 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(37): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 13:01:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(37): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 13:01:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(37): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 13:01:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(37): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 13:01:24 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(37): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 13:01:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(37): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 14:10:41 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[27-Nov-2023 14:15:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[27-Nov-2023 14:37:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '%%' ...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(69): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 14:37:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '%%' ...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(69): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 14:37:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'leads.LeadPersonPhoneNumber like '%%' and leads.LeadPersonFullname like '%%' ...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(69): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 14:47:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY leads.LeadsId DESC LIMIT 0, 15' at line 10 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '\r\n    SELECT *\r...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('\r\n    SELECT *\r...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(306): _DB_COMMAND_('\r\n    SELECT *\r...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[27-Nov-2023 14:49:09 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY leads.LeadsId DESC LIMIT 0, 15' at line 12 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '\r\n    SELECT *\r...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('\r\n    SELECT *\r...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(306): _DB_COMMAND_('\r\n    SELECT *\r...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[27-Nov-2023 14:49:14 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY leads.LeadsId DESC LIMIT 0, 15' at line 12 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '\r\n    SELECT *\r...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('\r\n    SELECT *\r...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(306): _DB_COMMAND_('\r\n    SELECT *\r...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[27-Nov-2023 15:19:44 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[27-Nov-2023 15:19:47 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[27-Nov-2023 15:19:48 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[27-Nov-2023 15:19:50 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[27-Nov-2023 15:27:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY leads.LeadsId DESC LIMIT 0, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(306): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[27-Nov-2023 15:27:56 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY leads.LeadsId DESC LIMIT 0, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(306): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[27-Nov-2023 16:16:29 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and  lead_requirements.LeadRequirementDetails like '%%' and leads.LeadPersonS...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(27): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 16:17:50 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and  lead_requirements.LeadRequirementDetails like '%%' and leads.LeadPersonS...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(27): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[27-Nov-2023 16:17:59 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and  lead_requirements.LeadRequirementDetails like '%%' and leads.LeadPersonS...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(27): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(16): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11

@@ -1,0 +1,574 @@
+[01-Sep-2023 10:22:01 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 10:22:10 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[01-Sep-2023 10:24:29 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 10:25:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 253
+[01-Sep-2023 10:25:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 259
+[01-Sep-2023 10:47:01 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 10:47:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserFullName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 84
+[01-Sep-2023 10:47:23 Asia/Calcutta] PHP Warning:  Undefined variable $TypSql in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 84
+[01-Sep-2023 10:47:23 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\Setup\3\index.php(84): FETCH(NULL, 'ConfigValueDeta...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[01-Sep-2023 11:01:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserFullName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 84
+[01-Sep-2023 11:01:51 Asia/Calcutta] PHP Warning:  Undefined variable $TypSql in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 84
+[01-Sep-2023 11:01:51 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\Setup\3\index.php(84): FETCH(NULL, 'ConfigValueDeta...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[01-Sep-2023 11:25:55 Asia/Calcutta] PHP Warning:  Undefined variable $Users in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 75
+[01-Sep-2023 11:27:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE company_user_created_by='64'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\Setup\3\index.php(74): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[01-Sep-2023 11:28:07 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE company_user_created_by='64'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\Setup\3\index.php(74): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[01-Sep-2023 11:28:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE company_user_created_by='64'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\Setup\3\index.php(74): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[01-Sep-2023 11:29:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 253
+[01-Sep-2023 11:29:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 259
+[01-Sep-2023 11:31:27 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('')
+#2 D:\xampp\htdocs\apnalead\app\Setup\3\index.php(82): _DB_COMMAND_('')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[01-Sep-2023 11:36:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserFullName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 89
+[01-Sep-2023 11:36:11 Asia/Calcutta] PHP Warning:  Undefined variable $TypSql in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 89
+[01-Sep-2023 11:36:11 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\Setup\3\index.php(89): FETCH(NULL, 'ConfigValueDeta...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 91
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectCreatedAt" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 91
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 92
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 92
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 97
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 97
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 107
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 107
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 132
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectName" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 132
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 135
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectDescriptions" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 135
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 139
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 139
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 91
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectCreatedAt" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 91
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 92
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 92
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 97
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 97
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 107
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 107
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 132
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectName" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 132
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 135
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectDescriptions" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 135
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 139
+[01-Sep-2023 11:39:50 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 139
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectName" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectDescriptions" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectName" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectDescriptions" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:44:11 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:48:04 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 253
+[01-Sep-2023 11:48:04 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 259
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectName" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectDescriptions" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectName" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectDescriptions" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectName" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectDescriptions" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectName" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectDescriptions" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectName" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectDescriptions" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 108
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectTypeId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 117
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectName" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 133
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectDescriptions" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 136
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Undefined variable $Data in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 11:50:38 Asia/Calcutta] PHP Warning:  Attempt to read property "ProjectsId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined variable $Types in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 118
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 118
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined variable $selected in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 118
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined variable $Types in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 128
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 131
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined variable $Types in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 118
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 118
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined variable $selected in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 118
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined variable $Types in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 128
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 131
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined variable $Types in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 118
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueId" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 118
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined variable $selected in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 118
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined variable $Types in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 128
+[01-Sep-2023 12:06:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 131
+[01-Sep-2023 12:11:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 123
+[01-Sep-2023 12:11:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 126
+[01-Sep-2023 12:11:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 123
+[01-Sep-2023 12:11:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 126
+[01-Sep-2023 12:11:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 123
+[01-Sep-2023 12:11:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 126
+[01-Sep-2023 12:12:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 127
+[01-Sep-2023 12:12:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 130
+[01-Sep-2023 12:12:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 127
+[01-Sep-2023 12:12:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 130
+[01-Sep-2023 12:12:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 127
+[01-Sep-2023 12:12:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 130
+[01-Sep-2023 12:18:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 122
+[01-Sep-2023 12:18:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 125
+[01-Sep-2023 12:18:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 122
+[01-Sep-2023 12:18:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 125
+[01-Sep-2023 12:18:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 122
+[01-Sep-2023 12:18:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 125
+[01-Sep-2023 12:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 123
+[01-Sep-2023 12:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 126
+[01-Sep-2023 12:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 123
+[01-Sep-2023 12:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 126
+[01-Sep-2023 12:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 123
+[01-Sep-2023 12:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 126
+[01-Sep-2023 12:19:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 123
+[01-Sep-2023 12:19:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 126
+[01-Sep-2023 12:19:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 123
+[01-Sep-2023 12:19:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 126
+[01-Sep-2023 12:19:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 123
+[01-Sep-2023 12:19:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 126
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:24:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:24:47 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 12:25:31 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 12:25:42 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 12:25:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:25:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:25:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:25:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:25:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 12:25:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 12:28:03 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 12:36:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$company_logo in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 36
+[01-Sep-2023 12:36:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$company_descriptions in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 37
+[01-Sep-2023 12:36:04 Asia/Calcutta] PHP Warning:  Undefined variable $value in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 49
+[01-Sep-2023 12:36:04 Asia/Calcutta] PHP Warning:  Attempt to read property "company_logo" on null in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 49
+[01-Sep-2023 12:36:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$company_logo in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 36
+[01-Sep-2023 12:36:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$company_descriptions in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 37
+[01-Sep-2023 12:36:56 Asia/Calcutta] PHP Warning:  Undefined variable $value in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 49
+[01-Sep-2023 12:36:56 Asia/Calcutta] PHP Warning:  Attempt to read property "company_logo" on null in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 49
+[01-Sep-2023 12:40:55 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyDescription in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 76
+[01-Sep-2023 12:41:51 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 12:41:53 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyDescription in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 76
+[01-Sep-2023 12:41:56 Asia/Calcutta] PHP Warning:  Undefined variable $ComapnyDescription in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 76
+[01-Sep-2023 12:42:44 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 12:46:52 Asia/Calcutta] PHP Warning:  Undefined variable $loginID in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 123
+[01-Sep-2023 12:46:52 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 124
+[01-Sep-2023 12:47:12 Asia/Calcutta] PHP Warning:  Undefined variable $UerID in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 123
+[01-Sep-2023 12:47:12 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 124
+[01-Sep-2023 12:47:37 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 12:49:14 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 12:53:59 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyTableSql in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 50
+[01-Sep-2023 12:53:59 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\Setup\1\index.php(50): FETCH(NULL, 'company_logo')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[01-Sep-2023 12:54:07 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyTableSql in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 50
+[01-Sep-2023 12:54:07 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\Setup\1\index.php(50): FETCH(NULL, 'company_logo')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[01-Sep-2023 13:06:20 Asia/Calcutta] PHP Warning:  Undefined variable $UserID in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 29
+[01-Sep-2023 13:11:33 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 13:21:44 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 13:21:54 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 13:25:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 13:25:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 13:25:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 13:25:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 13:25:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 13:25:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 13:26:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 13:26:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 13:26:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 13:26:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 13:26:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectName in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 116
+[01-Sep-2023 13:26:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 13:28:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 13:28:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 13:28:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$ProjectDescriptions in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 119
+[01-Sep-2023 13:34:18 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 250
+[01-Sep-2023 13:34:18 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 256
+[01-Sep-2023 13:34:22 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 262
+[01-Sep-2023 13:39:28 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 210
+[01-Sep-2023 13:39:28 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 218
+[01-Sep-2023 13:39:28 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 254
+[01-Sep-2023 13:39:28 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 260
+[01-Sep-2023 13:39:34 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 266
+[01-Sep-2023 13:39:47 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 210
+[01-Sep-2023 13:39:47 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 218
+[01-Sep-2023 13:39:47 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 254
+[01-Sep-2023 13:39:47 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 260
+[01-Sep-2023 13:39:52 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 266
+[01-Sep-2023 13:40:12 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 254
+[01-Sep-2023 13:40:12 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 260
+[01-Sep-2023 13:47:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 13:47:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 13:57:51 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 13:57:51 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 13:59:25 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 13:59:25 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 14:24:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:24:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:24:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:24:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:24:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:24:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:24:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:24:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:25:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:26:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:29:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:29:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:29:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:29:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:29:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:29:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:29:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:29:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:30:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:30:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:30:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:30:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:30:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:30:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:30:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:30:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserID" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 14:56:37 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CONFIRM_DELETE_POPUP(), 2 passed in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 93 and at least 3 expected in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php:52
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\app\Setup\3\index.php(93): CONFIRM_DELETE_POPUP('projects_list', Array)
+#1 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 52
+[01-Sep-2023 15:12:22 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 210
+[01-Sep-2023 15:12:22 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 218
+[01-Sep-2023 15:12:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 15:12:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 15:12:26 Asia/Calcutta] PHP Warning:  Undefined variable $Save in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 264
+[01-Sep-2023 15:28:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 15:28:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 15:28:31 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 15:28:31 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 15:28:37 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 15:28:37 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:25:32 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:25:32 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:26:05 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 74
+[01-Sep-2023 16:31:33 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:31:33 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:32:29 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 129
+[01-Sep-2023 16:34:14 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:34:14 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:34:33 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:34:33 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:40:42 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:40:42 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:47:36 Asia/Calcutta] PHP Warning:  Undefined variable $AdminId in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 63
+[01-Sep-2023 16:47:36 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 65
+[01-Sep-2023 16:48:19 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 70
+[01-Sep-2023 16:48:54 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:48:54 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:53:32 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:53:32 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:53:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:53:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:53:47 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:53:47 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:53:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:53:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:56:12 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 70
+[01-Sep-2023 16:57:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:57:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:59:21 Asia/Calcutta] PHP Warning:  Undefined variable $TotalUserCount in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 16:59:21 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 142
+[01-Sep-2023 16:59:54 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 16:59:54 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 16:59:58 Asia/Calcutta] PHP Warning:  Undefined variable $TotalUserCount in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 17:00:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:00:06 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:00:09 Asia/Calcutta] PHP Warning:  Undefined variable $TotalUserCount in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 17:00:14 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:00:14 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $TotalUserCount in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 17:00:21 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:00:21 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:00:24 Asia/Calcutta] PHP Warning:  Undefined variable $TotalUserCount in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 17:00:28 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:00:28 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:00:31 Asia/Calcutta] PHP Warning:  Undefined variable $TotalUserCount in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 140
+[01-Sep-2023 17:06:35 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 143
+[01-Sep-2023 17:06:40 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:06:40 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:06:48 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:06:48 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:06:55 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:06:55 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:07:07 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:07:07 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:07:16 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:07:16 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:14:07 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 70
+[01-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 70
+[01-Sep-2023 17:15:41 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 70
+[01-Sep-2023 17:15:42 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 70
+[01-Sep-2023 17:23:49 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 138
+[01-Sep-2023 17:23:57 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Undefined variable $Address in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 101
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Attempt to read property "Company_Address" on null in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 101
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Undefined variable $Address in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 105
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Attempt to read property "Company_Area_Locality" on null in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 105
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Undefined variable $Address in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 109
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Attempt to read property "Company_Landmark" on null in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 109
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Undefined variable $Address in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 113
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Attempt to read property "Company_City" on null in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 113
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Undefined variable $Address in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 117
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Attempt to read property "Company_State" on null in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 117
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Undefined variable $Address in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 121
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Attempt to read property "Company_Country" on null in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 121
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Undefined variable $Address in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 125
+[01-Sep-2023 17:36:42 Asia/Calcutta] PHP Warning:  Attempt to read property "Company_Pincode" on null in D:\xampp\htdocs\apnalead\app\Setup\1\index.php on line 125
+[01-Sep-2023 17:47:46 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in D:\xampp\htdocs\apnalead\app\Setup\3\index.php on line 138
+[01-Sep-2023 17:47:53 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:47:53 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:48:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:48:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:48:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 252
+[01-Sep-2023 17:48:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserPassword" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[01-Sep-2023 17:55:02 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_ANDROID_APP_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 15
+[01-Sep-2023 17:55:02 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_IOS_APP_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 16
+[01-Sep-2023 17:55:02 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_BROCHER_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 17
+[01-Sep-2023 17:55:16 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_ANDROID_APP_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 15
+[01-Sep-2023 17:55:16 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_IOS_APP_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 16
+[01-Sep-2023 17:55:16 Asia/Calcutta] PHP Warning:  Undefined array key "DOWNLOAD_BROCHER_LINK" in D:\xampp\htdocs\apnalead\handler\SystemController\ConfigController.php on line 17
+[01-Sep-2023 18:13:09 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[01-Sep-2023 18:13:13 Asia/Calcutta] PHP Warning:  Undefined array key "company_logo" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:13 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:13 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:13 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:13 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:13 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:13 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:13 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:13 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:13 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:15 Asia/Calcutta] PHP Warning:  Undefined array key "company_logo" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:15 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:15 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:15 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:15 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:15 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:15 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:15 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:15 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[01-Sep-2023 18:13:15 Asia/Calcutta] PHP Warning:  Undefined array key "company_descriptions" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32

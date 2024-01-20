@@ -1,0 +1,227 @@
+[21-Sep-2023 10:35:46 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[21-Sep-2023 10:35:51 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Sep-2023 10:36:30 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[21-Sep-2023 10:37:26 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[21-Sep-2023 10:38:02 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[21-Sep-2023 10:38:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[21-Sep-2023 10:38:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[21-Sep-2023 11:30:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Sep-2023 11:40:37 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[21-Sep-2023 12:22:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Sep-2023 12:22:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[21-Sep-2023 12:30:03 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\feedback.php on line 43
+[21-Sep-2023 12:30:03 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\feedback.php on line 43
+[21-Sep-2023 12:30:03 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 107
+[21-Sep-2023 12:30:03 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(107): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:30:19 Asia/Calcutta] PHP Warning:  Undefined variable $CallStatus in D:\xampp\htdocs\apnalead\app\feedback.php on line 43
+[21-Sep-2023 12:30:19 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\feedback.php on line 43
+[21-Sep-2023 12:30:19 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 107
+[21-Sep-2023 12:30:19 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(107): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:33:18 Asia/Calcutta] PHP Warning:  Undefined variable $REQ_LeadsId in D:\xampp\htdocs\apnalead\app\feedback.php on line 28
+[21-Sep-2023 12:33:18 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:33:18 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:34:12 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:34:12 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:34:46 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:34:46 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:38:34 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:38:34 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:38:42 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:38:42 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:00 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:00 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:15 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:15 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:18 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:18 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:37 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:37 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:39 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:39 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:39 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:39 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:40 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:41 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:41 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:41 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:41 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:41 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:41 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:41 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:41 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:41 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:41 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:39:45 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in D:\xampp\htdocs\apnalead\app\feedback.php on line 105
+[21-Sep-2023 12:39:45 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 D:\xampp\htdocs\apnalead\app\feedback.php(105): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Sep-2023 12:41:25 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowMainId" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 300
+[21-Sep-2023 12:41:25 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 304
+[21-Sep-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32

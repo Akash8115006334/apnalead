@@ -1,0 +1,40 @@
+[13-Sep-2023 10:09:49 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[13-Sep-2023 10:32:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "STORAGE_UR" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php:50
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 50
+[13-Sep-2023 11:49:52 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\AdminPlan\index.php on line 12
+[13-Sep-2023 11:49:52 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\AdminPlan\index.php on line 12
+[13-Sep-2023 11:49:52 Asia/Calcutta] PHP Warning:  include(./../assets/FooterFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\AdminPlan\index.php on line 64
+[13-Sep-2023 11:49:52 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/FooterFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\AdminPlan\index.php on line 64
+[13-Sep-2023 11:49:59 Asia/Calcutta] PHP Warning:  include(../../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\AdminPlan\index.php on line 12
+[13-Sep-2023 11:49:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\AdminPlan\index.php on line 12
+[13-Sep-2023 11:49:59 Asia/Calcutta] PHP Warning:  include(./../assets/FooterFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\AdminPlan\index.php on line 64
+[13-Sep-2023 11:49:59 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/FooterFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\AdminPlan\index.php on line 64
+[13-Sep-2023 12:01:02 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[13-Sep-2023 12:01:02 Asia/Calcutta] PHP Warning:  move_uploaded_file(http://localhost/apnalead/storage/image/Array__13_Sep_2023_12_09_02_98173755454_.jpeg): Failed to open stream: HTTP wrapper does not support writeable connections in D:\xampp\htdocs\apnalead\acm\SysModules\FILE_Modules\UploadHandler.php on line 40
+[13-Sep-2023 12:01:02 Asia/Calcutta] PHP Warning:  move_uploaded_file(): Unable to move &quot;D:\xampp\tmp\phpD100.tmp&quot; to &quot;http://localhost/apnalead/storage/image/Array__13_Sep_2023_12_09_02_98173755454_.jpeg&quot; in D:\xampp\htdocs\apnalead\acm\SysModules\FILE_Modules\UploadHandler.php on line 40
+[13-Sep-2023 12:05:58 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[13-Sep-2023 12:05:58 Asia/Calcutta] PHP Warning:  move_uploaded_file(http://localhost/apnalead/storage/image//Array__13_Sep_2023_12_09_58_89081064224_.jpeg): Failed to open stream: HTTP wrapper does not support writeable connections in D:\xampp\htdocs\apnalead\acm\SysModules\FILE_Modules\UploadHandler.php on line 40
+[13-Sep-2023 12:05:58 Asia/Calcutta] PHP Warning:  move_uploaded_file(): Unable to move &quot;D:\xampp\tmp\php539B.tmp&quot; to &quot;http://localhost/apnalead/storage/image//Array__13_Sep_2023_12_09_58_89081064224_.jpeg&quot; in D:\xampp\htdocs\apnalead\acm\SysModules\FILE_Modules\UploadHandler.php on line 40
+[13-Sep-2023 12:10:28 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[13-Sep-2023 12:13:12 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[13-Sep-2023 12:16:20 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[13-Sep-2023 12:19:47 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[13-Sep-2023 12:20:50 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[13-Sep-2023 15:16:19 Asia/Calcutta] PHP Warning:  Undefined array key "paymentId" in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 43
+[13-Sep-2023 15:16:19 Asia/Calcutta] PHP Warning:  Undefined array key "txn_ref_no" in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 44
+[13-Sep-2023 15:20:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[13-Sep-2023 15:21:15 Asia/Calcutta] PHP Warning:  Undefined variable $newdate in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 62
+[13-Sep-2023 15:21:48 Asia/Calcutta] PHP Warning:  Undefined variable $newdate in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 62
+[13-Sep-2023 15:22:53 Asia/Calcutta] PHP Warning:  Undefined variable $newdate in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 62
+[13-Sep-2023 15:24:37 Asia/Calcutta] PHP Warning:  Undefined variable $newdate in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 62
+[13-Sep-2023 15:28:57 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[13-Sep-2023 15:42:28 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[13-Sep-2023 15:43:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[13-Sep-2023 15:44:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[13-Sep-2023 16:19:11 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[13-Sep-2023 16:19:20 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[13-Sep-2023 16:20:06 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[13-Sep-2023 16:35:05 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[13-Sep-2023 16:35:39 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43

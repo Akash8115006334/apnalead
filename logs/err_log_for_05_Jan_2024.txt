@@ -1,0 +1,336 @@
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 17
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[05-Jan-2024 09:54:12 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 09:54:12 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 09:54:12 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 11:02:07 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 11:02:07 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 11:02:07 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 11:02:11 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 11:02:11 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 11:02:11 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 11:19:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 11:19:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 11:19:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 11:19:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 11:19:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 11:19:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 11:19:53 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 11:19:53 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 11:19:53 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 11:22:28 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 11:22:28 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 11:22:28 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 11:32:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 11:32:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 11:32:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 11:35:59 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 11:35:59 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 11:35:59 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 11:36:48 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 11:36:48 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 11:36:48 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 11:37:29 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 11:37:29 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 11:37:29 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 12:58:34 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 12:58:34 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 12:58:34 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 14:33:01 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 65
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Undefined variable $lead in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 14:33:31 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadSalutations" on null in D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php on line 71
+[05-Jan-2024 15:40:09 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 15:40:09 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 15:40:09 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[05-Jan-2024 16:07:05 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 266354688 bytes) in D:\xampp\htdocs\apnalead\app\Billing\index.php on line 153
+[05-Jan-2024 18:00:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[05-Jan-2024 18:00:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[05-Jan-2024 18:00:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213

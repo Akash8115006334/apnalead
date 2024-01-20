@@ -1,0 +1,110 @@
+[08-Feb-2023 10:32:48 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\roofnassets\require/web/): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\require\web-modules.php on line 7
+[08-Feb-2023 10:32:48 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\roofnassets\require/web/): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\require\web-modules.php on line 7
+[08-Feb-2023 10:32:48 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\roofnassets\require/web/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\require\web-modules.php on line 7
+[08-Feb-2023 10:32:48 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\roofnassets\require/web/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\require\web-modules.php on line 7
+[08-Feb-2023 10:32:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\roofnassets\admin\index.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\index.php on line 21
+[08-Feb-2023 14:27:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\roofnassets\admin\index.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\index.php on line 21
+[08-Feb-2023 14:45:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\roofnassets\admin\index.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\index.php on line 21
+[08-Feb-2023 15:30:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'LeadsId' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT LeadsId ...')
+#1 C:\xampp\htdocs\roofnassets\admin\lead-dash.php(329): TOTAL('SELECT LeadsId ...')
+#2 C:\xampp\htdocs\roofnassets\admin\index.php(68): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[08-Feb-2023 15:42:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:61
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(50): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 61
+[08-Feb-2023 15:48:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'RegistrationId' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT Registra...')
+#1 C:\xampp\htdocs\roofnassets\admin\crm.php(10): TOTAL('SELECT Registra...')
+#2 C:\xampp\htdocs\roofnassets\admin\index.php(66): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[08-Feb-2023 15:49:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'RegistrationId' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT Registra...')
+#1 C:\xampp\htdocs\roofnassets\admin\crm.php(10): TOTAL('SELECT Registra...')
+#2 C:\xampp\htdocs\roofnassets\admin\index.php(66): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[08-Feb-2023 17:07:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[08-Feb-2023 17:08:05 Asia/Calcutta] PHP Warning:  Undefined array key "REQ_UserId" in C:\xampp\htdocs\roofnassets\admin\team\details\security.php on line 15
+[08-Feb-2023 17:08:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:61
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\team\details\security.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 61
+[08-Feb-2023 17:08:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[08-Feb-2023 17:09:04 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:04 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:05 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:05 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:05 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:05 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:05 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:05 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:05 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:05 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:06 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:06 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:06 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:06 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:06 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:06 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:06 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:06 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:07 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:07 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:07 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:07 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:08 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:08 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:08 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:08 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:08 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:08 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:08 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:08 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:09 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:09 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:09 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:09 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:09 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:09 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:10 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:10 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:11 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:11 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 346
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/pagination.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 349
+[08-Feb-2023 17:09:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/pagination.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\digital\leads\index.php on line 349
+[08-Feb-2023 17:10:15 Asia/Calcutta] PHP Warning:  Undefined variable $page in C:\xampp\htdocs\roofnassets\include\admin\common\pagination.php on line 3
+[08-Feb-2023 17:11:05 Asia/Calcutta] PHP Warning:  Undefined variable $page in C:\xampp\htdocs\roofnassets\include\admin\common\pagination.php on line 3
+[08-Feb-2023 17:26:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:61
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(50): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 61
+[08-Feb-2023 17:27:16 Asia/Calcutta] PHP Warning:  Undefined variable $page in C:\xampp\htdocs\roofnassets\include\admin\common\pagination.php on line 3

@@ -1,0 +1,176 @@
+[13-Mar-2023 05:06:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[13-Mar-2023 05:06:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[13-Mar-2023 05:33:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[13-Mar-2023 05:56:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER by DATE(UserPIPCreatedAt) DESC limit 0, 15' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\admin\member\pips\index.php(114): TOTAL('SELECT * FROM u...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[13-Mar-2023 05:57:09 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER by DATE(UserPIPCreatedAt) DESC limit 0, 15' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\admin\member\pips\index.php(114): TOTAL('SELECT * FROM u...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[13-Mar-2023 06:19:22 Asia/Calcutta] PHP Warning:  Undefined variable $UserDateOfBirth in C:\xampp\htdocs\roofnassets\admin\hr-dash.php on line 60
+[13-Mar-2023 06:19:22 Asia/Calcutta] PHP Warning:  Undefined variable $UserDateOfBirth in C:\xampp\htdocs\roofnassets\admin\hr-dash.php on line 60
+[13-Mar-2023 06:21:36 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[13-Mar-2023 12:46:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[13-Mar-2023 12:46:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[13-Mar-2023 12:47:10 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ProjectDueDate' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM p...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM p...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\expanses\index.php(82): _DB_COMMAND_('SELECT * FROM p...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[13-Mar-2023 12:47:14 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ProjectDueDate' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM p...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM p...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\expanses\index.php(82): _DB_COMMAND_('SELECT * FROM p...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[13-Mar-2023 13:07:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ProjectDueDate' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM p...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM p...')
+#2 C:\xampp\htdocs\roofnassets\admin\hr\expanses\index.php(82): _DB_COMMAND_('SELECT * FROM p...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[13-Mar-2023 14:07:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserAppraisalDate' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM e...')
+#1 C:\xampp\htdocs\roofnassets\admin\hr\expanses\index.php(104): TOTAL('SELECT * FROM e...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[13-Mar-2023 14:07:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserAppraisalDate' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM e...')
+#1 C:\xampp\htdocs\roofnassets\admin\hr\expanses\index.php(104): TOTAL('SELECT * FROM e...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[13-Mar-2023 14:56:37 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-New-Assets.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 122
+[13-Mar-2023 14:56:37 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-New-Assets.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 122
+[13-Mar-2023 15:05:24 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-New-Assets.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 122
+[13-Mar-2023 15:05:24 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-New-Assets.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 122
+[13-Mar-2023 15:49:48 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 15:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 15:49:48 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 15:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 15:49:48 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 15:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 15:49:48 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 15:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:12:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 82
+[13-Mar-2023 16:12:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 82
+[13-Mar-2023 16:13:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$AssetsName in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 82
+[13-Mar-2023 16:13:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$AssetsName in C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php on line 82
+[13-Mar-2023 16:30:00 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:30:00 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:30:00 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:30:00 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:30:00 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:30:00 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:30:00 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:30:00 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:30:00 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in C:\xampp\htdocs\roofnassets\require\module\crud.php:192
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php(64): AMOUNT('SELECT * FROM a...', 'AssetsCost')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 192
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Warning:  Undefined array key "AssetDateOfIssue" in C:\xampp\htdocs\roofnassets\controller\AssetsController.php on line 42
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Warning:  Undefined array key "AssetIusseto" in C:\xampp\htdocs\roofnassets\controller\AssetsController.php on line 43
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:49:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'AssetDateOfIssue' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:13
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(13): mysqli_query(Object(mysqli), 'UPDATE assets S...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(392): UPDATE('UPDATE assets S...')
+#2 C:\xampp\htdocs\roofnassets\controller\AssetsController.php(64): UPDATE_TABLE('assets', Array, 'AssetsId='5'')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 13
+[13-Mar-2023 16:50:41 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:50:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:50:41 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:50:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:50:41 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:50:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:50:41 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:50:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:50:56 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:50:56 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:50:56 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:50:56 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:50:56 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:50:56 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:50:56 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:50:56 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:52:42 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:52:42 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:52:42 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:52:42 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:52:42 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:52:42 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:52:42 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:52:42 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:52:55 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:52:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:52:55 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:52:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:52:55 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:52:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:52:55 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:52:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:53:41 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:53:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:53:41 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsImage" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:53:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:53:41 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:53:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 23
+[13-Mar-2023 16:53:41 Asia/Calcutta] PHP Warning:  Undefined array key "AssetsPurchaseReceipts" in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 16:53:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\roofnassets\require\module\upload.php on line 24
+[13-Mar-2023 17:23:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$AssetsMainId in C:\xampp\htdocs\roofnassets\include\sections\Add-Assets-Issue-Record.php on line 11
+[13-Mar-2023 17:23:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$AssetsMainId in C:\xampp\htdocs\roofnassets\include\sections\Add-Assets-Issue-Record.php on line 11
+[13-Mar-2023 18:13:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rootandassets.user' doesn't exist in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserPhon...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(253): SELECT('SELECT UserPhon...')
+#2 C:\xampp\htdocs\roofnassets\require\module\crud.php(271): FETCH('SELECT UserPhon...', 'UserPhoneNumber')
+#3 C:\xampp\htdocs\roofnassets\admin\hr\assets\index.php(195): GET_DATA('user', 'UserPhoneNumber', 'UserId='7'')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[13-Mar-2023 22:32:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62

@@ -1,0 +1,318 @@
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\app\index.php on line 9
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:06 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[30-Nov-2023 10:21:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in D:\xampp\htdocs\apnalead\handler\index.php on line 28
+[30-Nov-2023 10:21:07 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in D:\xampp\htdocs\apnalead\handler\index.php on line 28
+[30-Nov-2023 10:21:07 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\index.php on line 29
+[30-Nov-2023 10:21:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$adaccounts in D:\xampp\htdocs\apnalead\handler\index.php on line 28
+[30-Nov-2023 10:21:08 Asia/Calcutta] PHP Warning:  Attempt to read property "data" on null in D:\xampp\htdocs\apnalead\handler\index.php on line 28
+[30-Nov-2023 10:21:08 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\handler\index.php on line 29
+[30-Nov-2023 10:38:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[30-Nov-2023 10:38:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Warning:  Constant HOST already defined in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 27
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Warning:  Constant LOCAL_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 27
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Warning:  Constant DOMAIN already defined in D:\xampp\htdocs\apnalead\config.php on line 46
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Warning:  Constant CONTROL_DATABASE already defined in D:\xampp\htdocs\apnalead\config.php on line 52
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Warning:  Constant CONTROL_DB_STATUS already defined in D:\xampp\htdocs\apnalead\config.php on line 53
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 56
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_USER already defined in D:\xampp\htdocs\apnalead\config.php on line 57
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_PASS already defined in D:\xampp\htdocs\apnalead\config.php on line 58
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_DB_NAME already defined in D:\xampp\htdocs\apnalead\config.php on line 59
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Warning:  Constant DBConnection already defined in D:\xampp\htdocs\apnalead\acm\SystemDBConnector.php on line 6
+[30-Nov-2023 11:36:47 Asia/Calcutta] PHP Fatal error:  Cannot redeclare DATE_FORMATES() (previously declared in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php:3) in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php on line 3
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Warning:  Constant HOST already defined in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 27
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Warning:  Constant LOCAL_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 27
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Warning:  Constant DOMAIN already defined in D:\xampp\htdocs\apnalead\config.php on line 46
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Warning:  Constant CONTROL_DATABASE already defined in D:\xampp\htdocs\apnalead\config.php on line 52
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Warning:  Constant CONTROL_DB_STATUS already defined in D:\xampp\htdocs\apnalead\config.php on line 53
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 56
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_USER already defined in D:\xampp\htdocs\apnalead\config.php on line 57
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_PASS already defined in D:\xampp\htdocs\apnalead\config.php on line 58
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_DB_NAME already defined in D:\xampp\htdocs\apnalead\config.php on line 59
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Warning:  Constant DBConnection already defined in D:\xampp\htdocs\apnalead\acm\SystemDBConnector.php on line 6
+[30-Nov-2023 11:36:59 Asia/Calcutta] PHP Fatal error:  Cannot redeclare DATE_FORMATES() (previously declared in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php:3) in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php on line 3
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Warning:  Constant HOST already defined in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 27
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Warning:  Constant LOCAL_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 27
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Warning:  Constant DOMAIN already defined in D:\xampp\htdocs\apnalead\config.php on line 46
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Warning:  Constant CONTROL_DATABASE already defined in D:\xampp\htdocs\apnalead\config.php on line 52
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Warning:  Constant CONTROL_DB_STATUS already defined in D:\xampp\htdocs\apnalead\config.php on line 53
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 56
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_USER already defined in D:\xampp\htdocs\apnalead\config.php on line 57
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_PASS already defined in D:\xampp\htdocs\apnalead\config.php on line 58
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_DB_NAME already defined in D:\xampp\htdocs\apnalead\config.php on line 59
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Warning:  Constant DBConnection already defined in D:\xampp\htdocs\apnalead\acm\SystemDBConnector.php on line 6
+[30-Nov-2023 11:37:14 Asia/Calcutta] PHP Fatal error:  Cannot redeclare DATE_FORMATES() (previously declared in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php:3) in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php on line 3
+[30-Nov-2023 13:48:34 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[30-Nov-2023 13:48:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Nov-2023 13:51:48 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[30-Nov-2023 13:51:48 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 174
+[30-Nov-2023 13:52:37 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[30-Nov-2023 14:58:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[30-Nov-2023 14:58:49 Asia/Calcutta] PHP Warning:  Undefined variable $res in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 30
+[30-Nov-2023 14:58:55 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Nov-2023 14:59:05 Asia/Calcutta] PHP Warning:  Undefined variable $res in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 30
+[30-Nov-2023 14:59:34 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\xampp\htdocs\apnalead\app\lead_graph.php:31
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 31
+[30-Nov-2023 15:02:29 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, string given in D:\xampp\htdocs\apnalead\app\lead_graph.php:30
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\app\lead_graph.php(30): mysqli_fetch_assoc('[{"0":"3","Lead...')
+#1 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 30
+[30-Nov-2023 15:02:54 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\xampp\htdocs\apnalead\app\lead_graph.php:31
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 31
+[30-Nov-2023 15:03:27 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, string given in D:\xampp\htdocs\apnalead\app\lead_graph.php:30
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\app\lead_graph.php(30): mysqli_fetch_assoc('[{"0":"3","Lead...')
+#1 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 30
+[30-Nov-2023 15:07:22 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, string given in D:\xampp\htdocs\apnalead\app\lead_graph.php:33
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\app\lead_graph.php(33): mysqli_fetch_assoc('SELECT * FROM l...')
+#1 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 33
+[30-Nov-2023 15:12:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_FETCH_ARRAY_() in D:\xampp\htdocs\apnalead\app\lead_graph.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 10
+[30-Nov-2023 15:13:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[{"0":"2023-10-03 02:39:02 PM","LeadPersonCreatedAt":"2023-10-03 02:39:02 PM"...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '[{"0":"2023-10-...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('[{"0":"2023-10-...')
+#2 D:\xampp\htdocs\apnalead\app\lead_graph.php(10): _DB_COMMAND_('[{"0":"2023-10-...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[30-Nov-2023 15:14:38 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:15:05 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:15:07 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:16:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 9
+[30-Nov-2023 15:18:57 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 9
+[30-Nov-2023 15:19:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 9
+[30-Nov-2023 15:19:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 9
+[30-Nov-2023 15:37:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 9
+[30-Nov-2023 15:46:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:12
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 12
+[30-Nov-2023 15:47:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:12
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 12
+[30-Nov-2023 15:51:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:51:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 15
+[30-Nov-2023 15:52:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:52:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:52:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:52:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:52:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:52:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:52:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:52:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 15:52:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 11
+[30-Nov-2023 16:43:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'leadcreatedAt' in 'field list' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT DATE(lea...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT DATE(lea...')
+#2 D:\xampp\htdocs\apnalead\app\lead_graph.php(7): _DB_COMMAND_('SELECT DATE(lea...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[30-Nov-2023 16:45:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in D:\xampp\htdocs\apnalead\app\lead_graph.php:12
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 12
+[30-Nov-2023 16:45:53 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadFollowUpCreatedAt" on array in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 12
+[30-Nov-2023 16:50:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:13
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 13
+[30-Nov-2023 16:50:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:13
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 13
+[30-Nov-2023 16:50:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\apnalead\app\lead_graph.php:13
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\lead_graph.php on line 13
+[30-Nov-2023 16:56:44 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[30-Nov-2023 16:56:51 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Warning:  Constant HOST already defined in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 27
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Warning:  Constant LOCAL_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 27
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Warning:  Constant DOMAIN already defined in D:\xampp\htdocs\apnalead\config.php on line 46
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Warning:  Constant CONTROL_DATABASE already defined in D:\xampp\htdocs\apnalead\config.php on line 52
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Warning:  Constant CONTROL_DB_STATUS already defined in D:\xampp\htdocs\apnalead\config.php on line 53
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 56
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_USER already defined in D:\xampp\htdocs\apnalead\config.php on line 57
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_PASS already defined in D:\xampp\htdocs\apnalead\config.php on line 58
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_DB_NAME already defined in D:\xampp\htdocs\apnalead\config.php on line 59
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Warning:  Constant DBConnection already defined in D:\xampp\htdocs\apnalead\acm\SystemDBConnector.php on line 6
+[30-Nov-2023 17:10:43 Asia/Calcutta] PHP Fatal error:  Cannot redeclare DATE_FORMATES() (previously declared in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php:3) in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php on line 3
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Warning:  Constant HOST already defined in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 27
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Warning:  Constant LOCAL_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 27
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Warning:  Constant DOMAIN already defined in D:\xampp\htdocs\apnalead\config.php on line 46
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Warning:  Constant CONTROL_DATABASE already defined in D:\xampp\htdocs\apnalead\config.php on line 52
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Warning:  Constant CONTROL_DB_STATUS already defined in D:\xampp\htdocs\apnalead\config.php on line 53
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_HOST already defined in D:\xampp\htdocs\apnalead\config.php on line 56
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_USER already defined in D:\xampp\htdocs\apnalead\config.php on line 57
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_PASS already defined in D:\xampp\htdocs\apnalead\config.php on line 58
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Warning:  Constant DB_SERVER_DB_NAME already defined in D:\xampp\htdocs\apnalead\config.php on line 59
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Warning:  Constant DBConnection already defined in D:\xampp\htdocs\apnalead\acm\SystemDBConnector.php on line 6
+[30-Nov-2023 17:10:48 Asia/Calcutta] PHP Fatal error:  Cannot redeclare DATE_FORMATES() (previously declared in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php:3) in D:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DateTime.php on line 3
+[30-Nov-2023 17:35:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[30-Nov-2023 17:35:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Nov-2023 17:48:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[30-Nov-2023 17:48:36 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Nov-2023 17:49:32 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[30-Nov-2023 17:49:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32

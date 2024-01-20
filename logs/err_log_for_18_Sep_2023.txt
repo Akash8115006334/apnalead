@@ -1,0 +1,450 @@
+[18-Sep-2023 10:28:14 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 10:59:12 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 10:59:35 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 10:59:43 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[18-Sep-2023 10:59:43 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[18-Sep-2023 11:02:15 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[18-Sep-2023 11:02:15 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[18-Sep-2023 11:53:07 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 12:00:04 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[18-Sep-2023 12:01:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[18-Sep-2023 12:03:08 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 258
+[18-Sep-2023 12:03:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in D:\xampp\htdocs\apnalead\app\users\details\index.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\users\details\index.php on line 19
+[18-Sep-2023 12:03:56 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 12:04:11 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 12:25:12 Asia/Calcutta] PHP Warning:  Undefined variable $g in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:25:12 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:25:12 Asia/Calcutta] PHP Warning:  Undefined variable $selected in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:25:12 Asia/Calcutta] PHP Warning:  Undefined variable $g in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:25:12 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:25:30 Asia/Calcutta] PHP Warning:  Undefined variable $g in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:25:30 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:25:30 Asia/Calcutta] PHP Warning:  Undefined variable $selected in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:25:30 Asia/Calcutta] PHP Warning:  Undefined variable $g in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:25:30 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:26:12 Asia/Calcutta] PHP Warning:  Undefined variable $g in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:26:12 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:26:12 Asia/Calcutta] PHP Warning:  Undefined variable $selected in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:26:12 Asia/Calcutta] PHP Warning:  Undefined variable $g in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:26:12 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\teams\index.php on line 95
+[18-Sep-2023 12:26:23 Asia/Calcutta] PHP Warning:  Undefined variable $g in D:\xampp\htdocs\apnalead\app\teams\index.php on line 96
+[18-Sep-2023 12:26:23 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\teams\index.php on line 96
+[18-Sep-2023 12:26:23 Asia/Calcutta] PHP Warning:  Undefined variable $selected in D:\xampp\htdocs\apnalead\app\teams\index.php on line 96
+[18-Sep-2023 12:26:23 Asia/Calcutta] PHP Warning:  Undefined variable $g in D:\xampp\htdocs\apnalead\app\teams\index.php on line 96
+[18-Sep-2023 12:26:23 Asia/Calcutta] PHP Warning:  Attempt to read property "ConfigValueDetails" on null in D:\xampp\htdocs\apnalead\app\teams\index.php on line 96
+[18-Sep-2023 12:33:51 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 12:33:58 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 12:34:12 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 243
+[18-Sep-2023 12:34:12 Asia/Calcutta] PHP Warning:  Undefined variable $AdminPlanAmount in D:\xampp\htdocs\apnalead\app\users\add.php on line 246
+[18-Sep-2023 12:34:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 12:34:37 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 12:36:30 Asia/Calcutta] PHP Warning:  Undefined array key "location" in D:\xampp\htdocs\apnalead\app\teams\index.php on line 158
+[18-Sep-2023 12:36:30 Asia/Calcutta] PHP Warning:  Undefined array key "location" in D:\xampp\htdocs\apnalead\app\teams\index.php on line 192
+[18-Sep-2023 12:36:59 Asia/Calcutta] PHP Warning:  Undefined variable $location in D:\xampp\htdocs\apnalead\app\teams\index.php on line 165
+[18-Sep-2023 12:43:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 12:43:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 12:46:14 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 238
+[18-Sep-2023 12:46:14 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 238
+[18-Sep-2023 12:47:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 12:47:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 12:48:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 12:48:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 13:04:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company_users.company_alloted_user_id' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT *  FROM ...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT *  FROM ...')
+#2 D:\xampp\htdocs\apnalead\app\teams\index.php(208): _DB_COMMAND_('SELECT *  FROM ...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 13:05:47 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company_users.company_alloted_user_id' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT *  FROM ...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT *  FROM ...')
+#2 D:\xampp\htdocs\apnalead\app\teams\index.php(208): _DB_COMMAND_('SELECT *  FROM ...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 13:06:50 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company_users.company_alloted_user_id' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT *  FROM ...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT *  FROM ...')
+#2 D:\xampp\htdocs\apnalead\app\teams\index.php(208): _DB_COMMAND_('SELECT *  FROM ...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 13:06:52 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company_users.company_alloted_user_id' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT *  FROM ...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT *  FROM ...')
+#2 D:\xampp\htdocs\apnalead\app\teams\index.php(208): _DB_COMMAND_('SELECT *  FROM ...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 14:43:20 Asia/Calcutta] PHP Warning:  Undefined array key "company_main_id" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 14:43:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 247
+[18-Sep-2023 14:43:34 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 247
+[18-Sep-2023 14:44:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:44:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:47:19 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:47:19 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:47:33 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:47:33 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:48:48 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:48:48 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:48:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:48:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:48:57 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:48:57 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:49:00 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:49:00 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:49:04 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:49:04 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:55:39 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:55:39 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 255
+[18-Sep-2023 14:55:39 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 259
+[18-Sep-2023 14:55:39 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 263
+[18-Sep-2023 14:55:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CompanyId=''  and and LeadPersonManagedBy='3'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT LeadsId ...')
+#1 D:\xampp\htdocs\apnalead\app\teams\index.php(263): TOTAL('SELECT LeadsId ...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 14:55:46 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:55:46 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 255
+[18-Sep-2023 14:55:46 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 259
+[18-Sep-2023 14:55:46 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 263
+[18-Sep-2023 14:55:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CompanyId=''  and and LeadPersonManagedBy='3'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT LeadsId ...')
+#1 D:\xampp\htdocs\apnalead\app\teams\index.php(263): TOTAL('SELECT LeadsId ...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 14:57:25 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 234
+[18-Sep-2023 14:57:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:57:25 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 255
+[18-Sep-2023 14:57:25 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 259
+[18-Sep-2023 14:57:25 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 263
+[18-Sep-2023 14:57:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CompanyId=''  and and LeadPersonManagedBy='3'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT LeadsId ...')
+#1 D:\xampp\htdocs\apnalead\app\teams\index.php(263): TOTAL('SELECT LeadsId ...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 14:58:00 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 234
+[18-Sep-2023 14:58:00 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:58:00 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 234
+[18-Sep-2023 14:58:00 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:59:10 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:59:10 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 245
+[18-Sep-2023 14:59:53 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 237
+[18-Sep-2023 14:59:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 248
+[18-Sep-2023 14:59:53 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\teams\index.php on line 237
+[18-Sep-2023 14:59:53 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 248
+[18-Sep-2023 15:00:30 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 248
+[18-Sep-2023 15:00:30 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 248
+[18-Sep-2023 15:00:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 248
+[18-Sep-2023 15:00:44 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 248
+[18-Sep-2023 15:02:07 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 246
+[18-Sep-2023 15:02:07 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 246
+[18-Sep-2023 15:02:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 246
+[18-Sep-2023 15:02:32 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 246
+[18-Sep-2023 15:02:48 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 246
+[18-Sep-2023 15:02:48 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 246
+[18-Sep-2023 15:02:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 246
+[18-Sep-2023 15:02:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 246
+[18-Sep-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 246
+[18-Sep-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 246
+[18-Sep-2023 15:04:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 243
+[18-Sep-2023 15:04:08 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 243
+[18-Sep-2023 15:10:21 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\uploads\index.php on line 69
+[18-Sep-2023 15:12:11 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\uploads\index.php on line 69
+[18-Sep-2023 15:12:16 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 243
+[18-Sep-2023 15:12:16 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 243
+[18-Sep-2023 15:14:43 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 15:14:49 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 15:15:05 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 15:15:13 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 15:15:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 243
+[18-Sep-2023 15:15:15 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 243
+[18-Sep-2023 15:40:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 243
+[18-Sep-2023 15:40:21 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 243
+[18-Sep-2023 15:40:31 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\uploads\index.php on line 69
+[18-Sep-2023 15:46:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\uploads\index.php on line 69
+[18-Sep-2023 16:12:10 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 16:12:18 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\uploads\index.php on line 69
+[18-Sep-2023 16:42:51 Asia/Calcutta] PHP Warning:  Undefined variable $UserID in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 13
+[18-Sep-2023 16:42:51 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:42:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserStatus' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php(86): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 16:42:58 Asia/Calcutta] PHP Warning:  Undefined variable $UserID in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 13
+[18-Sep-2023 16:42:58 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:42:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserStatus' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php(86): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 16:43:24 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:43:24 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserStatus' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php(86): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 16:43:27 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:43:27 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserStatus' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php(86): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 16:44:17 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:44:17 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 88
+[18-Sep-2023 16:44:49 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:44:55 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:48:58 Asia/Calcutta] PHP Warning:  Undefined variable $UserID in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 13
+[18-Sep-2023 16:48:58 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:48:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'user.UserId' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM u...')
+#2 D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php(86): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 16:49:17 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:49:17 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'user.UserId' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM u...')
+#2 D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php(86): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 16:49:56 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:49:56 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'user.UserId' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM u...')
+#2 D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php(86): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 16:50:00 Asia/Calcutta] PHP Warning:  Undefined variable $companyId in D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php on line 86
+[18-Sep-2023 16:50:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'user.UserId' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM u...')
+#2 D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php(86): _DB_COMMAND_('SELECT * FROM u...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 17:02:49 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and LeadsUploadBy='3'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php(191): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:02:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and LeadsUploadBy='3'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\transfer.php(191): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:07:59 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 243
+[18-Sep-2023 17:07:59 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 243
+[18-Sep-2023 17:08:03 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 17:08:09 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 17:08:17 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(116): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:08:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(116): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:11:32 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 17:11:47 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 17:11:53 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\uploads\index.php on line 69
+[18-Sep-2023 17:14:30 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 17:14:34 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 17:14:40 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(117): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:14:43 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(117): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:22:02 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(120): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:22:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(120): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:23:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(120): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:23:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(121): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:23:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(121): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:32:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(121): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:32:35 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(121): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:32:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(121): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:32:55 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(121): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:33:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(121): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:33:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(121): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:34:35 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(119): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:34:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(119): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:34:41 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(119): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:34:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(119): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:35:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(119): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:35:40 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(116): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:35:42 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(116): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:35:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(116): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:41:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(122): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:41:17 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(122): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:41:20 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(122): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:41:32 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 17:41:41 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 17:41:45 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\uploads\index.php on line 69
+[18-Sep-2023 17:41:47 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company_users.company_users.company_alloted_user_id' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT('SELECT * FROM u...')
+#2 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(17): FETCH('SELECT * FROM u...', 'UserId')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Sep-2023 17:48:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 17:48:53 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 17:49:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(116): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:51:17 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LeadStatus='UPLOADED'' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT leadsUpl...')
+#1 D:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(116): TOTAL('SELECT leadsUpl...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Sep-2023 17:53:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 17:53:48 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[18-Sep-2023 17:55:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[18-Sep-2023 17:55:20 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32

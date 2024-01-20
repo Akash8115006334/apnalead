@@ -1,0 +1,57 @@
+[16-Mar-2023 09:24:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Mar-2023 09:24:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Mar-2023 09:47:14 Asia/Calcutta] PHP Warning:  Undefined variable $AllCustomers in C:\xampp\htdocs\roofnassets\admin\users\index.php on line 206
+[16-Mar-2023 09:47:14 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\roofnassets\admin\users\index.php on line 266
+[16-Mar-2023 09:50:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\member\ods\index.php(35): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Mar-2023 10:02:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$odFormId in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 231
+[16-Mar-2023 10:02:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$odFormId in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 231
+[16-Mar-2023 10:02:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$odFormId in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 231
+[16-Mar-2023 10:02:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$odFormId in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 231
+[16-Mar-2023 10:02:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$odFormId in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 231
+[16-Mar-2023 10:02:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$odFormId in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 231
+[16-Mar-2023 10:02:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$odFormId in C:\xampp\htdocs\roofnassets\admin\hr\ods\index.php on line 231
+[16-Mar-2023 11:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "RegProjectId" in C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php on line 86
+[16-Mar-2023 11:55:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Mar-2023 11:55:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Mar-2023 12:07:19 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[16-Mar-2023 13:27:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Mar-2023 13:27:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Mar-2023 17:22:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Mar-2023 17:22:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[16-Mar-2023 17:24:32 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5

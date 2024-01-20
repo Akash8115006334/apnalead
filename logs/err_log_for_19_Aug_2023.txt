@@ -1,0 +1,776 @@
+[19-Aug-2023 07:00:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[19-Aug-2023 07:12:21 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 40
+[19-Aug-2023 07:12:21 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 45
+[19-Aug-2023 07:14:31 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 40
+[19-Aug-2023 07:14:31 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 45
+[19-Aug-2023 07:19:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0='PasswordChangeRequestStatus'  where PasswordChangeToken='' and UserIdForPa...' at line 1 in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php:10
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php(10): mysqli_query(Object(mysqli), 'UPDATE user_pas...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php(40): UPDATE('UPDATE user_pas...')
+#2 C:\xampp\htdocs\apnalead\auth\reset\index.php(69): UPDATE_TABLE('user_password_c...', Array, 'PasswordChangeT...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php on line 10
+[19-Aug-2023 07:19:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0='PasswordChangeRequestStatus'  where PasswordChangeToken='' and UserIdForPa...' at line 1 in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php:10
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php(10): mysqli_query(Object(mysqli), 'UPDATE user_pas...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php(40): UPDATE('UPDATE user_pas...')
+#2 C:\xampp\htdocs\apnalead\auth\reset\index.php(69): UPDATE_TABLE('user_password_c...', Array, 'PasswordChangeT...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php on line 10
+[19-Aug-2023 07:22:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function UPDATE_TABLE() in C:\xampp\htdocs\apnalead\auth\reset\index.php:69
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\auth\reset\index.php on line 69
+[19-Aug-2023 07:23:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0='PasswordChangeRequestStatus'  where PasswordChangeToken='' and UserIdForPa...' at line 1 in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php:10
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php(10): mysqli_query(Object(mysqli), 'UPDATE user_pas...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php(39): UPDATE('UPDATE user_pas...')
+#2 C:\xampp\htdocs\apnalead\auth\reset\index.php(69): UPDATE_TABLE('user_password_c...', Array, 'PasswordChangeT...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php on line 10
+[19-Aug-2023 07:23:59 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0='PasswordChangeRequestStatus'  where PasswordChangeToken='' and UserIdForPa...' at line 1 in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php:10
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php(10): mysqli_query(Object(mysqli), 'UPDATE user_pas...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php(39): UPDATE('UPDATE user_pas...')
+#2 C:\xampp\htdocs\apnalead\auth\reset\index.php(69): UPDATE_TABLE('user_password_c...', Array, 'PasswordChangeT...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php on line 10
+[19-Aug-2023 07:29:23 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 40
+[19-Aug-2023 07:29:23 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 45
+[19-Aug-2023 10:43:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[19-Aug-2023 10:49:01 Asia/Calcutta] PHP Warning:  Undefined array key "UserPhoneNumber" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 9
+[19-Aug-2023 10:50:49 Asia/Calcutta] PHP Warning:  Undefined array key "UserPhoneNumber" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 9
+[19-Aug-2023 11:08:28 Asia/Calcutta] PHP Warning:  Undefined array key "UserPhoneNumber" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 9
+[19-Aug-2023 11:09:24 Asia/Calcutta] PHP Warning:  Undefined array key "UserPhoneNumber" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 9
+[19-Aug-2023 11:10:09 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 14
+[19-Aug-2023 11:10:09 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLoginStatus' in 'where clause' in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php(15): FETCH('SELECT * FROM u...', 'UserId')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[19-Aug-2023 11:10:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserLoginStatus' in 'where clause' in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php(15): FETCH('SELECT * FROM u...', 'UserId')
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[19-Aug-2023 11:11:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[19-Aug-2023 11:12:18 Asia/Calcutta] PHP Warning:  include(../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:12:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:12:18 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:12:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:12:18 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:12:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:12:18 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:12:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:12:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:12:23 Asia/Calcutta] PHP Warning:  include(../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:12:23 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:12:23 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:12:23 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:12:23 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:12:23 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:12:23 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:12:24 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:12:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:12:25 Asia/Calcutta] PHP Warning:  include(../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:12:25 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:12:25 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:12:25 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:12:25 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:12:25 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:12:25 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:12:25 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:12:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:12:35 Asia/Calcutta] PHP Warning:  include(../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:12:35 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:12:35 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:12:35 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:12:35 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:12:35 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:12:35 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:12:35 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:12:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:13:03 Asia/Calcutta] PHP Warning:  include(../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:13:03 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:13:03 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:13:03 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:13:03 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:13:03 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:13:03 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:13:03 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:13:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:13:07 Asia/Calcutta] PHP Warning:  include(../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:13:07 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:13:07 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:13:07 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:13:07 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:13:07 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:13:07 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:13:07 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:13:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:13:13 Asia/Calcutta] PHP Warning:  include(../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:13:13 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:13:13 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:13:13 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:13:13 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:13:13 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:13:13 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:13:13 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:13:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:13:27 Asia/Calcutta] PHP Warning:  include(../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:13:27 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:13:27 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:13:27 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:13:27 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:13:27 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:13:27 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:13:27 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:13:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:13:45 Asia/Calcutta] PHP Warning:  include(../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:13:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:13:45 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:13:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:13:45 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:13:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:13:45 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:13:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:13:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:17:44 Asia/Calcutta] PHP Warning:  include(../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:17:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 28
+[19-Aug-2023 11:17:44 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:17:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:17:44 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:17:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:17:44 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:17:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:17:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:18:17 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:18:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:18:17 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:18:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:18:17 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:18:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:18:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:28:18 Asia/Calcutta] PHP Warning:  include(../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:28:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 39
+[19-Aug-2023 11:28:18 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:28:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:28:18 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:28:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 43
+[19-Aug-2023 11:28:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:55
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 55
+[19-Aug-2023 11:30:17 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 41
+[19-Aug-2023 11:30:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 41
+[19-Aug-2023 11:30:17 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:30:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:30:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:54
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 54
+[19-Aug-2023 11:30:27 Asia/Calcutta] PHP Warning:  include(../include/admin/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 41
+[19-Aug-2023 11:30:27 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 41
+[19-Aug-2023 11:30:27 Asia/Calcutta] PHP Warning:  include(../include/admin/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:30:27 Asia/Calcutta] PHP Warning:  include(): Failed opening '../include/admin/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 42
+[19-Aug-2023 11:30:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\apnalead\app\index.php:54
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 54
+[19-Aug-2023 11:32:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\apnalead\include\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\index.php(41): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\header.php on line 20
+[19-Aug-2023 11:42:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\apnalead\include\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\index.php(41): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\header.php on line 20
+[19-Aug-2023 11:42:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\apnalead\include\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\index.php(41): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\header.php on line 20
+[19-Aug-2023 11:44:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserFullName")" in C:\xampp\htdocs\apnalead\include\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\index.php(41): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\header.php on line 20
+[19-Aug-2023 11:55:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserId")" in C:\xampp\htdocs\apnalead\app\lead-dash.php:18
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\index.php(68): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\lead-dash.php on line 18
+[19-Aug-2023 11:55:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserId")" in C:\xampp\htdocs\apnalead\app\lead-dash.php:18
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\index.php(68): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\lead-dash.php on line 18
+[19-Aug-2023 11:55:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function DATE_FORMATES() in C:\xampp\htdocs\apnalead\include\birthday-pop-up.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\include\footer.php(7): include()
+#1 C:\xampp\htdocs\apnalead\app\index.php(79): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\birthday-pop-up.php on line 3
+[19-Aug-2023 11:56:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function DATE_FORMATES() in C:\xampp\htdocs\apnalead\include\birthday-pop-up.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\include\footer.php(7): include()
+#1 C:\xampp\htdocs\apnalead\app\index.php(79): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\birthday-pop-up.php on line 3
+[19-Aug-2023 12:06:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function DATE_FORMATES() in C:\xampp\htdocs\apnalead\include\footer.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\index.php(79): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\footer.php on line 59
+[19-Aug-2023 12:06:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function DATE_FORMATES() in C:\xampp\htdocs\apnalead\include\footer.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\index.php(79): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\footer.php on line 59
+[19-Aug-2023 12:06:51 Asia/Calcutta] PHP Warning:  include(../assets/footer_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 82
+[19-Aug-2023 12:06:51 Asia/Calcutta] PHP Warning:  include(): Failed opening '../assets/footer_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 82
+[19-Aug-2023 12:06:53 Asia/Calcutta] PHP Warning:  include(../assets/footer_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 82
+[19-Aug-2023 12:06:53 Asia/Calcutta] PHP Warning:  include(): Failed opening '../assets/footer_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 82
+[19-Aug-2023 12:08:05 Asia/Calcutta] PHP Warning:  include(../assets/footer_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\index.php on line 82
+[19-Aug-2023 12:08:05 Asia/Calcutta] PHP Warning:  include(): Failed opening '../assets/footer_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\index.php on line 82
+[19-Aug-2023 12:10:05 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apnalead\app\logout.php on line 5
+[19-Aug-2023 12:10:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CONFIG_DATA_SQL() in C:\xampp\htdocs\apnalead\app\leads\index.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\index.php on line 117
+[19-Aug-2023 12:11:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apnalead\app\logout.php on line 5
+[19-Aug-2023 12:11:51 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[19-Aug-2023 12:11:51 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function NoData(), 1 passed in C:\xampp\htdocs\apnalead\app\lead-dash.php on line 361 and exactly 2 expected in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\lead-dash.php(361): NoData('No FollowUps or...')
+#1 C:\xampp\htdocs\apnalead\app\index.php(61): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 3
+[19-Aug-2023 12:12:26 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function NoData(), 1 passed in C:\xampp\htdocs\apnalead\app\lead-dash.php on line 361 and exactly 2 expected in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\lead-dash.php(361): NoData('No FollowUps or...')
+#1 C:\xampp\htdocs\apnalead\app\index.php(61): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 3
+[19-Aug-2023 12:12:33 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function NoData(), 1 passed in C:\xampp\htdocs\apnalead\app\lead-dash.php on line 361 and exactly 2 expected in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\lead-dash.php(361): NoData('No FollowUps or...')
+#1 C:\xampp\htdocs\apnalead\app\index.php(61): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 3
+[19-Aug-2023 12:12:36 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function NoData(), 1 passed in C:\xampp\htdocs\apnalead\app\lead-dash.php on line 361 and exactly 2 expected in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\lead-dash.php(361): NoData('No FollowUps or...')
+#1 C:\xampp\htdocs\apnalead\app\index.php(61): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 3
+[19-Aug-2023 12:12:37 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function NoData(), 1 passed in C:\xampp\htdocs\apnalead\app\lead-dash.php on line 361 and exactly 2 expected in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\lead-dash.php(361): NoData('No FollowUps or...')
+#1 C:\xampp\htdocs\apnalead\app\index.php(61): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 3
+[19-Aug-2023 12:12:41 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function NoData(), 1 passed in C:\xampp\htdocs\apnalead\app\lead-dash.php on line 361 and exactly 2 expected in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\lead-dash.php(361): NoData('No FollowUps or...')
+#1 C:\xampp\htdocs\apnalead\app\index.php(61): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 3
+[19-Aug-2023 12:13:24 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function NoData(), 1 passed in C:\xampp\htdocs\apnalead\app\lead-dash.php on line 361 and exactly 2 expected in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\lead-dash.php(361): NoData('No FollowUps or...')
+#1 C:\xampp\htdocs\apnalead\app\index.php(61): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\Form.php on line 3
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\handler\ModuleController): Failed to open stream: Permission denied in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\handler/ModuleController/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\handler\ModuleController): Failed to open stream: Permission denied in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\handler/ModuleController/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\handler\ModuleController): Failed to open stream: Permission denied in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\handler/ModuleController/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\handler\ModuleController): Failed to open stream: Permission denied in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\handler/ModuleController/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\handler\ModuleController): Failed to open stream: Permission denied in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\handler/ModuleController/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\handler\ModuleController): Failed to open stream: Permission denied in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\handler/ModuleController/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 8
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $entrys in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\handler\ModuleController): Failed to open stream: Permission denied in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:08 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\handler/ModuleController/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\handler\ModuleHandler.php on line 9
+[19-Aug-2023 12:36:36 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: UPLOAD_FILES(): Argument #5 ($allowedfiles) must be of type ?array, string given, called in C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 5 and defined in C:\xampp\htdocs\apnalead\acm\SysModules\FILE_Modules\UploadHandler.php:3
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php(5): UPLOAD_FILES('../storage/user...', 'null', 'Profile_Photo__...', 'Profile', 'UserProfileImag...')
+#1 C:\xampp\htdocs\apnalead\handler\ModuleHandler.php(9): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\FILE_Modules\UploadHandler.php on line 3
+[19-Aug-2023 12:41:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CONFIG_DATA_SQL() in C:\xampp\htdocs\apnalead\app\leads\index.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\index.php on line 117
+[19-Aug-2023 12:41:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CONFIG_DATA_SQL() in C:\xampp\htdocs\apnalead\app\leads\index.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\index.php on line 117
+[19-Aug-2023 13:00:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CONFIG_DATA_SQL() in C:\xampp\htdocs\apnalead\app\leads\index.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\index.php on line 117
+[19-Aug-2023 13:09:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CONFIG_DATA_SQL() in C:\xampp\htdocs\apnalead\app\leads\index.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\index.php on line 117
+[19-Aug-2023 13:09:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CONFIG_DATA_SQL() in C:\xampp\htdocs\apnalead\app\leads\index.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\index.php on line 117
+[19-Aug-2023 13:19:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_RECORD_LISTING" in C:\xampp\htdocs\apnalead\app\leads\index.php:246
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\index.php on line 246
+[19-Aug-2023 13:19:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_RECORD_LISTING" in C:\xampp\htdocs\apnalead\app\leads\index.php:246
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\index.php on line 246
+[19-Aug-2023 13:21:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "CONTROL_APP_LOGS" in C:\xampp\htdocs\apnalead\acm\SysModules\ACTIVITY_Modules\AppLogsDB.php:7
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(37): GENERATE_APP_LOGS('INSERT_QUERY', 'INSERT INTO con...', 'INSERT')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\SysValues.php(23): INSERT('configurations', Array)
+#2 C:\xampp\htdocs\apnalead\acm\SysModules\CONFIG_Modules\Configurations.php(52): CONFIG('GOOGLE_MAP_API')
+#3 C:\xampp\htdocs\apnalead\acm\SystemFileProcessor.php(205): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\apnalead\app\leads\index.php(3): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\ACTIVITY_Modules\AppLogsDB.php on line 7
+[19-Aug-2023 13:23:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "CONTROL_APP_LOGS" in C:\xampp\htdocs\apnalead\acm\SysModules\ACTIVITY_Modules\AppLogsDB.php:7
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(37): GENERATE_APP_LOGS('INSERT_QUERY', 'INSERT INTO con...', 'INSERT')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\SysValues.php(23): INSERT('configurations', Array)
+#2 C:\xampp\htdocs\apnalead\acm\SysModules\CONFIG_Modules\Configurations.php(52): CONFIG('GOOGLE_MAP_API')
+#3 C:\xampp\htdocs\apnalead\acm\SystemFileProcessor.php(205): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\apnalead\app\leads\index.php(3): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\ACTIVITY_Modules\AppLogsDB.php on line 7
+[19-Aug-2023 13:28:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GENERATE_APP_LOGS() in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:37
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\SysValues.php(23): INSERT('configurations', Array)
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CONFIG_Modules\Configurations.php(52): CONFIG('GOOGLE_MAP_API')
+#2 C:\xampp\htdocs\apnalead\acm\SystemFileProcessor.php(196): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apnalead\app\leads\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 37
+[19-Aug-2023 13:28:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "CONTROL_APP_LOGS" in C:\xampp\htdocs\apnalead\acm\SysModules\ACTIVITY_Modules\AppLogsDB.php:7
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(37): GENERATE_APP_LOGS('INSERT_QUERY', 'INSERT INTO con...', 'INSERT')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\SysValues.php(23): INSERT('configurations', Array)
+#2 C:\xampp\htdocs\apnalead\acm\SysModules\CONFIG_Modules\Configurations.php(52): CONFIG('GOOGLE_MAP_API')
+#3 C:\xampp\htdocs\apnalead\acm\SystemFileProcessor.php(204): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\apnalead\app\leads\index.php(3): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\ACTIVITY_Modules\AppLogsDB.php on line 7
+[19-Aug-2023 13:29:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GENERATE_APP_LOGS() in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:37
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\SysValues.php(23): INSERT('configurations', Array)
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CONFIG_Modules\Configurations.php(52): CONFIG('GOOGLE_MAP_API')
+#2 C:\xampp\htdocs\apnalead\acm\SystemFileProcessor.php(75): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apnalead\app\leads\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 37
+[19-Aug-2023 13:29:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GENERATE_APP_LOGS() in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:37
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\SysValues.php(23): INSERT('configurations', Array)
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CONFIG_Modules\Configurations.php(52): CONFIG('GOOGLE_MAP_API')
+#2 C:\xampp\htdocs\apnalead\acm\SystemFileProcessor.php(75): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apnalead\app\leads\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 37
+[19-Aug-2023 13:30:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_RECORD_LISTING" in C:\xampp\htdocs\apnalead\app\leads\index.php:246
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\index.php on line 246
+[19-Aug-2023 13:32:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_RECORD_LISTING" in C:\xampp\htdocs\apnalead\app\leads\index.php:246
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\index.php on line 246
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 13:33:45 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/admin/common/lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/admin/common/lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 334
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:21:44 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\index.php on line 337
+[19-Aug-2023 14:31:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function TotalCalls() in C:\xampp\htdocs\apnalead\include\common\lead-list.php:120
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\leads\index.php(332): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\common\lead-list.php on line 120
+[19-Aug-2023 14:31:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function TotalCalls() in C:\xampp\htdocs\apnalead\include\common\lead-list.php:120
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\leads\index.php(332): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\common\lead-list.php on line 120
+[19-Aug-2023 14:32:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function TotalCalls() in C:\xampp\htdocs\apnalead\include\common\lead-list.php:120
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\leads\index.php(332): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\include\common\lead-list.php on line 120
+[19-Aug-2023 14:49:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\leads\details\index.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 34
+[19-Aug-2023 15:11:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\modules\UserModules.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\leads\index.php(379): UserDetails('3')
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\modules\UserModules.php on line 52
+[19-Aug-2023 15:11:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\modules\UserModules.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\leads\index.php(379): UserDetails('3')
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\modules\UserModules.php on line 52
+[19-Aug-2023 15:11:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\modules\UserModules.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\app\leads\index.php(379): UserDetails('3')
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\modules\UserModules.php on line 52
+[19-Aug-2023 15:16:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apnalead.config_locations' doesn't exist in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT('SELECT * FROM c...')
+#2 C:\xampp\htdocs\apnalead\modules\UserModules.php(11): FETCH('SELECT * FROM c...', 'config_location...')
+#3 C:\xampp\htdocs\apnalead\modules\UserModules.php(67): UserLocation('3')
+#4 C:\xampp\htdocs\apnalead\app\leads\index.php(379): UserDetails('3')
+#5 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in C:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[19-Aug-2023 15:28:46 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[19-Aug-2023 15:37:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function StatusView() in C:\xampp\htdocs\apnalead\app\teams\index.php:230
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\teams\index.php on line 230
+[19-Aug-2023 15:37:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function StatusView() in C:\xampp\htdocs\apnalead\app\teams\index.php:230
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\teams\index.php on line 230
+[19-Aug-2023 15:46:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function StatusView() in C:\xampp\htdocs\apnalead\app\teams\index.php:230
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\teams\index.php on line 230
+[19-Aug-2023 15:49:51 Asia/Calcutta] PHP Fatal error:  Cannot redeclare ReturnValue() (previously declared in C:\xampp\htdocs\apnalead\acm\SysModules\PHP_Modules\DataReturns.php:14) in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 266
+[19-Aug-2023 15:53:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apnalead.config_locations' doesn't exist in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT('SELECT * FROM c...')
+#2 C:\xampp\htdocs\apnalead\modules\UserModules.php(11): FETCH('SELECT * FROM c...', 'config_location...')
+#3 C:\xampp\htdocs\apnalead\app\teams\index.php(227): UserLocation('4')
+#4 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[19-Aug-2023 15:53:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apnalead.config_locations' doesn't exist in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(26): SELECT('SELECT * FROM c...')
+#2 C:\xampp\htdocs\apnalead\modules\UserModules.php(11): FETCH('SELECT * FROM c...', 'config_location...')
+#3 C:\xampp\htdocs\apnalead\app\teams\index.php(227): UserLocation('4')
+#4 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[19-Aug-2023 15:57:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "SERIAL_NO" in C:\xampp\htdocs\apnalead\app\users\index.php:207
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\users\index.php on line 207
+[19-Aug-2023 16:05:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "SERIAL_NO" in C:\xampp\htdocs\apnalead\app\users\index.php:207
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\users\index.php on line 207
+[19-Aug-2023 16:05:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "SERIAL_NO" in C:\xampp\htdocs\apnalead\app\users\index.php:207
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\users\index.php on line 207
+[19-Aug-2023 16:15:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "DEFAULT_RECORD_LISTING" in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php:286
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php(353): listingstartfrom('start')
+#1 C:\xampp\htdocs\apnalead\acm\SystemFileProcessor.php(109): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apnalead\app\users\index.php(3): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 286
+[19-Aug-2023 16:16:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GetUserImage() in C:\xampp\htdocs\apnalead\app\users\index.php:212
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\users\index.php on line 212
+[19-Aug-2023 16:16:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GetUserImage() in C:\xampp\htdocs\apnalead\app\users\index.php:212
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\users\index.php on line 212
+[19-Aug-2023 16:19:09 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[19-Aug-2023 16:19:09 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[19-Aug-2023 16:21:03 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[19-Aug-2023 16:21:03 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[19-Aug-2023 16:21:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\teams\details\index.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\teams\details\index.php on line 28
+[19-Aug-2023 16:21:12 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[19-Aug-2023 16:21:12 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\apnalead\app\teams\index.php on line 220
+[19-Aug-2023 16:29:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 C:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(136): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[19-Aug-2023 16:29:24 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 C:\xampp\htdocs\apnalead\app\leads\uploaded\index.php(136): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:37:42 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:41:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\app\leads\transfer\index.php on line 268
+[19-Aug-2023 16:57:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\leads\details\index.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 34
+[19-Aug-2023 17:13:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apnalead\app\leads\details\index.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\leads\details\index.php on line 34

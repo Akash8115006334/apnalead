@@ -1,0 +1,48 @@
+[27-Mar-2023 10:28:59 Asia/Calcutta] PHP Warning:  Undefined array key "LOGIN_USER_ID" in C:\xampp\htdocs\roofnassets\require\module\autoload.php on line 70
+[27-Mar-2023 10:29:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[27-Mar-2023 10:33:08 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rootandassets.od_forms' doesn't exist in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM o...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM o...')
+#2 C:\xampp\htdocs\roofnassets\require\module\autoload.php(15): _DB_COMMAND_('SELECT * FROM o...', true)
+#3 C:\xampp\htdocs\roofnassets\require\modules.php(50): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\admin\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[27-Mar-2023 10:34:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rootandassets.od_forms' doesn't exist in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM o...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(302): SELECT('SELECT * FROM o...')
+#2 C:\xampp\htdocs\roofnassets\require\module\autoload.php(15): _DB_COMMAND_('SELECT * FROM o...', true)
+#3 C:\xampp\htdocs\roofnassets\require\modules.php(50): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\admin\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[27-Mar-2023 11:20:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[27-Mar-2023 13:49:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\profile\index.php(35): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[27-Mar-2023 15:34:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[27-Mar-2023 15:40:41 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-New-Training.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\hr\training\index.php on line 118
+[27-Mar-2023 15:40:41 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-New-Training.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\hr\training\index.php on line 118
+[27-Mar-2023 15:42:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[27-Mar-2023 15:44:16 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-New-Training.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\admin\hr\training\index.php on line 116
+[27-Mar-2023 15:44:16 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-New-Training.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\admin\hr\training\index.php on line 116

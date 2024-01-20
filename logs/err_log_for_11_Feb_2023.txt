@@ -1,0 +1,77 @@
+[11-Feb-2023 13:32:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(50): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[11-Feb-2023 14:28:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[11-Feb-2023 15:34:02 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0, 15' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(283): SELECT('SELECT * FROM n...')
+#2 C:\xampp\htdocs\roofnassets\admin\digital\news\index.php(114): _DB_COMMAND_('SELECT * FROM n...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[11-Feb-2023 15:40:13 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in C:\xampp\htdocs\roofnassets\admin\digital\creatives\index.php on line 109
+[11-Feb-2023 15:50:35 Asia/Calcutta] PHP Warning:  Undefined variable $start in C:\xampp\htdocs\roofnassets\admin\digital\news\index.php on line 116
+[11-Feb-2023 15:50:35 Asia/Calcutta] PHP Warning:  Undefined variable $listcounts in C:\xampp\htdocs\roofnassets\admin\digital\news\index.php on line 116
+[11-Feb-2023 15:50:35 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(283): SELECT('SELECT * FROM n...')
+#2 C:\xampp\htdocs\roofnassets\admin\digital\news\index.php(116): _DB_COMMAND_('SELECT * FROM n...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[11-Feb-2023 15:51:32 Asia/Calcutta] PHP Warning:  Undefined variable $start in C:\xampp\htdocs\roofnassets\admin\digital\news\index.php on line 121
+[11-Feb-2023 15:51:32 Asia/Calcutta] PHP Warning:  Undefined variable $listcounts in C:\xampp\htdocs\roofnassets\admin\digital\news\index.php on line 121
+[11-Feb-2023 15:51:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(283): SELECT('SELECT * FROM n...')
+#2 C:\xampp\htdocs\roofnassets\admin\digital\news\index.php(121): _DB_COMMAND_('SELECT * FROM n...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[11-Feb-2023 15:54:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "START" in C:\xampp\htdocs\roofnassets\admin\digital\news\index.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\digital\news\index.php on line 122
+[11-Feb-2023 15:54:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "START" in C:\xampp\htdocs\roofnassets\admin\digital\news\index.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\admin\digital\news\index.php on line 122
+[11-Feb-2023 15:56:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '15' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(283): SELECT('SELECT * FROM n...')
+#2 C:\xampp\htdocs\roofnassets\admin\digital\news\index.php(114): _DB_COMMAND_('SELECT * FROM n...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[11-Feb-2023 15:56:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '15' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM n...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(283): SELECT('SELECT * FROM n...')
+#2 C:\xampp\htdocs\roofnassets\admin\digital\news\index.php(114): _DB_COMMAND_('SELECT * FROM n...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[11-Feb-2023 16:07:54 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpGroupNamef" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:20 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:20 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:21 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:24 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:25 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:25 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:27 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:28 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:10:31 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 259
+[11-Feb-2023 16:23:06 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\admin\logout.php on line 5
+[11-Feb-2023 16:23:18 Asia/Calcutta] PHP Warning:  Undefined variable $all in C:\xampp\htdocs\roofnassets\admin\lead-dash.php on line 327
+[11-Feb-2023 18:27:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\index.php(50): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62

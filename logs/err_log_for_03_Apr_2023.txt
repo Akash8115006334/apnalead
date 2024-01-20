@@ -1,0 +1,185 @@
+[03-Apr-2023 09:54:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\admission\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\admission\admin\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\admission\include\admin\header.php on line 62
+[03-Apr-2023 10:52:16 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.od_forms' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM o...')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(302): SELECT('SELECT * FROM o...')
+#2 C:\xampp\htdocs\admission\require\module\autoload.php(15): _DB_COMMAND_('SELECT * FROM o...', true)
+#3 C:\xampp\htdocs\admission\require\modules.php(50): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\admission\admin\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 10:52:43 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.app_quotes' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(302): SELECT('SELECT * FROM a...')
+#2 C:\xampp\htdocs\admission\admin\index.php(59): _DB_COMMAND_('SELECT * FROM a...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 10:52:49 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.app_quotes' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(302): SELECT('SELECT * FROM a...')
+#2 C:\xampp\htdocs\admission\admin\index.php(59): _DB_COMMAND_('SELECT * FROM a...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 10:53:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.app_quotes' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(302): SELECT('SELECT * FROM a...')
+#2 C:\xampp\htdocs\admission\admin\index.php(59): _DB_COMMAND_('SELECT * FROM a...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 10:54:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.app_quotes' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(302): SELECT('SELECT * FROM a...')
+#2 C:\xampp\htdocs\admission\admin\index.php(59): _DB_COMMAND_('SELECT * FROM a...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 10:54:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.app_quotes' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(302): SELECT('SELECT * FROM a...')
+#2 C:\xampp\htdocs\admission\admin\index.php(59): _DB_COMMAND_('SELECT * FROM a...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 10:55:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.app_quotes' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM a...')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(302): SELECT('SELECT * FROM a...')
+#2 C:\xampp\htdocs\admission\admin\index.php(59): _DB_COMMAND_('SELECT * FROM a...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 10:55:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.visitors' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM v...')
+#1 C:\xampp\htdocs\admission\include\admin\visit-pop-window.php(2): CHECK('SELECT * FROM v...')
+#2 C:\xampp\htdocs\admission\include\admin\footer.php(8): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\admission\admin\index.php(82): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 49
+[03-Apr-2023 10:55:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.visitors' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM v...')
+#1 C:\xampp\htdocs\admission\include\admin\visit-pop-window.php(2): CHECK('SELECT * FROM v...')
+#2 C:\xampp\htdocs\admission\include\admin\footer.php(8): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\admission\admin\index.php(82): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 49
+[03-Apr-2023 10:55:30 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.visitors' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM v...')
+#1 C:\xampp\htdocs\admission\include\admin\visit-pop-window.php(2): CHECK('SELECT * FROM v...')
+#2 C:\xampp\htdocs\admission\include\admin\footer.php(8): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\admission\admin\index.php(82): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 49
+[03-Apr-2023 10:56:17 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.user_employment_details' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\admission\admin\leads\index.php(89): CHECK('SELECT * FROM u...')
+#2 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 49
+[03-Apr-2023 10:56:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.user_employment_details' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\admission\admin\leads\index.php(89): CHECK('SELECT * FROM u...')
+#2 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 49
+[03-Apr-2023 10:56:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.user_employment_details' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\admission\admin\leads\index.php(89): CHECK('SELECT * FROM u...')
+#2 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 49
+[03-Apr-2023 10:56:47 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.user_employment_details' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\admission\admin\leads\index.php(89): CHECK('SELECT * FROM u...')
+#2 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 49
+[03-Apr-2023 11:04:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'admissions.user_employment_details' doesn't exist in C:\xampp\htdocs\admission\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(49): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\admission\admin\leads\index.php(89): CHECK('SELECT * FROM u...')
+#2 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 49
+[03-Apr-2023 11:05:51 Asia/Calcutta] PHP Warning:  Undefined variable $ListHeading in C:\xampp\htdocs\admission\admin\leads\index.php on line 55
+[03-Apr-2023 11:05:51 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 218
+[03-Apr-2023 11:05:51 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 307
+[03-Apr-2023 11:06:34 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 218
+[03-Apr-2023 11:06:34 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 307
+[03-Apr-2023 11:25:46 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 218
+[03-Apr-2023 11:25:46 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 307
+[03-Apr-2023 11:25:55 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 218
+[03-Apr-2023 11:25:55 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 307
+[03-Apr-2023 11:29:23 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 133
+[03-Apr-2023 11:29:23 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 218
+[03-Apr-2023 11:29:23 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 307
+[03-Apr-2023 11:31:36 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 133
+[03-Apr-2023 11:31:36 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 218
+[03-Apr-2023 11:31:36 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 307
+[03-Apr-2023 13:31:19 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 218
+[03-Apr-2023 13:31:29 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\admission\admin\leads\index.php on line 307
+[03-Apr-2023 14:07:01 Asia/Calcutta] PHP Warning:  Undefined array key "SHORT_DESCRIPTION" in C:\xampp\htdocs\admission\controller\configcontroller.php on line 15
+[03-Apr-2023 14:08:50 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:10:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:11:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:11:06 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:12:39 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:12:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:12:44 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:12:45 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:12:45 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:12:45 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:12:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:12:46 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:16:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:21:37 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:21:41 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:22:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:22:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 14:37:31 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 15:21:24 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\admission\admin\leads\add.php on line 296
+[03-Apr-2023 15:21:24 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\admission\admin\leads\add.php(296): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 15:27:46 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\admission\admin\leads\add.php on line 296
+[03-Apr-2023 15:27:46 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\admission\admin\leads\add.php(296): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 15:30:23 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\admission\admin\leads\add.php on line 296
+[03-Apr-2023 15:30:23 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\admission\admin\leads\add.php(296): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 15:30:28 Asia/Calcutta] PHP Warning:  Undefined variable $PageSqls in C:\xampp\htdocs\admission\admin\leads\add.php on line 296
+[03-Apr-2023 15:30:28 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\admission\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\admission\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\admission\require\module\crud.php(253): SELECT(NULL)
+#2 C:\xampp\htdocs\admission\admin\leads\add.php(296): FETCH(NULL, 'LeadPriorityLev...')
+#3 {main}
+  thrown in C:\xampp\htdocs\admission\require\module\crud.php on line 114
+[03-Apr-2023 15:41:42 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 15:42:09 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\admission\require\module\request.php on line 95
+[03-Apr-2023 15:42:09 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\admission\require\module\request.php on line 95
+[03-Apr-2023 16:09:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\admission\admin\leads\index.php on line 172
+[03-Apr-2023 16:45:46 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\campustimes\admin\logout.php on line 5
+[03-Apr-2023 16:46:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\campustimes\admin\leads\index.php on line 172
+[03-Apr-2023 17:06:38 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\campustimes\admin\leads\index.php on line 172

@@ -1,0 +1,888 @@
+[18-Aug-2023 17:58:38 Asia/Calcutta] PHP Warning:  require(C:\xampp\htdocs\apnalead\acm/SysDatabase/SystemDBConnector.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 37
+[18-Aug-2023 17:58:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\apnalead\acm/SysDatabase/SystemDBConnector.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\apnalead\index.php(3): require()
+#1 {main}
+  thrown in C:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 37
+[18-Aug-2023 17:58:58 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 17:58:58 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 17:58:58 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 17:58:58 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 17:58:58 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 17:58:58 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 17:58:58 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 17:58:58 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 17:58:58 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:01:47 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:01:47 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:01:47 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:01:47 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:01:47 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:01:47 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:01:47 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:01:47 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:01:47 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:02:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:02:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:02:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:02:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:02:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:02:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:02:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:02:05 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:02:05 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:03:37 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:03:37 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:03:37 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:03:37 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:03:37 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:03:37 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:03:37 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:03:37 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:03:37 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:03:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:03 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:05 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:06 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 11
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:13 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:43 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:04:44 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:45 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:05:46 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apnalead\app\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\app\index.php on line 10
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 14
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 14
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  include(../../../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 18
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 18
+[18-Aug-2023 18:06:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "APP_LOGO" in C:\xampp\htdocs\apnalead\auth\login\index.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\auth\login\index.php on line 25
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_DOMAIN already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 52
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  Constant DEVELOPED_BY already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 53
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_URL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 54
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PHONE already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 55
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_MAIL_ID already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 56
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_PANEL already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 57
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  Constant DEVELOPER_SUPPORT_APP_LINK already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 58
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 82
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 83
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  include(../../../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 14
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 14
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  include(../../../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 18
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 18
+[18-Aug-2023 18:07:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "APP_LOGO" in C:\xampp\htdocs\apnalead\auth\login\index.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\auth\login\index.php on line 25
+[18-Aug-2023 18:07:38 Asia/Calcutta] PHP Warning:  Constant USER_ROLES already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 73
+[18-Aug-2023 18:07:38 Asia/Calcutta] PHP Warning:  Constant USER_PERMISSIONS already defined in C:\xampp\htdocs\apnalead\acm\SystemConfigurations.php on line 74
+[18-Aug-2023 18:07:38 Asia/Calcutta] PHP Warning:  include(../../../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 14
+[18-Aug-2023 18:07:38 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 14
+[18-Aug-2023 18:07:38 Asia/Calcutta] PHP Warning:  include(../../../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 18
+[18-Aug-2023 18:07:38 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 18
+[18-Aug-2023 18:07:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "APP_LOGO" in C:\xampp\htdocs\apnalead\auth\login\index.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\auth\login\index.php on line 25
+[18-Aug-2023 18:12:12 Asia/Calcutta] PHP Warning:  include(../../../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 14
+[18-Aug-2023 18:12:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 14
+[18-Aug-2023 18:12:12 Asia/Calcutta] PHP Warning:  include(../../../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 18
+[18-Aug-2023 18:12:12 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 18
+[18-Aug-2023 18:12:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "APP_LOGO" in C:\xampp\htdocs\apnalead\auth\login\index.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apnalead\auth\login\index.php on line 25
+[18-Aug-2023 18:14:55 Asia/Calcutta] PHP Warning:  include(../../../include/admin/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 14
+[18-Aug-2023 18:14:55 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 14
+[18-Aug-2023 18:14:55 Asia/Calcutta] PHP Warning:  include(../../../include/admin/loader.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 18
+[18-Aug-2023 18:14:55 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/loader.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 18
+[18-Aug-2023 18:14:55 Asia/Calcutta] PHP Warning:  include(../../../include/admin/login-footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 44
+[18-Aug-2023 18:14:55 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/login-footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 44
+[18-Aug-2023 18:14:55 Asia/Calcutta] PHP Warning:  include(../../../include/admin/footer_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\auth\login\index.php on line 48
+[18-Aug-2023 18:14:55 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/admin/footer_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\auth\login\index.php on line 48
+[18-Aug-2023 18:19:23 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\assets/message.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\assets\FooterFilesLoader.php on line 1
+[18-Aug-2023 18:19:23 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\assets/message.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\assets\FooterFilesLoader.php on line 1
+[18-Aug-2023 18:19:29 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\assets/message.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\assets\FooterFilesLoader.php on line 1
+[18-Aug-2023 18:19:29 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\assets/message.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\assets\FooterFilesLoader.php on line 1
+[18-Aug-2023 18:19:50 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\assets/message.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\assets\FooterFilesLoader.php on line 1
+[18-Aug-2023 18:19:50 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\assets/message.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\assets\FooterFilesLoader.php on line 1
+[18-Aug-2023 18:19:54 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\assets/message.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\assets\FooterFilesLoader.php on line 1
+[18-Aug-2023 18:19:54 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\assets/message.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\assets\FooterFilesLoader.php on line 1
+[18-Aug-2023 18:20:45 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apnalead\assets/message.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apnalead\assets\FooterFilesLoader.php on line 1
+[18-Aug-2023 18:20:45 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apnalead\assets/message.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apnalead\assets\FooterFilesLoader.php on line 1
+[18-Aug-2023 18:32:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserPhoneNumber" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 31
+[18-Aug-2023 18:32:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserPhoneNumber" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 69
+[18-Aug-2023 18:33:03 Asia/Calcutta] PHP Warning:  Undefined array key "UserPhoneNumber" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 31
+[18-Aug-2023 18:33:03 Asia/Calcutta] PHP Warning:  Undefined array key "UserPhoneNumber" in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 69
+[18-Aug-2023 18:37:29 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 40
+[18-Aug-2023 18:37:29 Asia/Calcutta] PHP Warning:  Undefined variable $UserPhoneNumber in C:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 45

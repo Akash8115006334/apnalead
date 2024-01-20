@@ -1,0 +1,31 @@
+[11-Mar-2023 09:08:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[11-Mar-2023 22:22:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[11-Mar-2023 22:22:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserProfileImage")" in C:\xampp\htdocs\roofnassets\include\admin\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\admin\crm\bookings\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\admin\header.php on line 62
+[11-Mar-2023 22:41:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'RewardReceiveDate' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\admin\hr\appraisals\index.php(142): TOTAL('SELECT * FROM u...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[11-Mar-2023 22:41:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'RewardReceiveDate' in 'order clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\admin\hr\appraisals\index.php(142): TOTAL('SELECT * FROM u...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131
+[11-Mar-2023 22:41:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$user_appraisals in C:\xampp\htdocs\roofnassets\admin\hr\appraisals\index.php on line 161
+[11-Mar-2023 22:42:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$user_appraisals in C:\xampp\htdocs\roofnassets\admin\hr\appraisals\index.php on line 161
+[11-Mar-2023 22:42:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$user_appraisals in C:\xampp\htdocs\roofnassets\admin\hr\appraisals\index.php on line 161
+[11-Mar-2023 22:42:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$user_appraisals in C:\xampp\htdocs\roofnassets\admin\hr\appraisals\index.php on line 161

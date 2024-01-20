@@ -1,0 +1,42 @@
+[29-Aug-2023 10:10:27 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[29-Aug-2023 10:10:27 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[29-Aug-2023 10:10:27 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[29-Aug-2023 10:10:27 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[29-Aug-2023 10:10:43 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[29-Aug-2023 10:11:28 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[29-Aug-2023 10:11:28 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[29-Aug-2023 10:30:38 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[29-Aug-2023 10:30:38 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[29-Aug-2023 10:31:01 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\Payment\index.php:30
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 30
+[29-Aug-2023 10:31:22 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\Payment\index.php:31
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 31
+[29-Aug-2023 10:31:40 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\Payment\index.php:31
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 31
+[29-Aug-2023 10:31:43 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\Payment\index.php:31
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 31
+[29-Aug-2023 10:31:58 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\Payment\index.php:31
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 31
+[29-Aug-2023 10:32:11 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\Payment\index.php:31
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\Payment\index.php on line 31
+[29-Aug-2023 10:33:08 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[29-Aug-2023 10:33:08 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[29-Aug-2023 10:34:25 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[29-Aug-2023 10:34:25 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[29-Aug-2023 10:35:05 Asia/Calcutta] PHP Warning:  include(../../assets/HeaderFilesLoader.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[29-Aug-2023 10:35:05 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../assets/HeaderFilesLoader.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\response.php on line 12
+[29-Aug-2023 11:33:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[29-Aug-2023 11:34:33 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthController.php on line 199
+[29-Aug-2023 11:50:13 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 30

@@ -1,0 +1,190 @@
+[22-Sep-2023 09:58:41 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[22-Sep-2023 10:53:53 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 10:54:03 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[22-Sep-2023 10:54:17 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[22-Sep-2023 12:13:50 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[22-Sep-2023 12:14:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'CompanyID' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\configs\data-counters.php(65): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[22-Sep-2023 12:14:08 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'CompanyID' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM c...')
+#2 D:\xampp\htdocs\apnalead\app\configs\data-counters.php(65): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[22-Sep-2023 12:19:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 60
+[22-Sep-2023 12:19:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 62
+[22-Sep-2023 12:19:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:19:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 60
+[22-Sep-2023 12:19:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 62
+[22-Sep-2023 12:19:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:21:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:21:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:21:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:21:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:26:18 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 12:30:10 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[22-Sep-2023 12:30:28 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[22-Sep-2023 12:30:44 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DATE(LeadFollowUpDate)='2023-09-22' and LeadFollowUpRemindStatus='ACTIVE' ORD...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\lead-dash.php(99): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\index.php(77): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[22-Sep-2023 12:30:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DATE(LeadFollowUpDate)='2023-09-22' and LeadFollowUpRemindStatus='ACTIVE' ORD...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\lead-dash.php(99): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\index.php(77): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[22-Sep-2023 12:34:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 55
+[22-Sep-2023 12:34:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 56
+[22-Sep-2023 12:34:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 57
+[22-Sep-2023 12:34:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:34:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 55
+[22-Sep-2023 12:34:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 56
+[22-Sep-2023 12:34:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 57
+[22-Sep-2023 12:34:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:34:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DATE(LeadFollowUpDate)='2023-09-22' and LeadFollowUpRemindStatus='ACTIVE' ORD...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\lead-dash.php(99): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\index.php(77): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[22-Sep-2023 12:34:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 55
+[22-Sep-2023 12:34:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 56
+[22-Sep-2023 12:34:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 57
+[22-Sep-2023 12:34:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:34:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 55
+[22-Sep-2023 12:34:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 56
+[22-Sep-2023 12:34:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 57
+[22-Sep-2023 12:34:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:34:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DATE(LeadFollowUpDate)='2023-09-22' and LeadFollowUpRemindStatus='ACTIVE' ORD...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\lead-dash.php(99): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\index.php(77): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[22-Sep-2023 12:34:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 55
+[22-Sep-2023 12:34:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 56
+[22-Sep-2023 12:34:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 57
+[22-Sep-2023 12:34:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:34:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 55
+[22-Sep-2023 12:34:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 56
+[22-Sep-2023 12:34:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 57
+[22-Sep-2023 12:34:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:34:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DATE(LeadFollowUpDate)='2023-09-22' and LeadFollowUpRemindStatus='ACTIVE' ORD...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\lead-dash.php(99): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\index.php(77): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[22-Sep-2023 12:36:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:36:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:36:02 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DATE(LeadFollowUpDate)='2023-09-22' and LeadFollowUpRemindStatus='ACTIVE' ORD...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\lead-dash.php(99): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\index.php(77): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[22-Sep-2023 12:37:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:37:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:37:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY LeadFollowUpId DESC limit 0, 25' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\lead-dash.php(298): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 D:\xampp\htdocs\apnalead\app\index.php(77): include('D:\\xampp\\htdocs...')
+#4 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[22-Sep-2023 12:38:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:38:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:39:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:39:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:39:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:39:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:40:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:40:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:40:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:41:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:41:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:42:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:42:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:44:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:44:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:47:24 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 12:49:13 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[22-Sep-2023 12:49:32 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[22-Sep-2023 12:50:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:50:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:51:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:51:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:53:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 12:53:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 13:03:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 66
+[22-Sep-2023 13:04:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 86
+[22-Sep-2023 13:08:07 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "}" in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 21
+[22-Sep-2023 13:08:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "}" in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 21
+[22-Sep-2023 13:08:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 87
+[22-Sep-2023 13:09:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 87
+[22-Sep-2023 13:12:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 89
+[22-Sep-2023 13:13:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 89
+[22-Sep-2023 13:14:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 89
+[22-Sep-2023 13:15:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 89
+[22-Sep-2023 13:18:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 92
+[22-Sep-2023 13:22:57 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 13:23:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[22-Sep-2023 13:23:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 92
+[22-Sep-2023 13:24:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_counter_secondary_search in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 92
+[22-Sep-2023 13:32:05 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 13:38:07 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[22-Sep-2023 13:38:07 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 9
+[22-Sep-2023 13:38:07 Asia/Calcutta] PHP Warning:  Undefined array key "Industry" in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 17
+[22-Sep-2023 13:38:55 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 268
+[22-Sep-2023 13:39:18 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 13:40:29 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[22-Sep-2023 13:40:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 13:40:45 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[22-Sep-2023 13:45:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 13:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[22-Sep-2023 13:46:16 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 13:46:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[22-Sep-2023 13:47:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 13:47:30 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[22-Sep-2023 13:47:36 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[22-Sep-2023 13:47:41 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[22-Sep-2023 15:05:07 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[22-Sep-2023 15:05:09 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[22-Sep-2023 15:05:11 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[22-Sep-2023 15:05:12 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[22-Sep-2023 15:05:13 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[22-Sep-2023 15:05:14 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[22-Sep-2023 15:05:16 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in D:\xampp\htdocs\apnalead\include\forms\Add-Feedback.php on line 1
+[22-Sep-2023 15:05:25 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[22-Sep-2023 15:05:31 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 20
+[22-Sep-2023 15:05:52 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5

@@ -1,0 +1,58 @@
+[25-Apr-2023 10:41:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\saleskumar\require\module\crud.php:150
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\require\module\crud.php(150): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\saleskumar\config\config.php(78): CONFIG('APP_NAME')
+#2 C:\xampp\htdocs\saleskumar\require\modules.php(5): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\saleskumar\admin\leads\index.php(3): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\saleskumar\require\module\crud.php on line 150
+[25-Apr-2023 10:43:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AuthAppUser("UserType")" in C:\xampp\htdocs\saleskumar\admin\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\admin\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\saleskumar\admin\leads\sections\pageHeader.php on line 37
+[25-Apr-2023 10:49:30 Asia/Calcutta] PHP Warning:  include(../..//include/sections/Add-Data-Counter.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\configs\data-counters.php on line 97
+[25-Apr-2023 10:49:30 Asia/Calcutta] PHP Warning:  include(): Failed opening '../..//include/sections/Add-Data-Counter.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\configs\data-counters.php on line 97
+[25-Apr-2023 10:49:33 Asia/Calcutta] PHP Warning:  include(../..//include/sections/Add-Data-Counter.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\configs\data-counters.php on line 97
+[25-Apr-2023 10:49:33 Asia/Calcutta] PHP Warning:  include(): Failed opening '../..//include/sections/Add-Data-Counter.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\configs\data-counters.php on line 97
+[25-Apr-2023 10:54:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function UpperCase() in C:\xampp\htdocs\saleskumar\admin\lead-dash.php:79
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\admin\index.php(85): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\saleskumar\admin\lead-dash.php on line 79
+[25-Apr-2023 10:54:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function UpperCase() in C:\xampp\htdocs\saleskumar\admin\lead-dash.php:79
+Stack trace:
+#0 C:\xampp\htdocs\saleskumar\admin\index.php(85): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\saleskumar\admin\lead-dash.php on line 79
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(../../include/sections/Add-Instant-Feedback.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:09:40 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/sections/Add-Instant-Feedback.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 337
+[25-Apr-2023 11:16:28 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\saleskumar\admin\leads\index.php on line 172

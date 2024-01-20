@@ -1,0 +1,100 @@
+[14-Sep-2023 10:29:09 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[14-Sep-2023 10:33:17 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[14-Sep-2023 10:33:41 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[14-Sep-2023 10:34:11 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[14-Sep-2023 10:34:51 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\AdminPlanController.php on line 11
+[14-Sep-2023 10:42:37 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 5
+[14-Sep-2023 10:45:26 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 301
+[14-Sep-2023 10:45:26 Asia/Calcutta] PHP Warning:  Undefined variable $CompanyAdmin in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 305
+[14-Sep-2023 10:46:16 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 259
+[14-Sep-2023 10:46:40 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 259
+[14-Sep-2023 10:55:28 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 259
+[14-Sep-2023 11:43:15 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apnalead.user_billing' doesn't exist in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php(87): CHECK('SELECT * FROM u...')
+#2 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(10): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[14-Sep-2023 11:43:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'userId' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php(87): CHECK('SELECT * FROM u...')
+#2 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(10): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[14-Sep-2023 12:16:00 Asia/Calcutta] PHP Warning:  Undefined variable $PlanId in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 127
+[14-Sep-2023 12:21:02 Asia/Calcutta] PHP Warning:  Undefined variable $PlanId in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 142
+[14-Sep-2023 12:21:53 Asia/Calcutta] PHP Warning:  Undefined variable $billing2 in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 53
+[14-Sep-2023 12:21:53 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: UPDATE_TABLE(): Argument #2 ($colums) must be of type array, null given, called in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 53 and defined in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php:20
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php(53): UPDATE_TABLE('user_billings', NULL, 'user_main_id='1...')
+#1 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(10): include('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Update.php on line 20
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 12
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 12
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_name" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 30
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_email" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 31
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_mobile" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 32
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_name" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 40
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_description" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 41
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 44
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_image" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 49
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_pay_period" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 58
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 62
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 74
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 84
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 84
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 90
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 90
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_name" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 100
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_email" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 105
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_mobile" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 108
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_name" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 113
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_description" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 119
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_pay_period" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 124
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  Undefined array key "user_password" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 127
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  include(./../assets/FooterFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 148
+[14-Sep-2023 12:35:17 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/FooterFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 148
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  include(./../assets/HeaderFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 12
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/HeaderFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 12
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_name" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 30
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_email" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 31
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_mobile" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 32
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_name" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 40
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_description" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 41
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 44
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_image" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 49
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_pay_period" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 58
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 62
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 74
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 84
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 84
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 90
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_amount" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 90
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_name" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 100
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_email" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 105
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_mobile" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 108
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_plan_name" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 113
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_description" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 119
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_pay_period" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 124
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  Undefined array key "user_password" in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 127
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  include(./../assets/FooterFiles.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 148
+[14-Sep-2023 12:36:00 Asia/Calcutta] PHP Warning:  include(): Failed opening './../assets/FooterFiles.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\apnalead\app\UserBilling.php on line 148
+[14-Sep-2023 13:11:49 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[14-Sep-2023 15:24:01 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[14-Sep-2023 15:24:09 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 178
+[14-Sep-2023 16:22:05 Asia/Calcutta] PHP Warning:  Array to string conversion in D:\xampp\htdocs\apnalead\handler\ModuleController\CompanySetUp.php on line 43
+[14-Sep-2023 17:04:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[14-Sep-2023 17:04:27 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 178
+[14-Sep-2023 17:04:40 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 178
+[14-Sep-2023 17:13:55 Asia/Calcutta] PHP Warning:  Undefined array key "UserFullName" in D:\xampp\htdocs\apnalead\handler\ModuleController\UserController.php on line 259
+[14-Sep-2023 17:27:27 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[14-Sep-2023 17:27:34 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 178
+[14-Sep-2023 17:32:56 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[14-Sep-2023 17:33:14 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
+[14-Sep-2023 17:33:14 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 18
+[14-Sep-2023 17:33:15 Asia/Calcutta] PHP Warning:  Undefined array key "exist_plan" in D:\xampp\htdocs\apnalead\app\UserPlan\index.php on line 178
+[14-Sep-2023 17:37:05 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[14-Sep-2023 17:38:37 Asia/Calcutta] PHP Warning:  Undefined array key "UserRole" in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 32
