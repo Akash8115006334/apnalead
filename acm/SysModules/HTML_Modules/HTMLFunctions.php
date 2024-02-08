@@ -308,7 +308,7 @@ function listingstartfrom($Return = null)
 //pagination footers
 function PaginationFooter(int $TotalItems = 0, $RedirectForAll = "index.php")
 {
-  $RecordLimit = DEFAULT_RECORD_LISTING;
+  $RecordLimit = 10;
 
   // Get current page number
   if (isset($_GET["view_page"])) {
@@ -317,7 +317,11 @@ function PaginationFooter(int $TotalItems = 0, $RedirectForAll = "index.php")
     $page = 1;
   }
   $next_page = ($page + 1);
-  $previous_page = ($page - 1);
+  if ($page == 1) {
+    $previous_page = $page;
+  } else {
+    $previous_page = ($page - 1);
+  }
   $NetPages = round(($TotalItems / $RecordLimit) + 0.5);
   if (isset($_GET)) {
     $Paramertre = "";
@@ -335,7 +339,7 @@ function PaginationFooter(int $TotalItems = 0, $RedirectForAll = "index.php")
 ?>
   <div class="col-md-12 flex-s-b mt-2 mb-1">
     <div class="">
-      <h6 class="mb-0 text-light" style="font-size:0.75rem;"><span class='text-dark bold'>Page</span> <b class="text-danger fs-12"><?php echo IfRequested("GET", "view_page", $page, false); ?></b> <span class='text-dark bold'>from</span> <b class="text-success fs-12"><?php echo $NetPages; ?> </b> <span class='text-dark'>pages</span> <br> <span class='text-dark bold'>Total</span> <b class="text-warning fs-12"><?php echo $TotalItems; ?></b> <span class="text-dark"> entries </span></h6>
+      <h6 class="mb-0 text-light" style="font-size:0.75rem;"><span class='text-light bold'>Page</span> <b class="text-danger fs-12"><?php echo IfRequested("GET", "view_page", $page, false); ?></b> <span class='text-light bold'>from</span> <b class="text-success fs-12"><?php echo $NetPages; ?> </b> <span class='text-light'>pages</span> <br> <span class='text-light bold'>Total</span> <b class="text-warning fs-12"><?php echo $TotalItems; ?></b> <span class="text-light"> entries </span></h6>
     </div>
     <div class="flex">
       <span class="mr-1">

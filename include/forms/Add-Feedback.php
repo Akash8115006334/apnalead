@@ -23,19 +23,20 @@
               <div class="form-group col-md-6 mt-2">
                 <span id="call_connected" class="btn btn-default w-100">Yes, Connected?</span>
               </div>
+              <input type="text" name="currentURL" hidden id="urlInput" class="w-100 custom-input " placeholder="Current URL" value="" readonly>
+
               <div class="row w-100 text-left hidden" id="call_not_connected_box">
                 <div class="col-md-12">
                   <hr>
                   <p><b>Please specify the reason?</b></p>
                   <hr>
                 </div>
-                <div class="col-md-6  ml-3">
-
-                  <label class="btn btn-default"><input type="Radio" value="Out Of Coverage Area" name="LeadFollowStatus"> Out Of Coverage Area</label><br>
-                  <label class="btn btn-default"><input type="Radio" value="Switch Off" name="LeadFollowStatus"> Switch Off </label><br>
-                  <label class="btn btn-default"><input type="Radio" value="Number Dose not Exist" name="LeadFollowStatus"> Number Dose not Exist </label><br>
-                  <label class="btn btn-default"><input type="Radio" value="Out of Validity" name="LeadFollowStatus"> Out of Validity </label><br>
-                  <label class="btn btn-default"><input type="Radio" value="Not Picked" name="LeadFollowStatus"> Not Picked</label><br>
+                <div class="col-md-12  ml-3">
+                  <label class="btn btn-default"><input required type="Radio" value="Out Of Coverage Area" name="LeadFollowStatus"> Out Of Coverage Area</label><br>
+                  <label class="btn btn-default"><input required type="Radio" value="Switch Off" name="LeadFollowStatus"> Switch Off </label><br>
+                  <label class="btn btn-default"><input required type="Radio" value="Number Dose not Exist" name="LeadFollowStatus"> Number Dose not Exist </label><br>
+                  <label class="btn btn-default"><input required type="Radio" value="Out of Validity" name="LeadFollowStatus"> Out of Validity </label><br>
+                  <label class="btn btn-default"><input required type="Radio" value="Not Picked" name="LeadFollowStatus"> Not Picked</label><br>
                 </div>
 
               </div>
@@ -46,7 +47,6 @@
                   <hr>
                 </div>
                 <div class="col-md-5 ml-3">
-
                   <?php
                   $UserID = AuthAppUser("UserId");
                   $companyID = FETCH("SELECT * FROM company_users WHERE company_alloted_user_id='$UserID'", "company_main_id");
@@ -54,15 +54,13 @@
                   if ($CallStatus != null) {
                     foreach ($CallStatus as $Status) {
                       $configValueDetails = $Status->ConfigValueDetails;
-                      echo '<label class="btn btn-default"><input type="radio" value="' . $configValueDetails . '" onclick="checkFollowUp(this)" name="LeadFollowStatus"> ' . $configValueDetails . '</label><br>';
+                      echo '<label class="btn btn-default"><input type="radio" required  value="' . $configValueDetails . '" onclick="checkFollowUp(this)" name="LeadFollowStatus"> ' . $configValueDetails . '</label><br>';
                     }
                   } else {
                     NoData("Add Call Status!!");
                   }
                   ?>
-
                 </div>
-
                 <div class="col-md-12 m-2">
                   <label for="set_reminder" id="followup" class="btn btn-info hidden">
                     <input id="set_reminder" name="mycheckbtn" type="checkbox" style="display: none;">SET REMINDER
@@ -96,7 +94,6 @@
                     </select>
                   </div>
                 </div>
-
               </div>
             </div>
             <div class="col-md-12 m-2">
@@ -197,4 +194,8 @@
     });
 
   });
+</script>
+<script>
+  let currentUrl = window.location.href;
+  document.getElementById("urlInput").value = currentUrl
 </script>

@@ -1,0 +1,379 @@
+[03-Feb-2024 10:51:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[03-Feb-2024 10:51:49 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:51:50 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[03-Feb-2024 10:52:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 10:52:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 10:52:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 13:24:22 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 13:24:22 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 13:24:22 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 13:35:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'live_apnalead.residential_leads' doesn't exist in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT LeadMini...')
+#1 D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php(64): CHECK('SELECT LeadMini...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadType in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 114
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined variable $Budget in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 140
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined variable $RequiredPeriod in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 148
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined variable $Purpose in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 156
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadType in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 114
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined variable $Budget in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 140
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined variable $RequiredPeriod in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 148
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined variable $Purpose in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 156
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadType in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 114
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined variable $Budget in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 140
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined variable $RequiredPeriod in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 148
+[03-Feb-2024 13:36:07 Asia/Calcutta] PHP Warning:  Undefined variable $Purpose in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 156
+[03-Feb-2024 13:37:41 Asia/Calcutta] PHP Warning:  Undefined variable $Budget in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 136
+[03-Feb-2024 13:37:41 Asia/Calcutta] PHP Warning:  Undefined variable $RequiredPeriod in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 144
+[03-Feb-2024 13:37:41 Asia/Calcutta] PHP Warning:  Undefined variable $Purpose in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 152
+[03-Feb-2024 13:37:41 Asia/Calcutta] PHP Warning:  Undefined variable $Budget in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 136
+[03-Feb-2024 13:37:41 Asia/Calcutta] PHP Warning:  Undefined variable $RequiredPeriod in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 144
+[03-Feb-2024 13:37:41 Asia/Calcutta] PHP Warning:  Undefined variable $Purpose in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 152
+[03-Feb-2024 13:37:41 Asia/Calcutta] PHP Warning:  Undefined variable $Budget in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 136
+[03-Feb-2024 13:37:41 Asia/Calcutta] PHP Warning:  Undefined variable $RequiredPeriod in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 144
+[03-Feb-2024 13:37:41 Asia/Calcutta] PHP Warning:  Undefined variable $Purpose in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 152
+[03-Feb-2024 13:54:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-15, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php(13): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[03-Feb-2024 13:56:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in D:\xampp\htdocs\apnalead\app\leads\index.php:319
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\leads\index.php on line 319
+[03-Feb-2024 13:56:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in D:\xampp\htdocs\apnalead\app\leads\index.php:319
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\leads\index.php on line 319
+[03-Feb-2024 15:03:11 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php:9
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 9
+[03-Feb-2024 15:05:09 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-15, 15' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php(13): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[03-Feb-2024 15:06:31 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php:9
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 9
+[03-Feb-2024 15:07:19 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php:9
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 9
+[03-Feb-2024 15:22:43 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php:9
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 9
+[03-Feb-2024 15:22:45 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 15:22:45 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 15:22:45 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 15:23:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'CompanyID' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Suggest.php(6): CHECK('SELECT * FROM u...')
+#2 D:\xampp\htdocs\apnalead\app\users\index.php(115): SUGGEST('users', 'UserType', 'ASC')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[03-Feb-2024 15:23:50 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'CompanyID' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Suggest.php(6): CHECK('SELECT * FROM u...')
+#2 D:\xampp\htdocs\apnalead\app\users\index.php(115): SUGGEST('users', 'UserType', 'ASC')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[03-Feb-2024 15:31:10 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php:9
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php on line 9
+[03-Feb-2024 15:35:37 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\FetchAllData.php(13): _DB_COMMAND_('SELECT * FROM l...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[03-Feb-2024 15:43:07 Asia/Calcutta] PHP Warning:  Undefined array key "LeadRequirment" in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 12
+[03-Feb-2024 15:43:07 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 13
+[03-Feb-2024 15:43:07 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonFullname" in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 14
+[03-Feb-2024 15:43:07 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonManagedBy" in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 17
+[03-Feb-2024 15:43:07 Asia/Calcutta] PHP Warning:  Undefined array key "from" in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 18
+[03-Feb-2024 15:43:07 Asia/Calcutta] PHP Warning:  Undefined array key "to" in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 19
+[03-Feb-2024 15:43:53 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 15:43:53 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 15:43:53 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 15:46:14 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 15:46:14 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 15:46:14 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 15:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 15:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 15:49:34 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 15:49:40 Asia/Calcutta] PHP Warning:  Undefined array key "LeadType" in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 16
+[03-Feb-2024 15:49:40 Asia/Calcutta] PHP Warning:  Undefined variable $LEAD_SQLS in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 98
+[03-Feb-2024 15:49:40 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(98): TOTAL('')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 15:53:24 Asia/Calcutta] PHP Warning:  Undefined array key "LeadCreatedAt" in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 16
+[03-Feb-2024 15:53:24 Asia/Calcutta] PHP Warning:  Undefined variable $LeadType in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 25
+[03-Feb-2024 15:53:24 Asia/Calcutta] PHP Warning:  Undefined variable $LEAD_SQLS in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 98
+[03-Feb-2024 15:53:24 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(98): TOTAL('')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 15:53:52 Asia/Calcutta] PHP Warning:  Undefined variable $LeadType in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 25
+[03-Feb-2024 15:53:52 Asia/Calcutta] PHP Warning:  Undefined variable $LEAD_SQLS in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 98
+[03-Feb-2024 15:53:52 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(98): TOTAL('')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 15:54:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeadType in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 25
+[03-Feb-2024 15:54:06 Asia/Calcutta] PHP Warning:  Undefined variable $LEAD_SQLS in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 98
+[03-Feb-2024 15:54:06 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(98): TOTAL('')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 15:56:31 Asia/Calcutta] PHP Warning:  Undefined variable $LEAD_SQLS in D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php on line 98
+[03-Feb-2024 15:56:31 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), '')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(98): TOTAL('')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 16:02:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'LeadPersonCreated' in 'where clause' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM L...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(98): TOTAL('SELECT * FROM L...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 16:30:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\app\leads\index.php on line 203
+[03-Feb-2024 16:30:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\app\leads\index.php on line 212
+[03-Feb-2024 16:30:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\app\leads\index.php on line 212
+[03-Feb-2024 16:30:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\app\leads\index.php on line 203
+[03-Feb-2024 16:30:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\app\leads\index.php on line 212
+[03-Feb-2024 16:30:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\app\leads\index.php on line 212
+[03-Feb-2024 16:30:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\app\leads\index.php on line 203
+[03-Feb-2024 16:30:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\app\leads\index.php on line 212
+[03-Feb-2024 16:30:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadPersonManagedBy in D:\xampp\htdocs\apnalead\app\leads\index.php on line 212
+[03-Feb-2024 16:33:38 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 16:33:38 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 16:33:38 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 16:35:27 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 16:35:27 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 16:35:27 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 16:35:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 16:35:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 16:35:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 16:36:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 16:36:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 16:36:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 16:36:48 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 16:36:48 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 16:36:48 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 17:37:01 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 343
+[03-Feb-2024 17:51:49 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel1" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 350
+[03-Feb-2024 17:55:19 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[03-Feb-2024 17:55:26 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 17:55:26 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 17:55:26 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 17:59:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "," in D:\xampp\htdocs\apnalead\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 309
+[03-Feb-2024 18:07:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[03-Feb-2024 18:07:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[03-Feb-2024 18:07:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[03-Feb-2024 18:07:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[03-Feb-2024 18:07:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[03-Feb-2024 18:07:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[03-Feb-2024 18:07:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[03-Feb-2024 18:07:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[03-Feb-2024 18:07:58 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in D:\xampp\htdocs\apnalead\app\teams\index.php on line 241
+[03-Feb-2024 18:08:46 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 18:08:46 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 18:08:46 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 18:09:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 18:09:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 18:09:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 18:13:26 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 349
+[03-Feb-2024 18:13:26 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel1" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 350
+[03-Feb-2024 18:13:56 Asia/Calcutta] PHP Warning:  Undefined array key "LeadFollowStatus" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 349
+[03-Feb-2024 18:13:56 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel1" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 350
+[03-Feb-2024 18:14:22 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel1" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 350
+[03-Feb-2024 18:15:25 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel1" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 350
+[03-Feb-2024 18:55:55 Asia/Calcutta] PHP Warning:  Undefined variable $ProjectTypes in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[03-Feb-2024 18:55:55 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\xampp\htdocs\apnalead\app\leads\add.php on line 175
+[03-Feb-2024 19:01:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'lead_requirements.LeadRequirementDetails='8' and and CompanyID='11' and LeadP...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(105): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:02:49 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'lead_requirements.LeadRequirementDetails='8' and and CompanyID='11' and LeadP...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(105): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:02:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'lead_requirements.LeadRequirementDetails='9' and and CompanyID='11' and LeadP...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(105): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:03:09 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'lead_requirements.LeadRequirementDetails='8' and and CompanyID='11' and LeadP...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(105): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:03:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and CompanyID='11' and LeadPersonFullname like '%%'  and LeadPersonPhoneNumbe...' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(105): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:19:32 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPriorityLevel1" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 350
+[03-Feb-2024 19:21:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 19:21:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 19:21:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 19:27:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and  LeadPersonCreatedAt like '%%' GROUP BY LeadsId ORDER BY LeadsId DESC' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(112): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:27:50 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY LeadsId ORDER BY LeadsId DESC' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(112): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:28:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY LeadsId ORDER BY LeadsId DESC' at line 1 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(112): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:29:20 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY LeadsId ORDER BY LeadsId DESC' at line 9 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(132): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:29:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY LeadsId ORDER BY LeadsId DESC' at line 9 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(132): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:31:08 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CompanyID='11' 
+                    and LeadPriorityLevel like '%%' 
+      ...' at line 3 in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM l...')
+#1 D:\xampp\htdocs\apnalead\app\leads\sections\pageHeader.php(124): TOTAL('SELECT * FROM l...')
+#2 D:\xampp\htdocs\apnalead\app\leads\index.php(13): include('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[03-Feb-2024 19:40:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[03-Feb-2024 19:40:53 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 19:40:53 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 19:40:53 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 19:40:53 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[03-Feb-2024 19:46:57 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 19:46:57 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 19:46:57 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 19:46:57 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[03-Feb-2024 19:47:09 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[03-Feb-2024 19:47:30 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 19:47:30 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 19:47:30 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213
+[03-Feb-2024 19:50:20 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 206
+[03-Feb-2024 19:50:20 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 210
+[03-Feb-2024 19:50:20 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 213

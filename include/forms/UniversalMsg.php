@@ -6,7 +6,7 @@ if (isset($_GET["UpdateWindow"])) {
     if (isset($_SESSION['UniversalMsg'])) {
         $UniversalHiddenValue = "hidden";
     } else {
-        $UniversalHiddenValue = "hidden";
+        $UniversalHiddenValue = "";
     }
 }
 ?>
@@ -24,8 +24,8 @@ if (isset($_GET["UpdateWindow"])) {
                 </center>
                 <div class="row">
                     <div class="col-md-12 text-justify fs-18">
-                        <p>ApnaLead CRM brings a sleek new UI, detailed user call history, advanced date filters, and real-time counters for Facebook and website leads."</p><br>
-                        <p>"<i>"Thanks for staying with ApnaLead! Your ongoing support is priceless as we enhance our CRM platform. Let's reach new heights of success together. We value your partnership!"</i>"</p>
+                        <p>"ApnaLead CRM introduces a streamlined and modern user interface, making lead management effortlessly efficient."</p><br>
+                        <p>"<i>Thanks for staying with ApnaLead! Your ongoing support is priceless as we enhance our CRM platform. Let's reach new heights of success together. We value your partnership!</i>"</p>
                     </div>
                 </div>
             </div>

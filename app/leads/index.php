@@ -74,8 +74,7 @@ $previous_page = ($page - 1);
               <div class="card card-primary new-bg-color">
                 <div class="card-body">
                   <div class="row">
-
-                    <div class="col-sm-5 col-12">
+                    <div class="col-sm-12 col-12">
                       <?php
                       if (isset($_GET['type'])) {
                         $ListHeading = "All " . ucfirst(str_replace("_", " ", $_GET['type']))  . "";
@@ -86,270 +85,272 @@ $previous_page = ($page - 1);
                       } else {
                         $ListHeading = "All Leads";
                       } ?>
-                      <h2 class="app-heading"><?php echo $ListHeading; ?> <small class="text-grey"> </small></h2>
+                      <div class="flex-s-b data-list bg-light">
+                        <div class="flex-s-b align-items-center">
+                          <h3 class="bold m-1">
+                            <?php echo $ListHeading; ?>
+                          </h3>
+                        </div>
+                        <div class="text-right">
+                          <div>
+                            <span class=" btn btn-xs btn-default cursor-default mr-1"><i class="fa fa-flag text-success" aria-hidden="true"></i> HIGH</span>
+                            <span class=" btn btn-xs btn-default cursor-default mr-1"><i class="fa fa-flag text-info" aria-hidden="true"></i> MEDIUM</span>
+                            <span class=" btn btn-xs btn-default cursor-default mr-1"><i class="fa fa-flag text-warning" aria-hidden="true"></i> LOW</span>
+                            <span class=" btn btn-xs btn-default cursor-default mr-1"><i class="fa fa-comments text-info" aria-hidden="true"></i> Add Feedback</span><br>
+                          </div>
+                          <div class="mt-2">
+                            <span id="lead_action" class=" btn btn-xs btn-info  mr-1"><i class="fa fa-eye text-light" aria-hidden="true"></i> Lead Action</span>
+                            <a href="add.php" class=" btn btn-xs btn-danger mr-1"><i class="fa fa-plus fs-10 text-white" aria-hidden="true"></i> Add New Lead </b></a>
+                            <span class=" btn btn-xs btn-default cursor-default mr-1"><i class="fa fa-circle fs-10 text-gray" aria-hidden="true"></i> Total Lead <b><?php echo TOTAL("SELECT LeadsId FROM leads WHERE CompanyID='" . CompanyId . "' GROUP BY LeadsId"); ?></b></span>
+                          </div>
+                          <div class="hidden mt-2" id="lead_action_div">
+                            <?php if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") { ?>
+                              <a href="uploads/" class="btn btn-xs btn-dark "><i class="fa fa-upload"></i> Upload Bulk Leads</a>
+                              <a href="../teams/" class="btn btn-xs btn-dark ">Team Leads</a>
+                              <a href="transfer/" class="btn btn-xs btn-dark "><i class="fa fa-exchange"></i> Move Leads </a>
+                              <a href="uploaded/" class="btn btn-xs btn-dark ">Uploaded Leads</a>
+                            <?php } ?>
+                            <?php
+                            $CheckReportingManagersStatus = CHECK("SELECT * FROM user_employment_details where UserEmpReportingMember='" . AuthAppUser("UserId") . "'");
+                            if ($CheckReportingManagersStatus != NULL) { ?>
+                              <a href="../teams/" class="btn btn-xs btn-dark ">Team Leads</a>
+                            <?php } ?>
+                          </div>
+                        </div>
+                      </div>
                     </div>
-                    <div class="col-sm-7 text-right">
-                      <span class="btn btn-dark" id="lead_action"> <i class="fa fa-cogs text-light" aria-hidden="true"></i> Lead Action</span>
-                      <span class="btn btn-dark" id="lead_filter"> <i class="fa fa-filter text-light" aria-hidden="true"></i> Lead Filter</span>
-                    </div>
-
-                    <!-- leads action -->
-                    <div class="col-sm-12 col-12 text-right hidden" id="lead_action_div">
-                      <?php if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") { ?>
-                        <a href="uploads/" class="btn btn-sm btn-dark m-1"><i class="fa fa-upload"></i> Upload Bulk Leads</a>
-                        <a href="../teams/" class="btn btn-sm btn-dark m-1">Team Leads</a>
-                        <a href="transfer/" class="btn btn-sm btn-dark m-1"><i class="fa fa-exchange"></i> Move Leads </a>
-                        <a href="uploaded/" class="btn btn-sm btn-dark m-1">Uploaded Leads</a>
-                      <?php } ?>
-                      <?php
-                      $CheckReportingManagersStatus = CHECK("SELECT * FROM user_employment_details where UserEmpReportingMember='" . AuthAppUser("UserId") . "'");
-                      if ($CheckReportingManagersStatus != NULL) { ?>
-                        <a href="../teams/" class="btn btn-sm btn-dark m-1">Team Leads</a>
-                      <?php } ?>
-                      <a href="add.php" class="btn btn-sm btn-dark m-1"><i class="fa fa-plus"></i> New Lead</a>
-                    </div>
-                  </div>
-                  <!-- filter -->
-
-                  <div class="row hidden " id="lead_filter_div">
-                    <div class="col-md-12 col-12">
-                      <form class="row">
-                        <input type="text" hidden id="leascurrentstatus" name="LeadPersonSubStatus" value="">
-                        <input type="text" hidden id="leasstatus" name="LeadPersonStatus" value="">
-                        <div class="col-md-2 col-6 flex-s-b">
-                          <select class="form-control form-control-sm " name="LeadFollowStatus" onchange="form.submit()">
-                            <option value="">All Lead Status</option>
-                            <option value="FRESH LEAD">FRESH LEAD</option>
-
-                            <?php
-                            $FetchCallStatus = _DB_COMMAND_("SELECT * FROM configs, config_values where configs.ConfigsId=config_values.ConfigValueGroupId and configs.ConfigGroupName='CALL_STATUS' and config_values.CompanyID='$companyID'", true);
-                            if ($FetchCallStatus != null) {
-                              foreach ($FetchCallStatus as $CallStatus) {
-                                if (isset($_GET['LeadFollowStatus'])) {
-                                  $arr = ["Call Back", "Ringing", "Not Picked", "Not Interested", "Already Taken", "Junk Call", "Out Of Coverage Area", "Switch Off", "Number Dose not Exist", "Out of Validity"];
-                                  if ($_GET['LeadFollowStatus'] == $CallStatus->ConfigValueDetails) {
-                                    $selected = "selected";
-                                  } else {
-                                    $selected = "";
-                                  }
-                                } else {
-                                  $selected = "";
-                                } ?>
-                                <option <?php echo $selected; ?> value="<?php echo $CallStatus->ConfigValueDetails; ?>"><?php echo $CallStatus->ConfigValueDetails; ?></option>
-                            <?php
-                              }
-                            } ?>
-                            <option value="Not Picked">Not Picked</option>
-                            <option value="Out Of Coverage Area"> Out Of Coverage Area</option>
-                            <option value="Switch Off"> Switch Off </option>
-                            <option value="Number Dose not Exist"> Number Dose not Exist </option>
-                            <option value="Out of Validity"> Out of Validity </option>
-                          </select>
+                    <div class="col-md-12 col-12 mt-0">
+                      <div class="data-list bg-light">
+                        <div class="flex-s-b btn-default data-list">
+                          <div class="w-pr-5">
+                            <span class="bold  ">Sr. No</span>
+                          </div>
+                          <div class="w-pr-20 pl-2">
+                            <span class="bold">Name</span>
+                          </div>
+                          <div class="w-pr-15">
+                            <span class="bold  ">Phone</span>
+                          </div>
+                          <div class="w-pr-13 text-center">
+                            <span class="bold  ">Lead Stage</span>
+                          </div>
+                          <div class="w-pr-10 text-center">
+                            <span class="bold  ">Source</span>
+                          </div>
+                          <div class="w-pr-10 text-center">
+                            <span class="bold">Created Date</span>
+                          </div>
+                          <div class="w-pr-12 text-center">
+                            <span class="bold">Managed By</span>
+                          </div>
+                          <div class="w-pr-15 text-center">
+                            <span class="bold">Action</span>
+                          </div>
                         </div>
-                        <div class="col-md-2 col-6">
-                          <select name="LeadRequirment" onchange="form.submit()" class="form-control form-control-sm">
-                            <option value="">By All Projects</option>
-                            <?php
-                            $FetchProjectName = _DB_COMMAND_("SELECT * FROM projects where CompanyID='$companyID'", true);
-                            if ($FetchProjectName != null) {
-                              foreach ($FetchProjectName as $Project) {
-                                if (isset($_GET['LeadRequirment'])) {
-                                  if ($_GET['LeadRequirment'] == $Project->ProjectsId) {
-                                    $selected = "selected";
-                                  } else {
-                                    $selected = "";
-                                  }
-                                } else {
-                                  $selected = "";
-                                }
-                            ?>
-                                <option <?php echo $selected; ?> value="<?php echo $Project->ProjectsId; ?>"><?php echo $Project->ProjectName; ?></option>
-                            <?php
-                              }
-                            } ?>
-                          </select>
-                        </div>
-                        <div class="col-md-2 col-6">
-                          <input type="text" name="LeadPersonFullname" list="LeadPersonFullname" class="form-control form-control-sm " placeholder="Enter Person name">
-                        </div>
-                        <div class="col-md-2 col-6">
-                          <input type="text" name="LeadPersonPhoneNumber" list="LeadPersonPhoneNumber" class="form-control form-control-sm " placeholder="Enter Phone number">
-                        </div>
-                        <div class="col-md-2 col-6">
-                          <input type="text" value="" name="LeadPersonSource" list="LeadPersonSource" class="form-control form-control-sm " placeholder="Lead Source">
-                        </div>
-                        <?php
-                        if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") { ?>
-                          <div class="col-md-2 col-6">
-                            <select name="LeadPersonManagedBy" onchange="form.submit()" class="form-control form-control-sm">
-                              <option value="">All Users</option>
-                              <?php
-                              $FetchLeadsStatus = _DB_COMMAND_("SELECT * FROM leads where CompanyId='$companyID' GROUP BY LeadPersonManagedBy", true);
-                              if ($FetchCallStatus != null) {
-                                foreach ($FetchLeadsStatus as $LeadBy) {
-                                  if (isset($_GET['LeadPersonManagedBy'])) {
-                                    if ($_GET['LeadPersonManagedBy'] == $LeadBy->LeadPersonManagedBy) {
-                                      $selected = "selected";
+                        <form>
+                          <div class="flex-s-b w-100">
+                            <input type="text" hidden name="search_true">
+                            <div class="w-pr-25">
+                              <input type="text" onchange="form.submit()" name="LeadPersonFullName" list="LeadPersonFullname" class="w-100 custom-input form-control" value="<?php echo IfRequested("GET", "LeadPersonFullName", "", false); ?>" placeholder="Enter Full Name">
+                              <?php SUGGEST("leads", "LeadPersonFullname", "ASC", CompanyId); ?>
+                            </div>
+                            <div class="w-pr-15 ">
+                              <input type="text" onchange="form.submit()" name="LeadPersonPhoneNumber" list="LeadPersonPhoneNumber" pattern="0-9" class="w-100 custom-input text-left form-control" placeholder="Phone Number" value="<?php echo IfRequested("GET", "LeadPersonPhoneNumber", "", false); ?>">
+                              <?php SUGGEST("leads", "LeadPersonPhoneNumber", "ASC", CompanyId); ?>
+                            </div>
+                            <div class="w-pr-13">
+                              <select name="LeadPersonStatus" onchange="form.submit()" id="" class="w-100 custom-option form-control fs-15">
+                                <option value="">Select Status</option>
+                                <?php
+                                $FetchCallStatus = _DB_COMMAND_("SELECT * FROM configs, config_values where configs.ConfigsId=config_values.ConfigValueGroupId and configs.ConfigGroupName='CALL_STATUS' and config_values.CompanyID='$companyID'", true);
+                                if ($FetchCallStatus != null) {
+                                  foreach ($FetchCallStatus as $CallStatus) {
+                                    if (isset($_GET['LeadPersonStatus'])) {
+                                      // $arr = ["Call Back", "Ringing", "Not Picked", "Not Interested", "Already Taken", "Junk Call", "Out Of Coverage Area", "Switch Off", "Number Dose not Exist", "Out of Validity"];
+                                      if ($_GET['LeadPersonStatus'] == $CallStatus->ConfigValueDetails) {
+                                        $selected = "selected";
+                                      } else {
+                                        $selected = "";
+                                      }
                                     } else {
                                       $selected = "";
-                                    }
-                                  } else {
-                                    $selected = "";
+                                    } ?>
+                                    <option <?php echo $selected; ?> value="<?php echo $CallStatus->ConfigValueDetails; ?>"><?php echo $CallStatus->ConfigValueDetails; ?></option>
+                                <?php
                                   }
-                              ?>
-                                  <option <?php echo $selected; ?> value="<?php echo $LeadBy->LeadPersonManagedBy; ?>"><?php echo FETCH("SELECT * FROM users where UserId='" . $LeadBy->LeadPersonManagedBy . "'", "UserFullName"); ?></option>
+                                  InputOptions(["FRESH LEAD", "Not Picked", "Out Of Coverage Area", "Switch Off", "Number Dose not Exist", "Out of Validity"], IfRequested("GET", "LeadPersonStatus", "", false));
+                                } ?>
+                              </select>
+                            </div>
+                            <div class="w-pr-10">
+                              <input type="text" onchange="form.submit()" name="LeadPersonSource" list="LeadPersonSource" class="w-100 custom-input text-center form-control" placeholder="Source" value="<?php echo IfRequested("GET", "LeadPersonSource", "", false); ?>">
+                              <?php SUGGEST("leads", "LeadPersonSource", "ASC", CompanyId); ?>
+                            </div>
+                            <div class="w-pr-10">
+                              <input type="text" onchange="form.submit()" onclick="changeInputType(this)" name="LeadCreatedAt" class="w-100 custom-input form-control" placeholder="Date" value="<?php echo IfRequested("GET", "LeadCreatedAt", "", false); ?>">
+                            </div>
+                            <div class="w-pr-12">
                               <?php
-                                }
-                              }
-                              ?>
-                            </select>
-                          </div>
-                        <?php } else { ?>
-                          <input type="text" hidden value="<?php echo AuthAppUser("UserId"); ?>" name="LeadPersonManagedBy" class="form-control" value='<?php echo date("Y-m-d"); ?>'>
-                        <?php } ?>
+                              if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") { ?>
+                                <select name="LeadManagedBy" onchange="form.submit()" class="w-100 custom-option form-control fs-15">
+                                  <option value="">All Users</option>
+                                  <?php
+                                  $FetchLeadsStatus = _DB_COMMAND_("SELECT company_alloted_user_id FROM company_users where company_main_id='$companyID' GROUP BY company_alloted_user_id", true);
+                                  if ($FetchCallStatus != null) {
+                                    foreach ($FetchLeadsStatus as $LeadBy) {
+                                      if (isset($_GET['LeadManagedBy'])) {
+                                        if ($_GET['LeadManagedBy'] == $LeadBy->company_alloted_user_id) {
+                                          $selected = "selected";
+                                        } else {
+                                          $selected = "";
+                                        }
+                                      } else {
+                                        $selected = "";
+                                      }
+                                  ?>
+                                      <option <?php echo $selected; ?> value="<?php echo $LeadBy->company_alloted_user_id; ?>"><?php echo FETCH("SELECT * FROM users where UserId='" . $LeadBy->company_alloted_user_id . "'", "UserFullName"); ?></option>
+                                  <?php
+                                    }
+                                  }
+                                  ?>
+                                </select>
 
-                        <div class="col-md-2 col-6">
-                          <input type="text" id="fromDateInput" name="from" autocomplete="off" placeholder="From Date" class="form-control" onclick="changeInputType('fromDateInput')">
-                        </div>
-                        <div class="col-md-2 col-6">
-                          <input type="text" id="toDateInput" name="to" autocomplete="off" placeholder="To Date" class="form-control" onclick="changeInputType('toDateInput')">
-                        </div>
-                        <div class="col-md-2 col-6">
-                          <button type="submit" name="search_true" class="btn btn-sm btn-primary btn-block">Apply Filters</button>
-                        </div>
-                        <div class="col-md-2 col-6">
-                          <?php
-                          $Filters = "";
-                          if (isset($_GET['LeadRequirment'])) {
-                            foreach ($_GET as $param_name => $param_value) {
-                              $Filters .= $param_name . '=' . $param_value . '&';
-                            }
-                          } ?>
-                          <a href="export/csv.php?<?php echo $Filters; ?>" type="submit" name="export_true" class="btn btn-sm btn-default btn-block">Export CSV <i class="fa fa-file text-success"></i></a>
-                        </div>
-                      </form>
+                              <?php } else { ?>
+                                <input type="text" readonly class="w-100 custom-input form-control text-center" value="<?php echo FETCH("SELECT UserFullName FROM users WHERE UserId='" . AuthAppUser("UserId") . "'", "UserFullName"); ?>" name="LeadManagedBy">
+                              <?php } ?>
+                            </div>
+                            <div class="w-pr-15 text-center ">
+                              <span class="btn btn-xs btn-warning w-75 mt-2" id="filter">More Filter</span>
+                            </div>
+
+                          </div>
+                          <div class="row m-0 hidden" id="more_filter">
+                            <div class="col-md-12 m-0">
+                              <hr class="new-hr m-0">
+                              <div class="flex mt-0">
+                                <div class="w-pr-20 mr-1">
+                                  <select name="LeadRequirment" onchange="form.submit()" class="w-100 custom-option form-control fs-15">
+                                    <option value="">By All Projects</option>
+                                    <?php
+                                    $FetchProjectName = _DB_COMMAND_("SELECT * FROM projects where CompanyID='$companyID'", true);
+                                    if ($FetchProjectName != null) {
+                                      foreach ($FetchProjectName as $Project) {
+                                        if (isset($_GET['LeadRequirment'])) {
+                                          if ($_GET['LeadRequirment'] == $Project->ProjectsId) {
+                                            $selected = "selected";
+                                          } else {
+                                            $selected = "";
+                                          }
+                                        } else {
+                                          $selected = "";
+                                        }
+                                    ?>
+                                        <option <?php echo $selected; ?> value="<?php echo $Project->ProjectsId; ?>"><?php echo $Project->ProjectName; ?></option>
+                                    <?php
+                                      }
+                                    } ?>
+                                  </select>
+                                </div>
+                                <div class="w-pr-15 ml-1">
+                                  <select name="LeadPriorityLevel" onchange="form.submit()" class="w-100 custom-option form-control fs-15">
+                                    <option value="">Select Priority Level</option>
+                                    <?php CONFIG_VALUES("LEAD_PERIORITY_LEVEL", IfRequested("GET", "LeadPriorityLevel", "", false)); ?>
+                                  </select>
+                                </div>
+                                <div class="w-pr-65 text-right">
+
+                                  <?php
+                                  if (AuthAppUser("UserType") == "Admin") {
+                                    $Filters = "";
+                                    if (isset($_GET['search_true'])) {
+                                      foreach ($_GET as $param_name => $param_value) {
+                                        $Filters .= $param_name . '=' . $param_value . '&';
+                                      }
+                                    } ?>
+                                    <a href="export/csv.php?<?php echo $Filters; ?>" type="submit" name="export_true" class="btn btn-xs btn-success p-1  mt-2 ">Export CSV <i class="fa fa-file text-light"></i></a>
+                                  <?php } ?>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                        </form>
+                      </div>
                     </div>
                   </div>
-                  <?php if (isset($_GET['LeadRequirment'])) { ?>
+                  <?php if (isset($_GET['search_true'])) {
+                  ?>
                     <div class="row">
                       <div class="col-md-12 mb-2 shadow-sm p-2 bg-light">
-                        <h6 class="mb-2 text-black"><i class="fa fa-filter text-warning"></i> Filter Applied</h6>
-                        <span class="flex-s-b">
-                          <p class="fs-11">
-                            <span>
-                              <span class="text-grey">Lead Status :</span>
-                              <span class="bold"><?php echo IfRequested("GET", "LeadFollowStatus", "All", false); ?></span>
-                            </span>
-                            <span>
-                              <span class="text-grey">Project Type :</span>
-                              <span class="bold"><?php $requirementId = IfRequested("GET", "LeadRequirment", "All", false);
-                                                  $ProjectName = FETCH("SELECT * FROM projects where ProjectsId='$requirementId'", "ProjectName");
-                                                  if ($ProjectName == 0) {
-                                                    $res = "By All Project";
-                                                  } else {
-                                                    $res =  $ProjectName;
-                                                  }
-                                                  echo $res; ?></span>
-                            </span>
-                            <span>
-                              <span class="text-grey">Person Name :</span>
-                              <span class="bold"><?php echo IfRequested("GET", "LeadPersonFullname", "All", false);  ?></span>
-                            </span>
-                            <span>
-                              <span class="text-grey">Phone Number :</span>
-                              <span class="bold"><?php echo IfRequested("GET", "LeadPersonPhoneNumber", "All", false);  ?></span>
-                            </span>
-                            <span>
-                              <span class='text-grey'>Priority level :</span>
-                              <span class='bold'><?php echo IfRequested("GET", "LeadPriorityLevel", "All", false);  ?></span>
-                            </span>
-                            <span>
-                              <span class='text-grey'>Lead Source : </span>
-                              <span class='bold'><?php echo IfRequested("GET", "LeadPersonSource", "All", false);  ?></span>
-                            </span>
-                            <span>
-                              <span class='text-grey'>From Date : </span>
-                              <span class='bold'><?php echo IfRequested("GET", "from", "All", false);  ?></span>
-                            </span>
-                            <span>
-                              <span class='text-grey'>To Date : </span>
-                              <span class='bold'><?php echo IfRequested("GET", "to", "All", false);  ?></span>
-                            </span>
-                            <span>
-                              <span class='text-grey'>Managed By : </span>
-                              <span class='bold'>
-                                <?php $UserResponseId = IfRequested("GET", "LeadPersonManagedBy", "All", false);
-                                if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") {
-                                  $UserFullName = FETCH("SELECT * FROM users where UserId='$UserResponseId'", "UserFullName");
-                                  $UserPhoneNumber = FETCH("SELECT * FROM users where UserId='$UserResponseId'", "UserPhoneNumber");
-                                  if ($UserFullName == null || $UserPhoneNumber  == 0) {
-                                    $res = "By All Users";
-                                  } else {
-                                    $res = $UserFullName . " @ " . $UserPhoneNumber;
-                                  }
-                                } else {
-                                  $res = FETCH("SELECT * FROM users where UserId='" . AuthAppUser("UserId") . "'", "UserFullName");
-                                }
-                                echo $res; ?>
-                              </span>
-                            </span>
-                          </p>
+                        <h6 class="mb-2"><i class="fa fa-filter text-warning"></i> Search Result <b class="fs-20"><?php echo $TotalItems; ?></b></h6>
+                        <p class="fs-11">
                           <span>
-                            <span class="text-gray">Total :</span>
-                            <span class="bold"><?php echo $TotalItems; ?> Leads</span>
+                            <span class="text-grey">Person Name :</span>
+                            <span class="bold"><?php echo IfRequested("GET", "LeadPersonFullName", "All", false);  ?></span>
                           </span>
-                        </span>
+                          <span>
+                            <span class="text-grey">Phone Number :</span>
+                            <span class="bold"><?php echo IfRequested("GET", "LeadPersonPhoneNumber", "All", false);  ?></span>
+                          </span>
+                          <span>
+                            <span class="text-grey">Lead Status :</span>
+                            <span class="bold"><?php echo IfRequested("GET", "LeadPersonStatus", "All", false);  ?></span>
+                          </span>
+                          <span>
+                            <span class="text-grey">Project Name:</span>
+                            <span class="bold"><?php $projectid = IfRequested("GET", "LeadRequirment", "All", false);
+                                                if ($projectid != null) {
+                                                  echo FETCH("SELECT ProjectName FROM projects WHERE ProjectsId='$projectid' and  CompanyID='$companyID'", "ProjectName");
+                                                } ?></span>
+                          </span>
+                          <span>
+                            <span class="text-grey">Priority Level :</span>
+                            <span class="bold"><?php echo IfRequested("GET", "LeadPriorityLevel", "All", false);  ?></span>
+                          </span>
+                          <span>
+                            <span class="text-grey">Source :</span>
+                            <span class="bold"><?php echo IfRequested("GET", "LeadPersonSource", "All", false);  ?></span>
+                          </span>
+                          <span>
+                            <span class="text-grey">LeadCreatedAt :</span>
+                            <span class="bold"><?php echo IfRequested("GET", "LeadCreatedAt", "All", false);  ?></span>
+                          </span>
+                          <span>
+                            <span class="text-grey">Managed By :</span>
+                            <span class="bold"><?php $userid = IfRequested("GET", "LeadManagedBy", "All", false);
+                                                if ($userid == null) {
+                                                  echo "All";
+                                                } else {
+                                                  echo FETCH("SELECT UserFullName FROM users where UserId='$userid'", "UserFullName");
+                                                } ?></span>
+                          </span>
+                        </p>
                         <a href="index.php" class="btn btn-xs btn-danger fs-11 pull-right" style="margin-top:-5.3em !important;">Clear Filter <i class="fa fa-times"></i></a>
                       </div>
                     </div>
-                  <?php } ?>
+                  <?php }
+                  ?>
+                  <?php
+                  $listcounts = 10;
+                  // Get current page number
+                  if (isset($_GET["view_page"])) {
+                    $page = $_GET["view_page"];
+                  } else {
+                    $page = 1;
+                  }
+                  $start = ($page - 1) * $listcounts;
+                  $next_page = ($page + 1);
+                  $previous_page = ($page - 1);
+                  $NetPages = round(($TotalItems / $listcounts) + 0.5);
+                  ?>
                   <div class="row">
                     <div class="col-md-12" id="lead-content">
                       <center>
                         <i class="fa fa-spinner fa-spin h1 text-center"></i> <br>Loding Details........ <br>
                       </center>
                     </div>
-                    <div class="col-md-12 flex-s-b mt-2 mb-1">
-                      <?php
-                      $listcounts = DEFAULT_RECORD_LISTING;
-                      $NetPages = round(($TotalItems / $listcounts) + 0.5);
-                      ?>
-                      <div class="">
-                        <span class="mb-0" style="font-size:0.75rem;color:white;">Page <b class="text-danger fs-12"><?php echo IfRequested("GET", "view_page", $page, false); ?></b> from <b class="text-info fs-12"><?php echo $NetPages; ?> </b> pages <br>Total <b class="text-success fs-12"><?php echo $TotalItems; ?></b> Entries</span>
-                      </div>
-                      <div class="flex">
-                        <span class="mr-1">
-                          <?php
-                          if (isset($_GET['view'])) {
-                            $viewcheck = "&view=" . $_GET['view'];
-                          } else {
-                            $viewcheck = "";
-                          }
-                          if (isset($_GET['sub_status'])) {
-                            $sub_statuscheck = "&sub_status=" . $_GET['sub_status'];
-                          } else {
-                            $sub_statuscheck = "";
-                          }
-                          if (isset($_GET['LeadRequirment']) || isset($_GET['LeadFollowStatus']) || isset($_GET['search_true'])) {
-                            $pagefilter = "&LeadPersonManagedBy=" . $_GET['LeadPersonManagedBy'] . "&LeadPersonSource=" . "&LeadRequirment=" . $_GET['LeadRequirment'] . "&LeadPersonStatus=" . $_GET['LeadPersonStatus'] . "&LeadFollowStatus=" . $_GET['LeadFollowStatus'] . "&LeadPersonFullname=" . $_GET['LeadPersonFullname'] . "&LeadPersonPhoneNumber=" . $_GET['LeadPersonPhoneNumber'] . "&from=" . $_GET['from'] . "&to=" . $_GET['to'];
-                          } else {
-                            $pagefilter = "";
-                          } ?>
-                          <a href="?view_page=<?php echo $previous_page; ?><?php echo $viewcheck; ?><?php echo $sub_statuscheck; ?><?php echo $pagefilter; ?>" class="btn btn-sm btn-default"><i class="fa fa-angle-double-left"></i></a>
-                        </span>
-                        <form style="padding:0.3rem !important;">
-                          <input type="number" name="view_page" onchange="form.submit()" class="form-control form-control-sm  mb-0" min="1" max="<?php echo $NetPages; ?>" value="<?php echo IfRequested("GET", "view_page", 1, false); ?>">
-                        </form>
-                        <span class="ml-1">
-                          <a href="?view_page=<?php echo $next_page; ?><?php echo $viewcheck; ?><?php echo $sub_statuscheck; ?><?php echo $pagefilter; ?>" class="btn btn-sm btn-default"><i class="fa fa-angle-double-right"></i></a>
-                        </span>
-                        <?php if (isset($_GET['view_page'])) { ?>
-                          <span class="ml-1">
-                            <a href="index.php" class="btn btn-sm btn-danger mb-0"><i class="fa fa-times m-1"></i></a>
-                          </span>
-                        <?php } ?>
-                      </div>
-                    </div>
+                    <?php PaginationFooter($TotalItems, "index.php"); ?>
+
                   </div>
                 </div>
               </div>
@@ -363,6 +364,7 @@ $previous_page = ($page - 1);
   </div>
   <script>
     $(document).ready(function() {
+      let currentUrl = window.location.href;
       $.ajax({
         url: "FetchAllData.php",
         type: "POST",
@@ -371,6 +373,7 @@ $previous_page = ($page - 1);
           Lead_Sql: "<?php echo $LEAD_SQLS; ?>",
           TotalLeads: "<?php echo $TotalItems; ?>",
           ListCount: "<?php echo $listcounts; ?>",
+          CurrentUrl: currentUrl,
 
         },
         success: function(data) {
@@ -395,25 +398,32 @@ $previous_page = ($page - 1);
       <?php }
       } ?>
     }
-
     // lead filter and action script
-
     document.getElementById("lead_action").addEventListener("click", function() {
       document.getElementById("lead_action_div").classList.toggle("hidden");
     });
-    document.getElementById("lead_filter").addEventListener("click", function() {
-      document.getElementById("lead_filter_div").classList.toggle("hidden");
+    document.getElementById("filter").addEventListener("click", function() {
+      document.getElementById("more_filter").classList.toggle("hidden");
     });
   </script>
   <script>
-    function changeInputType(inputId) {
-      var input = document.getElementById(inputId);
-      input.type = 'date';
-      input.removeEventListener('click', function() {
-        changeInputType(inputId);
-      });
+    function changeInputType(input) {
+      input.type = "date";
     }
   </script>
+  <script>
+    // $(document).on("click", ".feedbackFormIcon", function(event) {
+    //   let currentUrl = window.location.href;
+    //   let clickedSpanId = $(event.target).closest('span').attr('id');
+
+    //   // Set the URL to the input field
+    //   document.getElementById("urlInput").value = currentUrl;
+
+    //   // Log or use the clicked span ID as needed
+    //   console.log("Clicked span ID: " + clickedSpanId);
+    // });
+  </script>
+
   <?php include $Dir . "/assets/FooterFilesLoader.php"; ?>
 </body>
 

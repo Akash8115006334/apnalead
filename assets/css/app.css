@@ -2065,3 +2065,48 @@ td {
   background-color: #302de9 !important;
 }
 
+.new-lead-outline{
+  outline: 1px solid rgb(13, 119, 41) !important;
+}
+.cursor-default{
+  cursor: default !important;
+}
+.cursor-default:hover{
+    background-color: none !important;
+}
+.custom-input{
+border: none !important;
+background: transparent !important;
+outline: none!important;
+padding: .3rem !important;
+}
+.custom-option{
+ border: none !important;
+ outline: none !important;
+ padding: .3rem !important;
+ background: transparent !important;
+}
+.new-hr{
+  border: 1px solid  rgba(226, 30, 16, 0.833) !important;
+  margin-bottom: .3rem !important;
+}
+
+.popup {
+  visibility: hidden !important;
+  position: absolute !important;
+  background-color: #fff !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2) !important;
+  width: 20%;
+  border-radius: 5px;
+  padding: 10px !important;
+  top: 10% !important;
+  right: 8%  !important;
+  transition: visibility 0.2s;
+  z-index: 9999 !important;
+}
+.popup-btn:hover +.popup {
+  visibility: visible  !important;
+}
+.heading{
+  background-color: #17ac35 !important;
+}

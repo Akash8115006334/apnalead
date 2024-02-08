@@ -112,7 +112,7 @@ define("DEFAULT_RECORD_LISTING",  CONFIG("DEFAULT_RECORD_LISTING"));
 // default values 
 define("MAXIMUM_DIGITAL_USER", "2");
 
-/// sign up config files======================
+// signup industry
 define("Industry", [
     "RealEstate",
     "Education",
@@ -124,3 +124,4 @@ define("Industry", [
     "IT Services",
     "Others"
 ]);
+

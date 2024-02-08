@@ -339,11 +339,18 @@ elseif (isset($_POST['CreateLeads'])) {
 
   //add leads status
 } elseif (isset($_POST['AddLeadStatus'])) {
+  if (isset($_POST['currentURL'])) {
+    $Url = $_POST['currentURL'];
+  } else {
+    $Url = APP_URL . "/leads/index.php";
+  }
   $LeadFollowMainId = SECURE($_POST['LeadFollowMainId'], "d");
   $LeadFollowStatus = $_POST['LeadFollowStatus'];
-  $LeadPriorityLevel = $_POST['LeadPriorityLevel'];
-
-
+  if ($_POST['LeadPriorityLevel1'] !== null) {
+    $LeadPriorityLevel = $_POST['LeadPriorityLevel1'];
+  } else {
+    $LeadPriorityLevel = $_POST['LeadPriorityLevel'];
+  }
   if (isset($_POST['mycheckbtn'])) {
     $LeadFollowUpRemindNotes = $_POST['LeadFollowUpDescriptions'];
     $LeadFollowUpRemindStatus = "ACTIVE";
@@ -405,7 +412,7 @@ elseif (isset($_POST['CreateLeads'])) {
   $Update = UPDATE("UPDATE lead_followups SET LeadFollowUpRemindStatus='INACTIVE' where LeadFollowMainId='$LeadFollowMainId'");
   $Save = INSERT("lead_followups", $data);
   $Update = UPDATE("UPDATE leads SET LeadPersonStatus='$LeadFollowStatus', LeadPersonSubStatus='$LeadPersonSubStatus', LeadPersonLastUpdatedAt='" . date("Y-m-d h:i:s A") . "', LeadPriorityLevel='$LeadPriorityLevel' where LeadsId='$LeadFollowMainId'");
-  RESPONSE($Save, "Leads Status & Follow Up Details are saved successfully!", "Unable to save lead status & follow up details at the moment!", APP_URL . "/leads/index.php");
+  RESPONSE($Save, "Leads Status & Follow Up Details are saved successfully!", "Unable to save lead status & follow up details at the moment!", $Url);
 
   //update reminder
 } elseif (isset($_POST['UpdateFollowUp'])) {

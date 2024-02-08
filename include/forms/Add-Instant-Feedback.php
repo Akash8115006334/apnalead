@@ -33,11 +33,11 @@
                                 <hr>
                             </div>
                             <div class="col-md-6 ml-3">
-                                <label class="btn btn-default"><input type="Radio" value="Out Of Coverage Area" name="LeadFollowStatus"> Out Of Coverage Area</label><br>
-                                <label class="btn btn-default"><input type="Radio" value="Switch Off" name="LeadFollowStatus"> Switch Off </label><br>
-                                <label class="btn btn-default"><input type="Radio" value="Number Dose not Exist" name="LeadFollowStatus"> Number Dose not Exist </label><br>
-                                <label class="btn btn-default"><input type="Radio" value="Out of Validity" name="LeadFollowStatus"> Out of Validity </label><br>
-                                <label class="btn btn-default"><input type="Radio" value="Not Picked" name="LeadFollowStatus"> Not Picked</label><br>
+                                <label class="btn btn-default"><input required type="Radio" value="Out Of Coverage Area" name="LeadFollowStatus"> Out Of Coverage Area</label><br>
+                                <label class="btn btn-default"><input required type="Radio" value="Switch Off" name="LeadFollowStatus"> Switch Off </label><br>
+                                <label class="btn btn-default"><input required type="Radio" value="Number Dose not Exist" name="LeadFollowStatus"> Number Dose not Exist </label><br>
+                                <label class="btn btn-default"><input required type="Radio" value="Out of Validity" name="LeadFollowStatus"> Out of Validity </label><br>
+                                <label class="btn btn-default"><input required type="Radio" value="Not Picked" name="LeadFollowStatus"> Not Picked</label><br>
                             </div>
                         </div>
                         <div class="row w-100 text-left hidden" id="call_connected_box_<?php echo $LeadsId; ?>">
@@ -55,21 +55,14 @@
 
                                 if ($Industry != null) {
                                     foreach ($Industry as $Industry_Name) {
-                                        echo '<label class="btn btn-default"><input type="radio" value="' . $Industry_Name->ConfigValueDetails . '" name="LeadFollowStatus" onclick="checkFollowUp_' . $LeadsId . '(this)"> ' . $Industry_Name->ConfigValueDetails . '</label><br>';
+                                        echo '<label class="btn btn-default"><input type="radio" required value="' . $Industry_Name->ConfigValueDetails . '" name="LeadFollowStatus" onclick="checkFollowUp_' . $LeadsId . '(this)"> ' . $Industry_Name->ConfigValueDetails . '</label><br>';
                                     }
                                 } else {
                                     NoData("Add more Call Status!!");
                                 }
                                 ?>
                             </div>
-                            <!-- <div class="col-md-5 ml-3">
-                                <input type="Radio" value="Call Back" name="LeadFollowStatus"> Call Back<br>
-                                <input type="Radio" value="Ringing " name="LeadFollowStatus"> Ringing <br>
-                                <input type="Radio" value="Not Picked" name="LeadFollowStatus"> Not Picked<br>
-                                <input type="Radio" value="Not Interested" name="LeadFollowStatus"> Not Interested <br>
-                                <input type="Radio" value="Already Taken" name="LeadFollowStatus"> Already Taken <br>
-                                <input type="Radio" value="Junk Call" name="LeadFollowStatus"> Junk Call<br>
-                            </div> -->
+
                             <div class="col-md-12 m-2">
                                 <span onclick="Databar('reminder_<?php echo $LeadsId; ?>')" id="mycheckbtnspan_<?php echo $LeadsId; ?>" class="btn btn-info hidden">
                                     <input id="set_reminder_<?php echo $LeadsId; ?>" name="mycheckbtn" type="checkbox" style="display: none;">Set Reminder
@@ -111,6 +104,7 @@
 
                             <div class="col-md-12 mt-3">
                                 <div id="calldesc">
+                                    <input type="text" name="currentURL" hidden id="urlInput" class="w-100 custom-input " placeholder="Current URL" value="<?php echo $CurrentUrl; ?>" readonly>
                                     <div class="form-group text-left">
                                         <label>Notes/Remark</label>
                                         <textarea class="form-control" name="LeadFollowUpDescriptions" rows="2" required></textarea>
@@ -120,6 +114,8 @@
                         </div>
                     </div>
                     <div class="col-md-12 text-center">
+
+
                         <button type="submit" name="AddLeadStatus" class="btn btn-md btn-success">Add Status</button>
                         <a href="#" onclick="Databar('Lead_Update_<?php echo $LeadsId; ?>')" class="btn btn-md btn-default mt-3">cancel</a>
                     </div>

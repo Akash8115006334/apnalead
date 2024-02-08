@@ -1,12 +1,17 @@
 <?php
 //Suggestion List
-function SUGGEST($table = "false", $column, $order, $enc = null)
+function SUGGEST($table = "false", $column, $order, $companyId = null, $enc = null)
 {
    if ($table != "false") {
-      $CHECK_project_tags = CHECK("SELECT * FROM $table");
+      if ($companyId == null) {
+         $com = "";
+      } else {
+         $com = "WHERE CompanyID='$companyId'";
+      }
+      $CHECK_project_tags = CHECK("SELECT * FROM $table $com");
       if ($CHECK_project_tags != 0) {
          echo "<datalist id='$column'>";
-         $SQL_project_tags = SELECT("SELECT * FROM $table  GROUP by $column ORDER BY $column $order");
+         $SQL_project_tags = SELECT("SELECT * FROM $table $com GROUP by $column ORDER BY $column $order");
          while ($FetchTags = mysqli_fetch_array($SQL_project_tags)) {
             if ($enc == null) {
                echo "<option value='" . $FetchTags["$column"] . "'>";
