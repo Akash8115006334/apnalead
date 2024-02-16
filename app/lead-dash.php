@@ -19,11 +19,11 @@
         $AllDataToday = TOTAL("SELECT LeadsId FROM leads where CompanyID='$companyID' and Date(LeadPersonCreatedAt)='$TDate'");
         $AllDataYesterday = TOTAL("SELECT LeadsId FROM leads where CompanyID='$companyID' and Date(LeadPersonCreatedAt)='$YDate'");
         $AllUploaded = TOTAL("SELECT leadsUploadId FROM  lead_uploads where CompanyID='$companyID' and LeadStatus='UPLOADED'");
-        $AllUploadedToday = TOTAL("SELECT leadsUploadId FROM lead_uploads where CompanyID='$companyID'and LeadStatus='UPLOADED' and Date(lead_uploads.UploadedOn)='$TDate'");
-        $AllUploadedYesterday = TOTAL("SELECT leadsUploadId FROM lead_uploads where CompanyID='$companyID'and LeadStatus='UPLOADED' and Date(lead_uploads.UploadedOn)='$YDate'");
+        $AllUploadedToday = TOTAL("SELECT leadsUploadId FROM lead_uploads where CompanyID='$companyID'and LeadStatus='UPLOADED' and Date(UploadedOn)='$TDate'");
+        $AllUploadedYesterday = TOTAL("SELECT leadsUploadId FROM lead_uploads where CompanyID='$companyID'and LeadStatus='UPLOADED' and Date(UploadedOn)='$YDate'");
         $AllFreshLeads = TOTAL("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and CompanyID='$companyID'");
-        $AllFreshLeadToday = TOTAL("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and Date(LeadPersonLastUpdatedAt)='$TDate' and CompanyID='$companyID'");
-        $AllFreshLeadYesterday = TOTAL("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and Date(LeadPersonLastUpdatedAt)='$YDate' and CompanyID='$companyID'");
+        $AllFreshLeadToday = TOTAL("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and Date(LeadPersonCreatedAt)='$TDate' and CompanyID='$companyID'");
+        $AllFreshLeadYesterday = TOTAL("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and Date(LeadPersonCreatedAt)='$YDate' and CompanyID='$companyID'");
         $AllFacebookLeads = TOTAL("SELECT LeadsId FROM leads WHERE LeadPersonSource like '%Facebook%' and CompanyID='$companyID'");
         $AllFacebookLeadsToday = TOTAL("SELECT LeadsId FROM leads WHERE LeadPersonSource like '%Facebook%' and CompanyID='$companyID' and Date(LeadPersonCreatedAt)='$TDate'");
         $AllFacebookLeadsYesterday = TOTAL("SELECT LeadsId FROM leads WHERE LeadPersonSource like '%Facebook%' and CompanyID='$companyID' and Date(LeadPersonCreatedAt)='$YDate'");
@@ -36,14 +36,15 @@
       } else {
         $LOGIN_UserViewId = AuthAppUser("UserId");
         $AllData = TOTAL("SELECT LeadsId FROM leads where LeadPersonManagedBy='$LOGIN_UserViewId' and CompanyID='$companyID'");
-        $AllDataToday = TOTAL("SELECT LeadsId FROM leads where CompanyID='$companyID' and LeadPersonManagedBy='$LOGIN_UserViewId' and Date(leads.LeadPersonCreatedAt)='$TDate'");
-        $AllDataYesterday = TOTAL("SELECT LeadsId FROM leads where CompanyID='$companyID' and LeadPersonManagedBy='$LOGIN_UserViewId' and Date(leads.LeadPersonCreatedAt)='$YDate'");
+        $AllDataToday = TOTAL("SELECT LeadsId FROM leads where CompanyID='$companyID' and LeadPersonManagedBy='$LOGIN_UserViewId' and Date(LeadPersonCreatedAt)='$TDate'");
+        $AllDataYesterday = TOTAL("SELECT LeadsId FROM leads where CompanyID='$companyID' and LeadPersonManagedBy='$LOGIN_UserViewId' and Date(LeadPersonCreatedAt)='$YDate'");
         $AllUploaded = TOTAL("SELECT leadsUploadId FROM  lead_uploads where CompanyID='$companyID'");
-        $AllUploadedToday = TOTAL("SELECT leadsUploadId FROM lead_uploads where CompanyID='$companyID' and LeadsUploadedfor='$LOGIN_UserViewId' and Date(lead_uploads.UploadedOn)='$TDate'");
-        $AllUploadedYesterday = TOTAL("SELECT leadsUploadId FROM lead_uploads where CompanyID='$companyID' and LeadsUploadedfor='$LOGIN_UserViewId' and Date(lead_uploads.UploadedOn)='$YDate'");
+        $AllUploadedToday = TOTAL("SELECT leadsUploadId FROM lead_uploads where CompanyID='$companyID' and LeadsUploadedfor='$LOGIN_UserViewId' and Date(UploadedOn)='$TDate'");
+        $AllUploadedYesterday = TOTAL("SELECT leadsUploadId FROM lead_uploads where CompanyID='$companyID' and LeadsUploadedfor='$LOGIN_UserViewId' and Date(UploadedOn)='$YDate'");
         $AllFreshLeads = TOTAL("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and LeadPersonManagedBy='$LOGIN_UserViewId' and CompanyID='$companyID'");
-        $AllFreshLeadToday = TOTAL("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and LeadPersonManagedBy='$LOGIN_UserViewId' and Date(LeadPersonLastUpdatedAt)='$TDate' and CompanyID='$companyID'");
-        $AllFreshLeadYesterday = TOTAL("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and LeadPersonManagedBy='$LOGIN_UserViewId' and Date(LeadPersonLastUpdatedAt)='$TDate' and CompanyID='$companyID'");
+        $AllFreshLeadToday = TOTAL("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and LeadPersonManagedBy='$LOGIN_UserViewId' and Date(LeadPersonCreatedAt)='$TDate' and CompanyID='$companyID'");
+        $AllFreshLeadYesterday = TOTAL("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and LeadPersonManagedBy='$LOGIN_UserViewId' and Date(LeadPersonCreatedAt)='$YDate' and CompanyID='$companyID'");
+        // die("SELECT LeadsId FROM leads where LeadPersonStatus like '%Fresh Lead%' and LeadPersonManagedBy='$LOGIN_UserViewId' and Date(LeadPersonCreatedAt)='$YDate' and CompanyID='$companyID'");
       } ?>
     </div>
   </div>

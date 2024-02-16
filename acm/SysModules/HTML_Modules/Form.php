@@ -3,9 +3,9 @@
 function NoData($title, $desc = null)
 { ?>
         <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-4">
-                <div class="shadow-sm p-1">
+                <div class="shadow-sm p-1 bg-light">
                         <div class="p-1">
-                                <h4 class="bold mt-3"><?php echo $title; ?></h4>
+                                <h4 class="bold mt-3"><?php echo '<i class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></i> ' . $title; ?></h4>
                                 <p>
                                         <?php echo $desc; ?>
                                 </p>

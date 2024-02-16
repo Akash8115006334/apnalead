@@ -28,12 +28,7 @@
             <?php
               }
             } ?>
-            <!-- <option value="Call Back">Call Back</option>
-            <option value="Ringing">Ringing</option> -->
-
-            <!-- <option value="Not Interested">Not Interested</option>
-            <option value="Already Taken">Already Taken</option>
-            <option value="Not Picked">Not Picked</option> -->
+          
           </select>
         </div>
         <div class='col-md-12 text-right'>

@@ -213,7 +213,8 @@ if (isset($_GET['ProjectName'])) {
                                                                                 <tr>
                                                                                     <th>Project Type</th>
                                                                                     <td>
-                                                                                        <?php echo FETCH("SELECT * FROM config_values where ConfigValueGroupId='5'", "ConfigValueDetails"); ?>
+                                                                                        <?php $ProjectType =  FETCH("SELECT * FROM projects where ProjectsId='$Data->ProjectsId'", "ProjectTypeId");
+                                                                                        echo FETCH("SELECT * FROM config_values where ConfigValueId='$ProjectType'", "ConfigValueDetails"); ?>
                                                                                     </td>
                                                                                 </tr>
                                                                                 <tr>

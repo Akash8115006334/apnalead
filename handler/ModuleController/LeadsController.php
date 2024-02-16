@@ -17,7 +17,7 @@ elseif (isset($_POST['CreateLeads'])) {
   $companyId = FETCH("SELECT * FROM company_users where company_alloted_user_id='$UserID'", "company_main_id");
   $Phonenumber = $_POST['LeadPersonPhoneNumber'];
   $error_url = APP_URL . "/leads/add.php";
-  $checkNumber = CHECK("SELECT LeadPersonPhoneNumber FROM leads Where LeadPersonPhoneNumber='$Phonenumber'");
+  $checkNumber = CHECK("SELECT LeadPersonPhoneNumber FROM leads Where LeadPersonPhoneNumber='$Phonenumber' and CompanyID='" . CompanyId . "'");
   if ($checkNumber) {
     LOCATION("warning", "Mobile Number Already Taken!", "$error_url");
   } else {

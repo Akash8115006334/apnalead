@@ -6,7 +6,7 @@ if (isset($_GET["UpdateWindow"])) {
     if (isset($_SESSION['UniversalMsg'])) {
         $UniversalHiddenValue = "hidden";
     } else {
-        $UniversalHiddenValue = "";
+        $UniversalHiddenValue = "hidden";
     }
 }
 ?>

@@ -9,6 +9,7 @@ include __DIR__ . "/visit-pop-window.php";
 include __DIR__ . "/Daily-Quotes.php";
 include __DIR__ . "/forms/Master-Search.php";
 include __DIR__ . "/forms/UniversalMsg.php";
+include __DIR__ . "/forms/Add-Customer.php";
 ?>
 <!-- webhook by apnalead  -->
 <!-- <div id='MainEnquiryForm'></div>
@@ -136,6 +137,7 @@ include __DIR__ . "/forms/UniversalMsg.php";
     // Desktop and mobile events
     move.addEventListener('mousedown', startDrag);
     move.addEventListener('touchstart', startDrag);
+
     function startDrag(e) {
         // e.preventDefault(); // Try removing this line
         isDragging = true;
@@ -153,6 +155,7 @@ include __DIR__ . "/forms/UniversalMsg.php";
             document.addEventListener('touchend', stopDrag);
         }
     }
+
     function drag(e) {
         if (!isDragging) return;
 
@@ -165,6 +168,7 @@ include __DIR__ . "/forms/UniversalMsg.php";
             move.style.top = touch.clientY - offset.y + 'px';
         }
     }
+
     function stopDrag() {
         isDragging = false;
 

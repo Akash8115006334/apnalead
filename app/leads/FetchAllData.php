@@ -160,7 +160,7 @@ if ($GetLeads == null) { ?>
                                                                                                                 CONFIRM_DELETE_POPUP('delete_leads', [
                                                                                                                     "delete_leads" => true,
                                                                                                                     "control_id" => $LeadsId,
-                                                                                                                ], "ModuleHandler", "<i class='fa fa-trash '></i>", "btn btn-md btn-danger");
+                                                                                                                ], "ModuleHandler", "<i class='fa fa-trash text-danger'></i>", "btn btn-md btn-default");
                                                                                                                 ?></span><?php  } ?>
                     </span>
                     </span>
