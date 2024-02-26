@@ -14,33 +14,29 @@
                         <div class="row">
                             <div class="form-group col-lg-4 col-md-4 col-12">
                                 <label>Product Name</label>
-                                <input type="text" name="ProductName" class="form-control" required="">
+                                <input type="text" name="ProductName" class="form-control" placeholder="product name" required="">
                             </div>
                             <div class="form-group col-lg-4 col-md-4 col-sm-4 col-6">
                                 <label> Manufacturer/Brand</label>
-                                <input type="text" name="ProductBrandName" list="ProductBrandName" class="form-control" required="">
+                                <input type="text" name="ProductManufacturer" class="form-control" placeholder="eg: Manufacturer, Brand" required="">
                             </div>
                             <div class="form-group col-lg-4 col-md-4 col-sm-6 col-6">
-                                <label> Modal No</label>
-                                <input type="modalno" name="ProductModalNo" class="form-control" required="">
+                                <label> HSN Code</label>
+                                <input type="modalno" name="ProductHSNCode" class="form-control" placeholder="eg: HSN Code" required="">
                             </div>
                         </div>
                         <div class="row mb-5px">
                             <div class="form-group col-lg-4 col-md-4 col-sm-6 col-6">
-                                <label> Type</label>
-                                <input type="text" name="ProductType" list="ProductType" class="form-control" required="">
+                                <label> Category</label>
+                                <input type="text" name="ProductCategory" class="form-control" required="" placeholder="eg: Electronics, Clothing..">
                             </div>
                             <div class="form-group col-lg-4 col-md-4 col-sm-6">
-                                <label>Speciality</label>
-                                <input type="text" name="ProductCapacity" class="form-control">
+                                <label>Quantity in Stock</label>
+                                <input type="number" name="ProductQuantity" class="form-control" placeholder="Quantity in Stock">
                             </div>
-                            <div class="form-group col-lg-2 col-md-2 col-sm-2 col-6">
-                                <label> Life (In Years)</label>
-                                <input type="number" name="ProductLife" class="form-control">
-                            </div>
-                            <div class="form-group col-lg-2 col-md-2 col-sm-2 col-6">
-                                <label> Warranty in Months</label>
-                                <input type="number" name="ProductWarrantyinMonths" class="form-control">
+                            <div class="form-group col-lg-4 col-md-4 col-sm-4 col-6">
+                                <label> Supplier</label>
+                                <input type="number" name="ProductSupplier" placeholder="eg: Self, Other" class="form-control">
                             </div>
                         </div>
 
@@ -67,7 +63,7 @@
                         <div class="row mb-5px">
                             <div class="form-group col-md-12">
                                 <label>Other Information</label>
-                                <textarea name="ProductDescription" class="form-control editor" rows="5"></textarea>
+                                <textarea name="ProductDescription" class="form-control editor" placeholder="Description" rows="5"></textarea>
                             </div>
                         </div>
                     </div>

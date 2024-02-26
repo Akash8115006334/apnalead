@@ -30,9 +30,9 @@
         $AllWebhookLeads = TOTAL("SELECT LeadsId FROM leads WHERE LeadPersonSource like '%WEBSITE_API%' and CompanyID='$companyID'");
         $AllWebhookLeadsToday = TOTAL("SELECT LeadsId FROM leads WHERE LeadPersonSource like '%WEBSITE_API%' and CompanyID='$companyID' and Date(LeadPersonCreatedAt)='$TDate'");
         $AllWebhookLeadsYesterday = TOTAL("SELECT LeadsId FROM leads WHERE LeadPersonSource like '%WEBSITE_API%' and CompanyID='$companyID' and Date(LeadPersonCreatedAt)='$YDate'");
-        // $AllMissedFollowups = TOTAL("SELECT * FROM leads, lead_followups WHERE CompanyID='$companyID'and leads.LeadsId=lead_followups.LeadFollowMainId	 and lead_followups.LeadFollowStatus LIKE '%FOLLOW-UP%' and lead_followups.LeadFollowCurrentStatus LIKE '%FOLLOW-UP%' AND Date(lead_followups.LeadFollowUpDate)<='$TDate' and Date(lead_followups.LeadFollowUpTime)<'" . date("Y-m-d h:m:i A") . "' GROUP BY LeadFollowMainId ORDER BY LeadFollowMainId ASC ");
-        // $AllMissedTodayFollowups = TOTAL("SELECT * FROM leads, lead_followups WHERE CompanyID='$companyID' and leads.LeadsId=lead_followups.LeadFollowMainId and lead_followups.LeadFollowStatus LIKE '%FOLLOW-UP%' and lead_followups.LeadFollowCurrentStatus LIKE '%FOLLOW-UP%' AND Date(lead_followups.LeadFollowUpDate) ='$TDate' and Date(lead_followups.LeadFollowUpTime)<'" . date("Y-m-d h:m:i A") . "'");
-        // $AllMissedYesterdayFollowups = TOTAL("SELECT * FROM leads, lead_followups WHERE CompanyID='$companyID' and leads.LeadsId=lead_followups.LeadFollowMainId and lead_followups.LeadFollowStatus LIKE '%FOLLOW-UP%' and lead_followups.LeadFollowCurrentStatus LIKE '%FOLLOW-UP%' AND Date(lead_followups.LeadFollowUpDate) ='$YDate' and Date(lead_followups.LeadFollowUpTime)<'" . date("Y-m-d h:m:i A") . "'");
+        $AllFacebookUpload = TOTAL("SELECT * FROM lead_uploads WHERE CompanyID='$companyID' and LeadsSource LIKE '%Facebook%' and LeadStatus LIKE '%UPLOADED%' GROUP BY leadsUploadId ORDER BY leadsUploadId ASC ");
+        $AllFacebookUploadToday = TOTAL("SELECT * FROM lead_uploads WHERE CompanyID='$companyID' and LeadsSource LIKE '%Facebook%' and LeadStatus LIKE '%UPLOADED%' and Date(UploadedOn)='$TDate' GROUP BY leadsUploadId ORDER BY leadsUploadId ASC");
+        $AllFacebookUploadYesterday = TOTAL("SELECT * FROM lead_uploads WHERE CompanyID='$companyID' and LeadsSource LIKE '%Facebook%' and LeadStatus LIKE '%UPLOADED%' and Date(UploadedOn)='$YDate' GROUP BY leadsUploadId ORDER BY leadsUploadId ASC");
       } else {
         $LOGIN_UserViewId = AuthAppUser("UserId");
         $AllData = TOTAL("SELECT LeadsId FROM leads where LeadPersonManagedBy='$LOGIN_UserViewId' and CompanyID='$companyID'");
@@ -153,6 +153,26 @@
             </span>
           </div>
           <p class="mb-0 fs-14 text-black bold"><i class="fa fa-upload text-warning fs-20" aria-hidden="true"></i> All Uploaded Data</p>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-3 col-6 mb-10px">
+      <a href="<?PHP echo APP_URL; ?>/leads/uploaded/">
+        <div class="card card-window card-body rounded-3 p-1 shadow-lg">
+          <div class="flex-s-b">
+            <h2 class="count mb-0 m-t-5 h1">
+              <?php echo $AllFacebookUpload; ?>
+            </h2>
+            <span class="pull-right text-grey" style="line-height:1rem;">
+              <span class="fs-11">Today : </span><span class="fs-13 count">
+                <?php echo $AllFacebookUploadToday; ?>
+              </span><br>
+              <span class="fs-11">Yesterday : </span><span class="fs-13 count">
+                <?php echo $AllFacebookUploadYesterday; ?>
+              </span>
+            </span>
+          </div>
+          <p class="mb-0 fs-14 text-black bold"><i class="fa fa-upload text-warning fs-20" aria-hidden="true"></i> All Facebook Uploaded </p>
         </div>
       </a>
     </div>

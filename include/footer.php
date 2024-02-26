@@ -9,7 +9,7 @@ include __DIR__ . "/visit-pop-window.php";
 include __DIR__ . "/Daily-Quotes.php";
 include __DIR__ . "/forms/Master-Search.php";
 include __DIR__ . "/forms/UniversalMsg.php";
-include __DIR__ . "/forms/Add-Customer.php";
+include __DIR__ . "/forms/Billingform/Add-Customer.php";
 ?>
 <!-- webhook by apnalead  -->
 <!-- <div id='MainEnquiryForm'></div>
@@ -177,22 +177,4 @@ include __DIR__ . "/forms/Add-Customer.php";
         document.removeEventListener('touchmove', drag);
         document.removeEventListener('touchend', stopDrag);
     }
-</script>
-<script>
-    // Disable right-click
-    // document.addEventListener('contextmenu', function(e) {
-    //     e.preventDefault();
-    // });
-    // Disable screenshot
-    document.addEventListener('keyup', function(e) {
-        // Check for Print Screen key
-        if (e.key === 'PrintScreen' || e.key === 'PrtSc') {
-            e.preventDefault();
-            console.log('Screenshot attempt detected.');
-        }
-    });
-    // Disable text selection
-    document.addEventListener('selectstart', function(e) {
-        e.preventDefault();
-    });
 </script>

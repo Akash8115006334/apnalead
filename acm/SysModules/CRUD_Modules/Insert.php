@@ -48,3 +48,14 @@ function INSERT($tablename, array  $RequestedData, $die = false, $ShowResults = 
         return false;
     }
 }
+function entryExists($DataPhone, $companyId)
+{
+    $query = "SELECT COUNT(LeadsPhone) AS count FROM lead_uploads WHERE LeadsPhone = '$DataPhone' and CompanyID='$companyId'";
+    $result = DBConnection->query($query);
+
+    // Get the count from the result
+    $count = $result->fetch_assoc()['count'];
+
+    // If the count is greater than 0, the entry exists
+    return $count > 0;
+}

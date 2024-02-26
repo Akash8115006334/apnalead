@@ -63,7 +63,7 @@ $PageDescription = "Manage System Profile, address, logo";
 
                   <div class="row">
                     <?php
-                    $FetchFacebookPages = _DB_COMMAND_("SELECT * FROM config_facebook_accounts where CompanyId='" . APP_COMPANY_ID . "' ORDER BY id DESC", true);
+                    $FetchFacebookPages = _DB_COMMAND_("SELECT * FROM config_facebook_accounts where CompanyId='" . CompanyId . "' ORDER BY id DESC", true);
                     if ($FetchFacebookPages != null) {
                       foreach ($FetchFacebookPages as $Facebook) {
                     ?>
@@ -121,10 +121,12 @@ $PageDescription = "Manage System Profile, address, logo";
                                   </div>
                                   <div class="form-group col-md-5">
                                     <label>Choose Project</label>
+
                                     <select name="Project_Name" class="form-control form-control-sm">
                                       <option value="">Select Projects</option>
                                       <?php
                                       $companyID = CompanyId;
+
                                       $FetchProjectName = _DB_COMMAND_("SELECT * FROM projects where CompanyID='$companyID'", true);
                                       if ($FetchProjectName != null) {
                                         foreach ($FetchProjectName as $Project) {
@@ -140,10 +142,20 @@ $PageDescription = "Manage System Profile, address, logo";
                                       } ?>
                                     </select>
                                   </div>
+                                  <div class='form-check form-check-inline  flex col-md-5 ml-2'>
+                                    <?php if ($Facebook->Autodistribute == "true") {
+                                      $checked = "checked";
+                                    } else {
+                                      $checked = "";
+                                    } ?>
+                                    <input class='form-check-input radio-list mt-0' <?php echo $checked; ?> type='checkbox' name='Autodistribute' value='true'>
+                                    <h6 class='form-check-label fs-16 mb-0'>Check for Auto-Distribute</h6>
+                                  </div>
                                   <div class="form-group col-md-12">
                                     <label>Facebook API Access Token</label>
                                     <input type="text" name="fb_access_token" list="fb_access_token" class="form-control" value="<?php echo $Facebook->fb_access_token; ?>" required="">
                                   </div>
+
                                 </div>
                                 <div class="row mb-5px">
                                   <small class="text-gray ml-2">*Leads Will Auto Fetch In every Hours </small>
@@ -227,6 +239,10 @@ $PageDescription = "Manage System Profile, address, logo";
                                       }
                                     } ?>
                                   </select>
+                                </div>
+                                <div class='form-check form-check-inline  flex col-md-5 ml-2'>
+                                  <input class='form-check-input radio-list mt-0' type='checkbox' name='Autodistribute' value='true'>
+                                  <h6 class='form-check-label fs-16 mb-0'>Check for Auto-Distribute</h6>
                                 </div>
                                 <div class="form-group col-md-12">
                                   <label>Facebook API Access Token</label>

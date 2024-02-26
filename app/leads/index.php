@@ -101,7 +101,12 @@ $previous_page = ($page - 1);
                           <div class="mt-2">
                             <span id="lead_action" class=" btn btn-xs btn-info  mr-1"><i class="fa fa-eye text-light" aria-hidden="true"></i> Lead Action</span>
                             <a href="add.php" class=" btn btn-xs btn-danger mr-1"><i class="fa fa-plus fs-10 text-white" aria-hidden="true"></i> Add New Lead </b></a>
-                            <span class=" btn btn-xs btn-default cursor-default mr-1"><i class="fa fa-circle fs-10 text-gray" aria-hidden="true"></i> Total Lead <b><?php echo TOTAL("SELECT LeadsId FROM leads WHERE CompanyID='" . CompanyId . "' GROUP BY LeadsId"); ?></b></span>
+                            <span class=" btn btn-xs btn-default cursor-default mr-1"><i class="fa fa-circle fs-10 text-gray" aria-hidden="true"></i> Total Lead <b><?php
+                                                                                                                                                                    if (AuthAppUser("UserType") == "Admin") {
+                                                                                                                                                                      echo TOTAL("SELECT LeadsId FROM leads WHERE CompanyID='" . CompanyId . "' GROUP BY LeadsId");
+                                                                                                                                                                    } else {
+                                                                                                                                                                      echo TOTAL("SELECT LeadsId FROM leads WHERE CompanyID='" . CompanyId . "' and LeadPersonManagedBy='" . AuthAppUser("UserId") . "' GROUP BY LeadsId");
+                                                                                                                                                                    } ?></b></span>
                           </div>
                           <div class="hidden mt-2" id="lead_action_div">
                             <?php if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") { ?>

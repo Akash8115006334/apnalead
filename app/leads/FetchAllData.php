@@ -55,7 +55,7 @@ if ($GetLeads == null) { ?>
         $LeadFollowUpDate = FETCH($FollowUpsSQL, "LeadFollowUpDate");
         $LeadFollowUpTime = FETCH($FollowUpsSQL, "LeadFollowUpTime");
         $LeadPersonManagebyName = FETCH("SELECT UserFullName FROM users WHERE UserId='$leads->LeadPersonManagedBy'", "UserFullName");
-        $lead_requirements = CHECK("SELECT * FROM data_lead_requirements where DataMainId='$LeadsId'");
+        $lead_requirements = CHECK("SELECT * FROM lead_requirements where LeadMainId='$LeadsId'");
         $LeadPersonManagebyUserStatus = FETCH("SELECT UserStatus FROM users WHERE UserId='$leads->LeadPersonManagedBy'", "UserStatus");
         if ($LeadPersonManagebyUserStatus == "1") {
             $status = "<span class='text-success'><i class='fa fa-check-circle'></i></span>";
@@ -214,7 +214,7 @@ if ($GetLeads == null) { ?>
                         </div>
                         <div class="w-pr-30  text-right">
                             <a href="#" class="btn btn-md btn-primary" onmouseover="GetInstantTime('displayTime_<?php echo $LeadsId; ?>', 'value')" onclick="Databar('Lead_Update_<?php echo $LeadsId; ?>')"><i class="fa fa-plus"></i></a>
-                            <a href="tel:<?php echo $leads->$LeadPersonPhoneNumber; ?>" onclick="Databar('Lead_Update_<?php echo $LeadsId; ?>')" class=" btn btn-md btn-success  fs-12"><i class="fa fa-phone"></i></a>
+                            <a href="tel:<?php echo $leads->LeadPersonPhoneNumber; ?>" onclick="Databar('Lead_Update_<?php echo $LeadsId; ?>')" class=" btn btn-md btn-success  fs-12"><i class="fa fa-phone"></i></a>
                         </div>
                     </div>
                     <div class="w-100 mt-2">

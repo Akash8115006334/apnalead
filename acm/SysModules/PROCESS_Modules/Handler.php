@@ -23,10 +23,7 @@ function RequestHandler($Response, array $results)
 //Handler Delete Requests
 function DeleteReqHandler($valid, array $Requestings, array $feedback = [false], $return = null, $die = null)
 {
-
-
     $CheckStatus = SECURE($_GET["$valid"], "d");
-
     if ($CheckStatus == true) {
         foreach ($Requestings as $key => $value) {
             $Response = DELETE_FROM("$key", "$value");

@@ -34,7 +34,7 @@ $PageDescription = "Manage System Profile, address, logo";
     <?php
     include $Dir . "/include/header.php";
     include $Dir . "/include/sidebar.php";
-    $companyId = APP_COMPANY_ID; ?>
+    $companyId = CompanyId; ?>
 
     <!-- Content Wrapper. Contains page content -->
     <div class="content-wrapper">
@@ -211,18 +211,18 @@ $PageDescription = "Manage System Profile, address, logo";
                         NoData(
                           "<br>No Details Found!"
                         );
-                        if ($CValues == NULL) {
-                          CONFIRM_DELETE_POPUP(
-                            "delete_data",
-                            [
-                              "delete_configs_group" => true,
-                              "control_id" => $id,
-                            ],
-                            "SystemController/ConfigController",
-                            "Remove Configuration Group",
-                            "btn btn-sm btn-danger d-flex mx-auto"
-                          );
-                        }
+                        // if ($CValues == NULL) {
+                        //   CONFIRM_DELETE_POPUP(
+                        //     "delete_data",
+                        //     [
+                        //       "delete_configs_group" => true,
+                        //       "control_id" => $id,
+                        //     ],
+                        //     "SystemController/ConfigController",
+                        //     "Remove Configuration Group",
+                        //     "btn btn-sm btn-danger d-flex mx-auto"
+                        //   );
+                        // }
                       }
                       ?>
                     </div>

@@ -57,6 +57,10 @@
             } ?>
           </select>
         </div>
+        <div class='form-check form-check-inline  flex col-md-5 ml-2'>
+          <input class='form-check-input radio-list mt-0' type='checkbox' name='Autodistribute' value='true'>
+          <h6 class='form-check-label fs-16 mb-0'>Check for Auto-Distribute</h6>
+        </div>
         <div class="form-group col-md-12">
           <label>Facebook API Access Token</label>
           <input type="text" name="fb_access_token" list="fb_access_token" class="form-control" required="">

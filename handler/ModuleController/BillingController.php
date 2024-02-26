@@ -112,4 +112,38 @@ if (isset($_POST['SaveCustomerRecord'])) {
     ];
     $update = UPDATE_TABLE("invoice_items", $productupdate, "ItemId ='$ItemId'");
     RESPONSE($update, "Product Updated Successfully", "Unable to Update Product");
+} elseif (isset($_POST['EditUser'])) {
+    $LeadsId = Secure($_POST['LeadsId'], "d");
+    $edit = [
+        "LeadPersonFullName" => $_POST['LeadPersonFullName'],
+        "LeadPersonPhoneNumber" => $_POST['LeadPersonPhoneNumber'],
+        "LeadPersonEmailId" => $_POST['LeadPersonEmailId'],
+        "LeadPersonNotes" => Secure($_POST['LeadPersonNotes'], "e"),
+        "LeadPersonLastUpdatedAt" => CURRENT_DATE_TIME,
+    ];
+    $save = UPDATE_TABLE("leads", $edit, "LeadsId ='$LeadsId'");
+    RESPONSE($save, "User Updated Successfully", "User Not Updated Successfully");
+} elseif (isset($_POST['EditAddress'])) {
+    $LeadsId = Secure($_POST['LeadsId'], "d");
+    $editadd = [
+        "CustomerLeadMainId" => $LeadsId,
+        "CustomerStreetAddress" => $_POST['CustomerStreetAddress'],
+        "CustomerAreaLocality" => $_POST['CustomerAreaLocality'],
+        "AddressCreatedBy" => AuthAppUser("UserId"),
+        "AddressUpdatedAt" => CURRENT_DATE_TIME,
+        "CustomerCity" => $_POST['CustomerCity'],
+        "CustomerState" => $_POST['CustomerState'],
+        "CustomerCountry" => $_POST['CustomerCountry'],
+        "CustomerPincode" => $_POST['CustomerPincode'],
+    ];
+
+    $check = CHECK("SELECT CustomerLeadMainId FROM invoice_address WHERE CustomerLeadMainId='$LeadsId' and CompanyID='" . CompanyId . "'");
+
+    if ($check) {
+        $save = UPDATE_TABLE("invoice_address", $editadd, "CustomerLeadMainId='$LeadsId'");
+    } else {
+        $save = INSERT("invoice_address", $editadd);
+        $update = UPDATE("UPDATE invoice_address SET AddressCreatedAt='" . CURRENT_DATE_TIME . "',CompanyID='" . CompanyId . "' WHERE CustomerLeadMainId='$LeadsId'");
+    }
+    RESPONSE($save, "Address Updated Successfully", "Address Not Updated Successfully");
 }

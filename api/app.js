@@ -1,23 +1,23 @@
 function ApnaLeadEnquiryForm(AuthenticationKey) {
   const enquiryFormHTML = `
 <style>
-.rounded {
+.apnalead_rounded {
   -o-border-radius: 1rem;
   -ms-border-radius: 1rem;
   -webkit-border-radius: 1rem;
   -moz-border-radius: 1rem;
   border-radius: 1rem !important;
 } 
-.form-heading h2{
+.apnalead_form-heading h2{
     font-size:2rem !important;
     text-align:center !important;
     margin-bottom:0 !important;
 }
-.form-heading p{
+.apnalead_form-heading p{
    font-size:1.1rem !important;
     text-align:center !important;
 }
-.enquiry-btn {
+.apnalead_enquiry-btn {
   border-radius: 1rem;
   color: white;
   text-decoration: none;
@@ -28,10 +28,10 @@ function ApnaLeadEnquiryForm(AuthenticationKey) {
   transform: rotate(180deg);
   cursor: pointer;
 }
-.enquiry-btn img {
+.apnalead_enquiry-btn img {
   width: 30%;
 }
-.enquiry-btn:hover {
+.apnalead_enquiry-btn:hover {
   color: white;
   text-decoration: underline;
 }
@@ -45,7 +45,7 @@ function ApnaLeadEnquiryForm(AuthenticationKey) {
   overflow-y: scroll;
   z-index:9999;
 }
-#enquiry-form .div {
+#enquiry-form .apnalead_div {
   position:fixed;
   right:20px;
   min-width: 300px;
@@ -72,7 +72,7 @@ function ApnaLeadEnquiryForm(AuthenticationKey) {
   border-radius:.2rem !important;
   cursor:pointer !important;
 }
-.footer{
+.apnalead_footer{
   
   text-align:center !important;
 }
@@ -86,15 +86,15 @@ function ApnaLeadEnquiryForm(AuthenticationKey) {
   text-decoration:none !important;
 }
 </style>
-  <a id='EnquiryBtn' class="enquiry-btn">
+  <a id='EnquiryBtn' class="apnalead_enquiry-btn">
     <img src="https://www.pngkey.com/png/full/255-2555375_stg-travel-special-offers-quick-enquiry-vertical-button.png">
   </a>
   <section id='enquiry-form' style='display:block;'>
-    <div class="div">
+    <div class="apnalead_div">
       <div id='FormArea'>
         <form method="POST" id="LeadForm">
           <input type='text' hidden id='AuthKey' name='AuthenticationKey'>
-          <div class="form-heading " style='margin-bottom:0.5rem !important; margin-top:1rem !important;'>
+          <div class="apnalead_form-heading " style='margin-bottom:0.5rem !important; margin-top:1rem !important;'>
             <h2>Have an eqnuiry?</h2>
             <p>Feel free to share your enquiry...</p>
           </div>
@@ -127,7 +127,7 @@ function ApnaLeadEnquiryForm(AuthenticationKey) {
           </div>
         </form>
         <hr>
-         <div class="footer" style="margin:auto !important;">
+         <div class="apnalead_footer" style="margin:auto !important;">
            <p style="color:gray; font-size:0.8rem !important">Powered By : <a href="https://apnalead.com/" target="_blank" style="text-decoration:none;"> <img src="https://apnalead.com/assets/img/logo.png" alt="apnalead logo" style="width:15% !important;"></a></p>
          </div>
       </div>

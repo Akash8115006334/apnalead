@@ -63,7 +63,7 @@ $PageDescription = "Manage System Profile, address, logo";
                           <span class='bold'>Active Pages</span>
                           <span>
                             <?php
-                            $companyId = APP_COMPANY_ID;
+                            $companyId = CompanyId;
                             $FacebookAccountSql = "SELECT * FROM config_facebook_accounts where fd_adaccounts_status='Active' and fb_campaigns_status='Active' and fd_adsets_status='Active' and fd_ads_status='Active' and CompanyID='$companyId'";
                             $CheckFBAccounts = CHECK($FacebookAccountSql);
                             if ($CheckFBAccounts != null) {

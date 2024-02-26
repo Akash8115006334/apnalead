@@ -3,10 +3,10 @@ $companyID = CompanyId;
 if (isset($_GET['view'])) {
   $view = $_GET['view'];
   if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") {
-    $LEAD_SQLS = "SELECT * FROM leads WHERE LeadPersonStatus LIKE '%$view%' and CompanyID='$companyID' ORDER BY LeadsId DESC ";
+    $LEAD_SQLS = "SELECT LeadsId , LeadSalutations,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,LeadPersonSubStatus,LeadPersonCreatedBy  FROM leads WHERE LeadPersonStatus LIKE '%$view%' and CompanyID='$companyID' ORDER BY LeadsId DESC ";
   } else {
     $UserId = AuthAppUser("UserId");
-    $LEAD_SQLS = "SELECT * FROM leads where LeadPersonStatus LIKE '%$view%' and LeadPersonManagedBy='$UserId' and CompanyID='$companyID' ORDER BY LeadsId DESC ";
+    $LEAD_SQLS = "SELECT LeadsId , LeadSalutations,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,LeadPersonSubStatus,LeadPersonCreatedBy  FROM leads where LeadPersonStatus LIKE '%$view%' and LeadPersonManagedBy='$UserId' and CompanyID='$companyID' ORDER BY LeadsId DESC ";
   }
 } elseif (isset($_GET['search_true'])) {
   $LeadPersonFullName = $_GET['LeadPersonFullName'];
@@ -76,32 +76,32 @@ if (isset($_GET['view'])) {
   }
   if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") {
     if ($sub_status == "FRESH LEAD") {
-      $LEAD_SQLS = "SELECT * FROM leads WHERE LeadPersonStatus like '%$sub_status%' and CompanyId='$companyID' GROUP BY LeadsId ORDER BY LeadsId DESC ";
+      $LEAD_SQLS = "SELECT LeadsId , LeadSalutations,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,LeadPersonSubStatus,LeadPersonCreatedBy  FROM leads WHERE LeadPersonStatus like '%$sub_status%' and CompanyId='$companyID' GROUP BY LeadsId ORDER BY LeadsId DESC ";
     } elseif ($sub_status == "Facebook") {
-      $LEAD_SQLS = "SELECT * FROM leads WHERE LeadPersonSource like '%$sub_status%' and CompanyId='$companyID' GROUP BY LeadsId ORDER BY LeadsId DESC ";
+      $LEAD_SQLS = "SELECT LeadsId , LeadSalutations,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,LeadPersonSubStatus,LeadPersonCreatedBy  FROM leads WHERE LeadPersonSource like '%$sub_status%' and CompanyId='$companyID' GROUP BY LeadsId ORDER BY LeadsId DESC ";
     } elseif ($sub_status == "WEBSITE_API") {
-      $LEAD_SQLS = "SELECT * FROM leads WHERE LeadPersonSource like '%$sub_status%' and CompanyId='$companyID' GROUP BY LeadsId ORDER BY LeadsId DESC ";
+      $LEAD_SQLS = "SELECT LeadsId , LeadSalutations,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,LeadPersonSubStatus,LeadPersonCreatedBy  FROM leads WHERE LeadPersonSource like '%$sub_status%' and CompanyId='$companyID' GROUP BY LeadsId ORDER BY LeadsId DESC ";
     } else {
       $LEAD_SQLS = "SELECT * FROM leads, lead_followups WHERE leads.LeadsId=lead_followups.LeadFollowMainId and $Date leads.LeadPersonStatus like '%$sub_status%' and leads.CompanyID='$companyID' GROUP BY leads.LeadsId ORDER BY LeadsId DESC ";
     }
   } else {
     $UserId = AuthAppUser("UserId");
     if ($sub_status == "FRESH LEAD") {
-      $LEAD_SQLS = "SELECT * FROM leads WHERE LeadPersonStatus like '%$sub_status%' and CompanyId='$companyID' and LeadPersonManagedBy='$UserId' GROUP BY LeadsId ORDER BY LeadsId DESC ";
+      $LEAD_SQLS = "SELECT LeadsId , LeadSalutations,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,LeadPersonSubStatus,LeadPersonCreatedBy  FROM leads WHERE LeadPersonStatus like '%$sub_status%' and CompanyId='$companyID' and LeadPersonManagedBy='$UserId' GROUP BY LeadsId ORDER BY LeadsId DESC ";
     } elseif ($sub_status == "Facebook") {
-      $LEAD_SQLS = "SELECT * FROM leads WHERE LeadPersonSource like '%$sub_status%' and CompanyId='$companyID' and LeadPersonManagedBy='$UserId' GROUP BY LeadsId ORDER BY LeadsId DESC ";
+      $LEAD_SQLS = "SELECT LeadsId , LeadSalutations,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,LeadPersonSubStatus,LeadPersonCreatedBy  FROM leads WHERE LeadPersonSource like '%$sub_status%' and CompanyId='$companyID' and LeadPersonManagedBy='$UserId' GROUP BY LeadsId ORDER BY LeadsId DESC ";
     } elseif ($sub_status == "WEBSITE_API") {
-      $LEAD_SQLS = "SELECT * FROM leads WHERE LeadPersonSource like '%$sub_status%' and CompanyId='$companyID' and LeadPersonManagedBy='$UserId' GROUP BY LeadsId ORDER BY LeadsId DESC ";
+      $LEAD_SQLS = "SELECT LeadsId , LeadSalutations,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,LeadPersonSubStatus,LeadPersonCreatedBy  FROM leads WHERE LeadPersonSource like '%$sub_status%' and CompanyId='$companyID' and LeadPersonManagedBy='$UserId' GROUP BY LeadsId ORDER BY LeadsId DESC ";
     } else {
       $LEAD_SQLS = "SELECT * FROM leads, lead_followups WHERE leads.LeadsId=lead_followups.LeadFollowMainId and $Date leads.LeadPersonStatus like '%$sub_status%' and leads.LeadPersonManagedBy='$UserId' and leads.CompanyID='$companyID' GROUP BY leads.LeadsId ORDER BY LeadsId DESC ";
     }
   }
 } else {
   if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") {
-    $LEAD_SQLS = "SELECT * FROM leads where CompanyID='$companyID' ORDER BY LeadsId DESC ";
+    $LEAD_SQLS = "SELECT LeadsId , LeadSalutations,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,LeadPersonSubStatus,LeadPersonCreatedBy FROM leads where CompanyID='$companyID' ORDER BY LeadsId DESC ";
   } else {
     $UserId = AuthAppUser("UserId");
-    $LEAD_SQLS = "SELECT * FROM leads where LeadPersonManagedBy='$UserId' and CompanyID='$companyID' ORDER BY LeadsId DESC ";
+    $LEAD_SQLS = "SELECT LeadsId , LeadSalutations,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,LeadPersonSubStatus,LeadPersonCreatedBy  FROM leads where LeadPersonManagedBy='$UserId' and CompanyID='$companyID' ORDER BY LeadsId DESC ";
   }
 }
 $TotalItems = TOTAL($LEAD_SQLS);

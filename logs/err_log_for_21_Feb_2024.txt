@@ -1,0 +1,129 @@
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[21-Feb-2024 11:15:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 207
+[21-Feb-2024 11:15:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 211
+[21-Feb-2024 11:15:24 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 214
+[21-Feb-2024 11:17:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Feb-2024 11:17:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 207
+[21-Feb-2024 11:17:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 211
+[21-Feb-2024 11:17:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 214
+[21-Feb-2024 11:17:56 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[21-Feb-2024 12:36:28 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Feb-2024 12:36:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 207
+[21-Feb-2024 12:36:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 211
+[21-Feb-2024 12:36:44 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 214
+[21-Feb-2024 12:49:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 207
+[21-Feb-2024 12:49:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 211
+[21-Feb-2024 12:49:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 214
+[21-Feb-2024 13:14:52 Asia/Calcutta] PHP Warning:  Undefined variable $PhoneNumber in D:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 86
+[21-Feb-2024 13:20:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 207
+[21-Feb-2024 13:20:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 211
+[21-Feb-2024 13:20:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 214
+[21-Feb-2024 13:45:22 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 13:45:22 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 13:45:22 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 13:45:26 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 13:45:26 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 13:45:26 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 13:48:14 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 13:48:14 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 13:48:14 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 13:52:54 Asia/Calcutta] PHP Warning:  Undefined array key "Autodistribute" in D:\xampp\htdocs\apnalead\handler\ModuleController\FacebookLeadsController.php on line 41
+[21-Feb-2024 13:53:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Feb-2024 13:53:51 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 17
+[21-Feb-2024 13:53:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 13:53:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 13:53:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 13:53:51 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[21-Feb-2024 13:53:58 Asia/Calcutta] PHP Warning:  Undefined variable $CheckPlanExistAgain in D:\xampp\htdocs\apnalead\handler\ModuleController\PaymentResponseController.php on line 121
+[21-Feb-2024 14:02:55 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'fb.invoice_items' doesn't exist in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM i...')
+#1 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM i...')
+#2 D:\xampp\htdocs\apnalead\app\Billing\add_invoice\index.php(115): _DB_COMMAND_('SELECT * FROM i...', true)
+#3 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Select.php on line 12
+[21-Feb-2024 14:03:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Feb-2024 14:03:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:03:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:03:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:03:50 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[21-Feb-2024 14:04:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Feb-2024 14:04:51 Asia/Calcutta] PHP Warning:  Undefined variable $UserFullName in D:\xampp\htdocs\apnalead\app\index.php on line 17
+[21-Feb-2024 14:04:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:04:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:04:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:04:51 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[21-Feb-2024 14:05:23 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:05:23 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:05:23 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:05:23 Asia/Calcutta] PHP Warning:  Undefined variable $dataPoints in D:\xampp\htdocs\apnalead\app\index.php on line 122
+[21-Feb-2024 14:06:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Feb-2024 14:06:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:06:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:06:50 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:45:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:45:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:45:56 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:46:29 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:46:29 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:46:29 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:46:38 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:46:38 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:46:38 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:47:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:47:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:47:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:48:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:48:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:48:13 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:49:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:49:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:49:49 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:50:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:50:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:50:55 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:51:23 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:51:23 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:51:23 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 14:51:59 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 14:51:59 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 14:51:59 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 15:02:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Feb-2024 15:02:33 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 15:02:33 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 15:02:33 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): open(D:\xampp\tmp\sess_cnp8t877sf7mp9r9la78cm1r1n, O_RDWR) failed: Permission denied (13) in D:\xampp\htdocs\apnalead\app\logout.php on line 9
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): Failed to read session data: files (path: D:\xampp\tmp) in D:\xampp\htdocs\apnalead\app\logout.php on line 9
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): open(D:\xampp\tmp\sess_cnp8t877sf7mp9r9la78cm1r1n, O_RDWR) failed: Permission denied (13) in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): Failed to read session data: files (path: D:\xampp\tmp) in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): open(D:\xampp\tmp\sess_cnp8t877sf7mp9r9la78cm1r1n, O_RDWR) failed: Permission denied (13) in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): Failed to read session data: files (path: D:\xampp\tmp) in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): open(D:\xampp\tmp\sess_cnp8t877sf7mp9r9la78cm1r1n, O_RDWR) failed: Permission denied (13) in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): Failed to read session data: files (path: D:\xampp\tmp) in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): open(D:\xampp\tmp\sess_cnp8t877sf7mp9r9la78cm1r1n, O_RDWR) failed: Permission denied (13) in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): Failed to read session data: files (path: D:\xampp\tmp) in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): open(D:\xampp\tmp\sess_cnp8t877sf7mp9r9la78cm1r1n, O_RDWR) failed: Permission denied (13) in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[21-Feb-2024 15:02:43 Asia/Calcutta] PHP Warning:  session_start(): Failed to read session data: files (path: D:\xampp\tmp) in D:\xampp\htdocs\apnalead\acm\SysFileAutoLoader.php on line 10
+[21-Feb-2024 15:02:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 15:02:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 15:02:51 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 15:03:05 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Feb-2024 15:03:10 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 15:03:10 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 15:03:10 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234
+[21-Feb-2024 15:06:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[21-Feb-2024 15:07:04 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 227
+[21-Feb-2024 15:07:04 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 231
+[21-Feb-2024 15:07:04 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 234

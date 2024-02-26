@@ -76,7 +76,8 @@ if (isset($_GET['ProjectName'])) {
                                             ?>
                                             <a href="../../index.php" class="btn btn-sm btn-default m-1"><i class="fa fa-angle-left"></i> Dashboard </a>
                                             <a href="../index.php" class="btn btn-sm btn-default m-1"><i class="fa fa-angle-left"></i> ALL Leads </a>
-                                            <a href="edit-deals.php?dealsid=<?php echo SECURE($REQ_LeadsId, "e"); ?>" class="btn btn-sm btn-info m-1 text-white"><i class="fa fa-edit"></i> Edit Details</a>
+                                            <?php if (AuthAppUser("UserType") == "Admin") { ?>
+                                                <a href="edit-deals.php?dealsid=<?php echo SECURE($REQ_LeadsId, "e"); ?>" class="btn btn-sm btn-info m-1 text-white"><i class="fa fa-edit"></i> Edit Details</a><?php } ?>
                                             <a onclick="Databar('AddFollowUps')" class="btn btn-sm btn-danger pull-right m-1" data-toggle="modal"><i class="fa fa-phone"></i> Add Feedback</a>
                                         </div>
                                         <div class="col-md-12">

@@ -38,6 +38,33 @@
              <p> Leads Reports </p>
            </a>
          </li>
+
+         <li class="nav-item">
+           <a href="<?php echo APP_URL; ?>/leads/transfer/" class="nav-link" id="teams">
+             <i class="nav-icon fa fa-exchange text-dark"></i>
+             <p>
+               Move Leads
+             </p>
+           </a>
+         </li>
+
+         <li class="nav-item">
+           <a href="<?php echo APP_URL; ?>/leads/uploads/" class="nav-link" id="teams">
+             <i class="nav-icon fas fa-upload text-dark"></i>
+             <p>
+               Upload Leads
+             </p>
+           </a>
+         </li>
+
+         <li class="nav-item">
+           <a href="<?php echo APP_URL; ?>/leads/uploaded/" class="nav-link" id="teams">
+             <i class=" nav-icon fas fa-list text-dark"></i>
+             <p>
+               Uploaded Leads
+             </p>
+           </a>
+         </li>
          <li class="nav-item">
            <a href="<?php echo APP_URL; ?>/projects/" class="nav-link">
              <i class=" nav-icon fas fa-list text-dark"></i>

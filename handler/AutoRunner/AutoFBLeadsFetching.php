@@ -1,6 +1,5 @@
 <?php
 require __DIR__ . "/../../acm/SysFileAutoLoader.php";
-
 $GetFacebookPages = _DB_COMMAND_("SELECT * FROM config_facebook_accounts", true);
 if ($GetFacebookPages != null) {
   foreach ($GetFacebookPages as $Facebook) {
@@ -17,7 +16,11 @@ if ($GetFacebookPages != null) {
     $fb_project_Id = $Facebook->fb_project_Id;
     $companyId = $Facebook->CompanyID;
     $ch = curl_init();
-    $url = "https://graph.facebook.com/v17.0/me?fields=id%2Cname%2Cadaccounts%7Baccount_id%2Cname%2Caccount_status%2Ccampaigns%7Bid%2Cname%2Cstatus%2Ccreated_time%2Cstart_time%2Cadsets%7Bid%2Cname%2Ccreated_time%2Cstart_time%2Cstatus%2Cads%7Bid%2Cname%2Ccreated_time%2Cleads%7D%7D%7D%7D&access_token=$fb_access_token";
+    if ($companyId == "30") {
+      $url = "https://graph.facebook.com/v19.0/me?fields=id%2Cname%2Cadaccounts%7Baccount_id%2Cname%2Caccount_status%2Ccampaigns%7Bid%2Cname%2Cstatus%2Ccreated_time%2Cstart_time%2Cadsets%7Bid%2Cname%2Ccreated_time%2Cstart_time%2Cstatus%2Cads%7Bid%2Cname%2Ccreated_time%2Cleads%7D%7D%7D%7D&access_token=EAAETJW0pNgoBOyeEUXwrWjm2bHstwoDpLsFhghNyN921PGvyxMHRoFDenZAOFqP3q7ul5kOZAqC5IuNFCcwc0anlEZBd014zX8q1efHtH4dk801AXVdD2qgKQu2ZCQkcDLgSnlVPTWoG5LWJZAic5ZBpKkpB9GXfZC1D7lMI3g4ireHFHjTLkZARoFKZCD8LoKl0nwJe1QLIp";
+    } else {
+      $url = "https://graph.facebook.com/v17.0/me?fields=id%2Cname%2Cadaccounts%7Baccount_id%2Cname%2Caccount_status%2Ccampaigns%7Bid%2Cname%2Cstatus%2Ccreated_time%2Cstart_time%2Cadsets%7Bid%2Cname%2Ccreated_time%2Cstart_time%2Cstatus%2Cads%7Bid%2Cname%2Ccreated_time%2Cleads%7D%7D%7D%7D&access_token=$fb_access_token";
+    }
     curl_setopt($ch, CURLOPT_URL, $url);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     $resp = curl_exec($ch);
@@ -43,9 +46,9 @@ if ($GetFacebookPages != null) {
                           $firstNameList = ['first_name', 'fname', 'FirstName', 'f_name'];
                           $middelNameList = ['middel_name', 'mname', 'MiddelName', 'm_name'];
                           $lastNameList = ['lname', 'LastName', 'last_name', 'l_name'];
-                          $fullName = ['fullName', 'full_name', 'fname', 'f_name'];
-                          $phoneNumberList = ['phone_number', 'phonenumber', 'mobile_number',];
-                          $emailList = ['email_id', 'emailid', 'email', 'primary_emailid', 'primaryemail'];
+                          $fullName = ['fullName', 'full_name', 'fname', 'f_name', 'FULL_NAME'];
+                          $phoneNumberList = ['phone_number', 'phonenumber', 'mobile_number', 'PHONE'];
+                          $emailList = ['email_id', 'emailid', 'email', 'primary_emailid', 'primaryemail', 'EMAIL'];
                           if (in_array($leadsFieldData->name, $firstNameList)) {
                             foreach ($leadsFieldData->values as $leadsFieldValues) {
                               $FirstName = $leadsFieldValues;
@@ -130,7 +133,6 @@ if ($GetFacebookPages != null) {
                               ];
                               $Save = INSERT("fb_lead_uploads", $FaceBookLeads);
                             }
-                            //Make Empty Array To Store New Data and Value
                             unset($leadsFieldValuesForFbUploadTable);
                             unset($leadsFieldDataForFbUploadTable);
                           }
@@ -147,54 +149,56 @@ if ($GetFacebookPages != null) {
       curl_close($ch);
     }
   }
-  //transfer leads
-  //   //TRANSFER LEADS to users
-  //   //Distribute Leads
-  $FetchAllUploadedLeads = _DB_COMMAND_("SELECT * FROM lead_uploads WHERE LeadStatus='UPLOADED'", true);
+  $check = CHECK("SELECT Autodistribute FROM config_facebook_accounts WHERE Autodistribute='true' and CompanyID='$companyId'");
 
-  if ($FetchAllUploadedLeads != null) {
-    foreach ($FetchAllUploadedLeads as $UploadedLead) {
-      $LeadsCity = $UploadedLead->LeadsCity;
-      $companyId = $UploadedLead->CompanyID;
-      $UserId = FETCH("SELECT * FROM user_project_type, company_users WHERE user_project_type.User_main_Id=company_users.company_alloted_user_id and company_user_role NOT IN ('Admin', 'Digital') and User_project_main_Id='" . $UploadedLead->LeadProjectsRef . "' AND CompanyId='$companyId' ORDER BY rand() LIMIT 1", "User_main_Id");
-      if ($UserId != null) {
-        $LeadPersonManagedBy = $UserId;
-      } else {
-        $LeadPersonManagedBy = FETCH("SELECT * FROM company_users WHERE company_user_role NOT IN ('Admin', 'Digital') AND company_user_status='1' AND company_main_id='$companyId' ORDER BY rand() LIMIT 1", "company_alloted_user_id");
+  if ($check) {
+
+    $FetchAllUploadedLeads = _DB_COMMAND_("SELECT * FROM lead_uploads WHERE LeadStatus='UPLOADED'", true);
+
+    if ($FetchAllUploadedLeads != null) {
+      foreach ($FetchAllUploadedLeads as $UploadedLead) {
+        $LeadsCity = $UploadedLead->LeadsCity;
+        $companyId = $UploadedLead->CompanyID;
+        $UserId = FETCH("SELECT * FROM user_project_type, company_users WHERE user_project_type.User_main_Id=company_users.company_alloted_user_id and company_user_role NOT IN ('Admin', 'Digital') and User_project_main_Id='" . $UploadedLead->LeadProjectsRef . "' AND CompanyId='$companyId' ORDER BY rand() LIMIT 1", "User_main_Id");
+        if ($UserId != null) {
+          $LeadPersonManagedBy = $UserId;
+        } else {
+          $LeadPersonManagedBy = FETCH("SELECT * FROM company_users WHERE company_user_role NOT IN ('Admin', 'Digital') AND company_user_status='1' AND company_main_id='$companyId' ORDER BY rand() LIMIT 1", "company_alloted_user_id");
+        }
+        $leadsUploadId = $UploadedLead->leadsUploadId;
+        $data = array(
+          "LeadSalutations" => "",
+          "LeadPersonFullname" => $UploadedLead->LeadsName,
+          "LeadPersonPhoneNumber" => $UploadedLead->LeadsPhone,
+          "LeadPersonEmailId" => $UploadedLead->LeadsEmail,
+          "LeadPersonAddress" => $UploadedLead->LeadsAddress,
+          "LeadPersonCreatedBy" => "",
+          "LeadPersonManagedBy" => $LeadPersonManagedBy,
+          "LeadPersonStatus" => "FRESH LEAD",
+          "LeadPriorityLevel" => "HIGH",
+          "LeadPersonNotes" => "",
+          "LeadPersonSubStatus" => "",
+          "LeadForCountry" => "",
+          "LeadLastQualification" => "",
+          "LeadUniversityName" => "",
+          "LeadPersonSource" => $UploadedLead->LeadsSource,
+          "LeadPersonCreatedAt" => CURRENT_DATE_TIME,
+          "LeadPersonLastUpdatedAt" => CURRENT_DATE_TIME,
+          "CompanyID" => $companyId,
+        );
+        $save = INSERT("leads", $data);
+        $LeadMainId = FETCH("SELECT * FROM leads where LeadPersonPhoneNumber='" . $UploadedLead->LeadsPhone . "'", "LeadsId");
+
+        $LeadRequirements = array(
+          "LeadMainId" => $LeadMainId,
+          "LeadRequirementDetails" => $UploadedLead->LeadProjectsRef,
+          "LeadRequirementStatus" => "1",
+          "LeadRequirementCreatedAt" => CURRENT_DATE_TIME,
+          "LeadRequirementNotes" => "",
+        );
+        $Save = INSERT("lead_requirements", $LeadRequirements);
+        $Update = UPDATE("UPDATE lead_uploads SET LeadStatus='TRANSFERRED' WHERE leadsUploadId='$leadsUploadId'");
       }
-      $leadsUploadId = $UploadedLead->leadsUploadId;
-      $data = array(
-        "LeadSalutations" => "",
-        "LeadPersonFullname" => $UploadedLead->LeadsName,
-        "LeadPersonPhoneNumber" => $UploadedLead->LeadsPhone,
-        "LeadPersonEmailId" => $UploadedLead->LeadsEmail,
-        "LeadPersonAddress" => $UploadedLead->LeadsAddress,
-        "LeadPersonCreatedBy" => "",
-        "LeadPersonManagedBy" => $LeadPersonManagedBy,
-        "LeadPersonStatus" => "FRESH LEAD",
-        "LeadPriorityLevel" => "HIGH",
-        "LeadPersonNotes" => "",
-        "LeadPersonSubStatus" => "",
-        "LeadForCountry" => "",
-        "LeadLastQualification" => "",
-        "LeadUniversityName" => "",
-        "LeadPersonSource" => $UploadedLead->LeadsSource,
-        "LeadPersonCreatedAt" => CURRENT_DATE_TIME,
-        "LeadPersonLastUpdatedAt" => CURRENT_DATE_TIME,
-        "CompanyID" => $companyId,
-      );
-      $save = INSERT("leads", $data);
-      $LeadMainId = FETCH("SELECT * FROM leads where LeadPersonPhoneNumber='" . $UploadedLead->LeadsPhone . "'", "LeadsId");
-
-      $LeadRequirements = array(
-        "LeadMainId" => $LeadMainId,
-        "LeadRequirementDetails" => $UploadedLead->LeadProjectsRef,
-        "LeadRequirementStatus" => "1",
-        "LeadRequirementCreatedAt" => CURRENT_DATE_TIME,
-        "LeadRequirementNotes" => "",
-      );
-      $Save = INSERT("lead_requirements", $LeadRequirements);
-      $Update = UPDATE("UPDATE lead_uploads SET LeadStatus='TRANSFERRED' WHERE leadsUploadId='$leadsUploadId'");
     }
   }
 }

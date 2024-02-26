@@ -1,20 +1,24 @@
 <?php
 if (isset($_GET['delete_leads'])) {
-  DeleteReqHandler("delete_leads", [
-    "leads" => "LeadsId='" . SECURE($_GET['control_id'], "d") . "'",
-    "lead_followups" => "LeadFollowMainId='" . SECURE($_GET['control_id'], "d") . "'",
-    "lead_requirements" => "LeadMainId='" . SECURE($_GET['control_id'], "d") . "'",
-    "lead_followup_durations" => "LeadCallFollowUpMainId='" . SECURE($_GET['control_id'], "d") . "'"
-  ], [
-    "true" => "lead delete successfully",
-    "false" => "Unable to delete lead at the moment!"
-  ], DOMAIN . "/app/leads");
+  DeleteReqHandler(
+    "delete_leads",
+    [
+      "leads" => "LeadsId='" . SECURE($_GET['control_id'], "d") . "'",
+      "lead_followups" => "LeadFollowMainId='" . SECURE($_GET['control_id'], "d") . "'",
+      "lead_requirements" => "LeadMainId='" . SECURE($_GET['control_id'], "d") . "'",
+      "lead_followup_durations" => "LeadCallFollowUpMainId='" . SECURE($_GET['control_id'], "d") . "'"
+    ],
+    [
+      "true" => "lead delete successfully",
+      "false" => "Unable to delete lead at the moment!"
+    ],
+    DOMAIN . "/app/leads"
+  );
 }
-
 //save leads 
 elseif (isset($_POST['CreateLeads'])) {
   $UserID = AuthAppUser("UserId");
-  $companyId = FETCH("SELECT * FROM company_users where company_alloted_user_id='$UserID'", "company_main_id");
+  $companyId = CompanyId;
   $Phonenumber = $_POST['LeadPersonPhoneNumber'];
   $error_url = APP_URL . "/leads/add.php";
   $checkNumber = CHECK("SELECT LeadPersonPhoneNumber FROM leads Where LeadPersonPhoneNumber='$Phonenumber' and CompanyID='" . CompanyId . "'");
@@ -43,7 +47,7 @@ elseif (isset($_POST['CreateLeads'])) {
     $LeadFollowMainId = $LeadsId;
     //save feadback too
     // ========================================================================
-    if ($_POST['LeadFollowStatus']) {
+    if (isset($_POST['LeadFollowStatus'])) {
       $LeadFollowStatus = $_POST['LeadFollowStatus'];
       $LeadPriorityLevel = $_POST['LeadPriorityLevel'];
       if (isset($_POST['mycheckbtn'])) {
@@ -129,20 +133,9 @@ elseif (isset($_POST['CreateLeads'])) {
         $save = INSERT("lead_requirements", $LeadRequirement);
       }
     } else {
-      $data = array(
-        "ProjectTypeId" => $_POST['ProjectTypeId'],
-        "ProjectName" => $_POST['ProjectName'],
-        "ProjectDescriptions" => SECURE($_POST['ProjectDescriptions'], "e"),
-        "ProjectCreatedAt" => CURRENT_DATE_TIME,
-        "ProjectCreatedBy" => AuthAppUser("UserId"),
-        "ProjectUpdatedAt" => CURRENT_DATE_TIME,
-      );
-      $SAVE = INSERT("projects", $data);
-      $ProjectsId = FETCH("SELECT * FROM projects ORDER BY ProjectsId DESC limit 1", "ProjectsId");
-      $LeadRequirementDetails = $ProjectsId;
       $LeadRequirement = array(
         "LeadMainId" => $LeadMainId,
-        "LeadRequirementDetails" => $LeadRequirementDetails,
+        "LeadRequirementDetails" => null,
         "LeadRequirementCreatedAt" => $LeadRequirementCreatedAt,
         "LeadRequirementStatus" =>  $LeadRequirementStatus,
       );
@@ -153,7 +146,6 @@ elseif (isset($_POST['CreateLeads'])) {
   //update lead requirements
 } elseif (isset($_POST['UpdateLeadRequirements'])) {
   $LeadMainId = SECURE($_POST['UpdateLeadRequirements'], "d");
-
   $LeadRequirementCreatedAt = CURRENT_DATE_TIME;
   $LeadRequirementStatus = "1";
   foreach ($_POST['LeadRequirementDetails'] as $key => $LeadReq) {
@@ -184,7 +176,7 @@ elseif (isset($_POST['CreateLeads'])) {
   //upload leads
 } elseif (isset($_POST['UploadLeads'])) {
   $UserID = AuthAppUser("UserId");
-  $companyId = FETCH("SELECT * FROM company_users where company_alloted_user_id='$UserID'", "company_main_id");
+  $companyId = CompanyId;
 
   $LeadUploadedFor = $_POST['LeadPersonManagedBy'];
   $FileName = explode(".", $_FILES['UploadedFile']['name']);
@@ -204,23 +196,24 @@ elseif (isset($_POST['CreateLeads'])) {
         $LeadsCity = $data[4];
         $LeadsProfession = $data[5];
         $LeadsSource = $data[6];
-
-        $data = array(
-          "LeadsName" => $LeadsName,
-          "LeadsUploadBy" => AuthAppUser("UserId"),
-          "LeadsUploadedfor" => $LeadUploadedFor,
-          "LeadsEmail" => $LeadsEmail,
-          "LeadsPhone" => $LeadsPhone,
-          "LeadsAddress" => $LeadsAddress,
-          "LeadsCity" => $LeadsCity,
-          "LeadsProfession" => $LeadsProfession,
-          "LeadsSource" => $LeadsSource,
-          "UploadedOn" => CURRENT_DATE_TIME,
-          "LeadStatus" => "UPLOADED",
-          "LeadProjectsRef" => $_POST['LeadProjectsRef'],
-          "CompanyID" => $companyId,
-        );
-        $Save = INSERT("lead_uploads", $data);
+        if (!entryExists($LeadsPhone, $companyId)) {
+          $data = array(
+            "LeadsName" => $LeadsName,
+            "LeadsUploadBy" => AuthAppUser("UserId"),
+            "LeadsUploadedfor" => $LeadUploadedFor,
+            "LeadsEmail" => $LeadsEmail,
+            "LeadsPhone" => $LeadsPhone,
+            "LeadsAddress" => $LeadsAddress,
+            "LeadsCity" => $LeadsCity,
+            "LeadsProfession" => $LeadsProfession,
+            "LeadsSource" => $LeadsSource,
+            "UploadedOn" => CURRENT_DATE_TIME,
+            "LeadStatus" => "UPLOADED",
+            "LeadProjectsRef" => $_POST['LeadProjectsRef'],
+            "CompanyID" => $companyId,
+          );
+          $Save = INSERT("lead_uploads", $data);
+        }
       }
     }
     fclose($handle);

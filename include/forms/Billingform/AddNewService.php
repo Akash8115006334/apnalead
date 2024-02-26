@@ -12,14 +12,21 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="row">
-                            <div class="form-group col-lg-7 col-md-7 col-sm-7 col-12">
+                            <div class="form-group col-lg-6 col-md-6 col-sm-6 col-12">
                                 <label>Service Name <span class="test-danger">*</span></label>
-                                <input type="text" name="ServiceName" class="form-control" required="">
+                                <input type="text" name="ServiceName" class="form-control" placeholder="Service Name" required="">
                             </div>
-                            <div class="form-group col-lg-5 col-md-5 col-sm-5 col-6">
-                                <label> Tax HSN Number <span class="test-danger">*</span></label>
-                                <input type="text" name="HSN_Number" list="ProductBrandName" class="form-control" required="">
-
+                            <div class="form-group col-lg-6 col-md-6 col-sm-6 col-6">
+                                <label> HSN Code <span class="test-danger">*</span></label>
+                                <input type="text" name="ServiceHSNCode" placeholder="eg: HSN Code" class="form-control" required="">
+                            </div>
+                            <div class="form-group col-lg-6 col-md-6 col-sm-6 col-6">
+                                <label> Provider <span class="test-danger">*</span></label>
+                                <input type="text" name="ServiceProvider" placeholder="eg: Provider Name" class="form-control" required="">
+                            </div>
+                            <div class="form-group col-lg-6 col-md-6 col-sm-6 col-6">
+                                <label> Category <span class="test-danger">*</span></label>
+                                <input type="text" name="ServiceCategory" placeholder="eg: Maintenance,Consulting,Training" class="form-control" required="">
                             </div>
                         </div>
                         <div class="row mb-5px">

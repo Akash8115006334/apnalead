@@ -1,2 +1,343 @@
 Sno,LeadPersonFullname,LeadPersonPhoneNumber,LeadPersonEmailId,LeadPersonAddress,ProjectName,LeadPersonCreatedAt,LeadPersonManagedBy,LeadPersonStatus,LeadPriorityLevel,LeadPersonNotes,LeadPersonSource,TotalCalls,CallDurations,TotalFollowUps
-1,Akash,82726535267,,,"Web Designing ","20 Jan, 2024","Navix Admin ()","Junk Call",,MEDIUM,,Self,"4 Calls","0 sec",0
+1,"   Bimal Kumar",+919835241158,drbimal.kumar@yahoo.com,Null,"MBBS 2024","19 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+2,"   Ajay Chauhan",+919410898050,ajaychauhan1511@yahoo.com,Null,"MBBS 2024","18 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+3,"   kalyan singh rao",+919414566884,kalyansingh1974@gmail.com,Null,"MBBS 2024","17 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+4,"   Skipper Hms",+919163159777,anand@ngbrothers.in,Null,"MBBS 2024","17 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+5,"   Dr Vikash Mishra",+919977193947,vikashncc22@gmail.com,Null,"MBBS 2024","17 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+6,"   Ruchika Khatri",+919413995447,ruchikakhatri0w@gmail.com,Null,"MBBS 2024","17 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+7,"   Neelesh Saxena",+919818687158,neelashsaxena@yahoo.com,Null,"MBBS 2024","17 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+8,"   Vinod kumar",+913451610643,vinodankit06@gmail.com,Null,"MBBS 2024","17 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+9,"   Qamar Ud Din Qadri",+19149481768,qadriqamar80@yahoo.in,Null,"MBBS 2024","16 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+10,"   Karan Pal",+918791315745,kpyaduvanshee@gmail.com,Null,"MBBS 2024","16 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+11,"   Ajay Kumar Sharma",+919816805123,programmerittcp@gmail.com,Null,"MBBS 2024","16 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+12,"   Manoj Kumar",+919414005974,mnjttuman@gmail.com,Null,"MBBS 2024","16 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+13,"   Krishna Murari Jaiswal",+918004935870,k.m.jaiswal3572@gmail.com,Null,"MBBS 2024","16 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+14,"   Sheetal Furnishing",+919829453363,sheetalfurnishingjaipurtk@gmail.com,Null,"MBBS 2024","16 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+15,"   mohd akram",+919411095558,akramazam07@gmail.com,Null,"MBBS 2024","16 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+16,"   Liladhar Ganolia",+919875116165,liladharganolia17@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+17,"   Omdutt Joshi",+918112296542,omduttsharma7665208577@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+18,"   Om Prakash Singh",+919424626925,op.singhjbp@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+19,"   Waseem Khan",+919479784602,waseemkhan9479784602@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+20,"   Rajan Pandey",+919661137404,rajanpandeysw@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+21,"   Kaushal Kishor galav",+918504914453,galavkaushalkishor@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+22,"   Rajiv Ranjan Pandey",+919999820187,rajivpandey868@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+23,"   Tarak nath ghosh",+917903381400,dulalghosh1969@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+24,"   Himanshu  Kumar",+919708427548,singhvikaskr26@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+25,"   swarit porwal",+919810773581,shreesrish@gmail.co,Null,"MBBS 2024","15 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+26,"   Seema Midha",+919311690699,midhaprisha@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+27,"   Rajender Negi",+919816309298,rajendernegi110@gmail.com,Null,"MBBS 2024","15 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+28,"   Suresh Kumar",+919910031960,svsuresh72@gmail.com,Null,"MBBS 2024","14 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+29,"   Hadiat Khan",+917889523236,khanhadiat@gmail.com,Null,"MBBS 2024","14 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+30,"   Shabbermohammed Khan",+919649873643,shabbermohd130@gmail.com,Null,"MBBS 2024","14 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+31,"   Rifakat Ali Ansari",+919319359691,rifakataliansari7860@gmail.com,Null,"MBBS 2024","14 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+32,"   Mahesh Kumar Dave",+919024497256,maheshdave918@gmail.com,Null,"MBBS 2024","14 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+33,"   Ganesh Sharma",+919799325486,babulalsharma30971@gmail.com,Null,"MBBS 2024","14 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+34,"   Sumit Agrawal",+918979678212,sumit.agarlwal1976@gmail.com,Null,"MBBS 2024","14 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+35,"   Mohan Singh Mohan Singh",+19414632435,mohansinghjrn@gmail.com,Null,"MBBS 2024","14 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+36,"   Sayesha khurana",9027702839,vikas.1331@gmail.com,Null,"MBBS 2024","13 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+37,"   Drmanjur Alam",+918340597170,drmanjuralam1975@gmail.com,Null,"MBBS 2024","13 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+38,"   Ritesh garg",+919893786681,parasmani76@gmail.com,Null,"MBBS 2024","13 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+39,"   Amit Kuchhal",+919215553844,guptaamit1579@gmail.com,Null,"MBBS 2024","13 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+40,"   Ranjeet Soni",+918789716789,ranjeetsonidr@icloud.com,Null,"MBBS 2024","13 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+41,"   Swamy Raj Chauhan",+16005483078,swamychauhan104@gmail.com,Null,"MBBS 2024","13 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+42,"   Bikas Kumar",+919973497199,cabikas2321@gmail.com,Null,"MBBS 2024","13 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+43,"   Vijay Shukla",+919839105896,vijayshuklav7@gmail.com,Null,"MBBS 2024","13 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+44,"   Sonu Yadav",+18053457689,binsarrepanah@hotmail.com,Null,"MBBS 2024","13 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+45,"   Tufel Ahmed Khan",+919694563185,williowarfax@hotmail.com,Null,"MBBS 2024","13 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+46,"   Manjeet Sehrawat",+919468202200,Manjeetsehrawat80@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+47,"   Dabhade Shivraj",+917820970008,dabhadeshivrajch@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+48,"   Daya Nand Azad",+919418100472,dazad.dn@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+49,"   its_vinit",+916398566743,vk1115083@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+50,"   डॉ. आर. सी. प्रसाद",+919931907580,dr.rcprasad9931@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+51,"   Manoj Kumar",+919870138882,manoj1641970@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+52,"   Umar ali",+919622097131,yaqoobkataria@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+53,"   Neeshoo&amp;#039;Neeshoo Passw",+917906566462,kirtinidhivishwabandhu1@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+54,"   myAshok Chab",+917309897615,pptctjaunpur.jaunpur11@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+55,"   Sandeep Mishra",+919829179499,sandeepmishra0679@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+56,"   Himanshi Arichwal",9818362035,naveenarichwal@gmail.com,Null,"MBBS 2024","12 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+57,"   Tajuddin Sk",+919856321470,emicasedick8@hotmail.com,Null,"MBBS 2024","11 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+58,"   aiswarya aditya (prashant kr son)",+919709336204,prashantsinha215@gmail.com,Null,"MBBS 2024","11 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+59,"   Izhar Ahmad",+919027690006,aizhar487@gmail.com,Null,"MBBS 2024","11 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+60,"   Shaji Rajkumar Agrawal",+16394241901,shajirajkumaragrawal@gmail.com,Null,"MBBS 2024","11 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+61,"   Sarika Darsha",+14845632897,g@gmail.com,Null,"MBBS 2024","11 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+62,"   Arup Ghosh",+919865214758,shaana0fan@outlook.com,Null,"MBBS 2024","11 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+63,"   Raj Singh",+919914688594,maghoogokcans@hotmail.com,Null,"MBBS 2024","11 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+64,"   Pawan Kamar Solanki.",+919050425978,pawankumar90504@gmail.com,Null,"MBBS 2024","11 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+65,"   Bikash Bhowmik",+919402336120,9402336120bhowmik77@emle.com,Null,"MBBS 2024","11 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+66,"   Hemendra Golechha",+919414596237,golechhahemendra@gmail.com,Null,"MBBS 2024","11 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+67,"   Santosh Rai",+917665783605,santoshrai4714711980@gmail.com,Null,"MBBS 2024","11 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+68,"   Prem Budhnagar",+919414561458,pcbudhnagar@gmail.com,Null,"MBBS 2024","11 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+69,"   Anil Dongre Anil Dongre",+918999999999,behajmidouxp@hotmail.com,Null,"MBBS 2024","10 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+70,"   Thanaswar Raidangia",+919464549765,bylsanlivvib@hotmail.com,Null,"MBBS 2024","10 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+71,"   Parbej Ali",+917878580816,kxsheraz+d336a@yandex.com,Null,"MBBS 2024","10 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+72,"   Mahraban Ansari",+911234567890,almakimilkask@hotmail.com,Null,"MBBS 2024","10 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+73,"   Suvodh Kumar",+919870789448,beggabobbetu@hotmail.com,Null,"MBBS 2024","10 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+74,"   Tanya suman",+918002214359,tanyasuman98@gmail.com,Null,"MBBS 2024","09 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+75,"   Meetha Lal Jat",+919785730648,choudharymeethalal1976@gmail.com,Null,"MBBS 2024","09 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+76,"   Naya Agarwal",+918597946403,H@h.b,Null,"MBBS 2024","09 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+77,"   Ravi Kumar Vankadaru",+12085269358,alixeibnayu@outlook.com,Null,"MBBS 2024","09 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+78,"   Gulzar",+919929085349,gulzar_196@yahoo.com,Null,"MBBS 2024","09 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+79,"   Sumit Madhur",+919999999999,G@g.h,Null,"MBBS 2024","09 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+80,"   Diya Andra",+919858748966,C@f.x,Null,"MBBS 2024","09 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+81,"   Virat Kholi",+919636185047,Getsjsh@gmail.com,Null,"MBBS 2024","09 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+82,"   Jugdish Jugdish Gahlot",+918290212592,hsherazs+570@yandex.com,Null,"MBBS 2024","09 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+83,"   Narayan Jee",+919636185093,hsherazs+648a@yandex.com,Null,"MBBS 2024","09 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+84,"   Minotaur Offer",+919858895559,B@h.b,Null,"MBBS 2024","09 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+85,"   vaidahi",+919414120722,nirmalakuri1981@gmail.com,Null,"MBBS 2024","09 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+86,"   Nafis Ahmed",+919891844662,na262072@gmail.com,Null,"MBBS 2024","08 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+87,"   Jagdish Chand",+918053082022,jagiteastall@gmail.com,Null,"MBBS 2024","08 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+88,"   Didi Chowdhury",+9108565963659,Hehgefbdhfj@gmail.com,Null,"MBBS 2024","08 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+89,"   chutiyo ho tum",+919465684646,hulalsgq@gmail.com,Null,"MBBS 2024","08 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+90,"   Mohd Akram",+919311597178,mohdakram559@gmail.com,Null,"MBBS 2024","07 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+91,"   Sajjan Singhj",+917172737475,ajahafutae6@hotmail.com,Null,"MBBS 2024","07 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+92,"   Sanjay Chhonker",+919758417888,drsanjaypathlabatrauli@gmail.com,Null,"MBBS 2024","07 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+93,"   Wazir Singh",9729375396,wazirsingh010180@gmail.com,Null,"MBBS 2024","05 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+94,"   Amjad Hussain",+919415890711,Amjadhussainshastree@gmail.com,Null,"MBBS 2024","05 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+95,"   Lalit Sharma",+919018226554,kesarlalit@gmail.com,Null,"MBBS 2024","05 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+96,"   Rahul Oberoi",+918580524904,uoberoi600@gmail.com,Null,"MBBS 2024","05 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+97,"   देराजराम डूगराराम",+9108290212592,Jsgdsh@gmail.com,Null,"MBBS 2024","05 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+98,"   Praveen Kumar vajpai",+917388865555,pvajpai1025@gmail.com,Null,"MBBS 2024","05 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+99,"   Rajesh Kumar Mintu Singh",+919955425387,rajeshkumarmintusingh123@gmail.com,Null,"MBBS 2024","05 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+100,"   Maya Kumari",+9109511315548,Gkvjfj@gmail.com,Null,"MBBS 2024","04 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+101,"   Md Faruk Khan",+918701414629,mdfarukkhan7612@gmail.com,Null,"MBBS 2024","04 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+102,"   Surajmal Mali",+919610337399,suraj18878@gmail.com,Null,"MBBS 2024","04 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+103,"   Navin Prakash",+919811080552,prakashnavin393@gmail.com,Null,"MBBS 2024","04 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+104,"   Zainab",+919419076549,mattoojk@gmail.com,Null,"MBBS 2024","03 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+105,"   Amresh Kumar Singh",+919881111019,ranacom9@gmail.com,Null,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+106,"   Preeti Singh",+9109636185093,Dhd@g.c,Null,"MBBS 2024","03 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+107,"   Girijesh Mall",+19415341604,girijesh.mall14@gmail.com,Null,"MBBS 2024","03 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+108,"   ali ahmad",+919455476630,aliahmad224235@gmail.com,Null,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+109,"vansh agarwal",918193027447,iamvanshagarwal2004@gmail.com,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+110,"Niharika Sen",918114066583,sen769400@gmail.com,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+111,"Kratika sharma",919068888056,ashutoshbhar767@gmail.com,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+112,"Aparajita pundeer",918630965917,spareiddd@gmail.com,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+113,"Mohammad Sabir",919198519985,mdsabir9198@gmail.com,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+114,"Ansh Dahiya",919871855551,dahiya_anil@rediffmail.com,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+115,"Himanshi Arichwal",919818362035,naveenarichwal@gmail.com,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+116,Manisha,918920225743,manishachaudhary3317@gmail.com,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+117,naina,918527522677,gazalbabbar28@gmail.com,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+118,naina,918567866788,gazalbabbar@yahoo.co.in,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+119,"Abhraneel Sengupta",919839965907,ankursengupta016@gmail.com,,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+120,"   Prashant Shenoi",+918792879327,prashanthrshenoy@yahoo.co.in,Null,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+121,"   dwivedineelam27@gmail.com",+918299171811,dwivedineelam27@gmail.com,Null,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+122,"   Gyan Singh Sheoran",+918954313235,sheorangyansingh946@gmail.com,Null,"MBBS 2024","03 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+123,"   Preeti Gupta",+919899907447,rppn2005@gmail.com,Null,"MBBS 2024","02 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+124,"   Ritu Saraf",+917889588677,mannatking20@gmail.com,Null,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+125,"   Hansraj",+919667958054,hansrajhr11ml@gmail.com,Null,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+126,"   sunita dhaker",+919828969304,shankarlaldhakardhakar@gmail.com,Null,"MBBS 2024","02 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+127,"   Syed Peerzada Ali",+919407683084,peerzada2003@gmail.com,Null,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+128,"   Stuti Shukla",+917417861222,sankalpshukla532@gmail.com,Null,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+129,"Sarika Tondon",9900633400,,"Greater noida","MBBS 2024","02 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+130,"Krishna Vishwakarma",919336576884,,sitapur,"MBBS 2024","02 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+131,"Mahendra Kumar",919336559002,,gorakhpur,"MBBS 2024","02 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+132,"Adil Khan",919068987259,,Aligarh,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+133,Anurag,7007416822,,Lucknow,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+134,"Sunil Kumar sinha",919430012979,,sitamarhi,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+135,"Kishan Lal Sharma",919828011408,,"Gudha Gorji","MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+136,"Hiral Singhal",8368198298,singhalhiral15@gmail.com,"New Delhi","MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+137,"Ankit kumar",8292057060,bhawanaanavi09@gmail.com,Ghaziabad,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+138,"Ashutosh Ravindra Dhage",8237263663,jhaashwani711@gmail.com,"New Delhi","MBBS 2025","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+139,"Kashish Alam",8218415697,,Mainpuri,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+140,"Sharad yadav",8218114687,chauhandivy9@gmail.com,Mainpuri,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+141,"Divy chauhan",8218011608,ps0058965@gmail.com,Agra,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+142,"Piyush Sharma",8192812438,shretashi786@gmail.com,Prayagraj,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+143,"   Kisan Minama",+918103198417,kishanminama916@gmail.com,Null,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+144,"   Poonam Chawla",+919506172571,poonamchawla9380@gmail.com,Null,"MBBS 2024","02 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+145,"   Seku Boos",+919905741210,mojahirboos@gmail.com,Null,"MBBS 2024","02 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+146,"   raunak afrin",+919006852805,nasibakhtar001@gmail.com,Null,"MBBS 2024","01 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+147,"   Dr Anu Lally",+919876007850,dranuthapar@gmail.com,Null,"MBBS 2024","01 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+148,"   Sunita Nahar",+919541480705,sunitarani0876@gmail.com,Null,"MBBS 2024","01 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+149,"   Preeti Nema",+919424630987,preetinema96@gmail.com,Null,"MBBS 2024","01 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+150,"   Harsh Shashikant patil",+919822561119,hspatil997@gmail.com,Null,"MBBS 2024","01 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+151,"   Rahul Singh",+17175737475,hs@gmail.com,Null,"MBBS 2024","01 Feb, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+152,"   Prachi kanwar",+918529892382,prachikanwar54@gmail.com,Null,"MBBS 2024","01 Feb, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+153,"   saurabh pal singh",+919811620352,sa_pa_si@rediff.com,Null,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+154,"   harsha",+919648349464,devac@hotmail.com,Null,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+155,"   Sneha Suman",+919465458110,rajeevranjan755410@gmail.com,Null,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+156,"   Prachi vaibhav",+9109772989505,Anaya@gmil.com,Null,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+157,"Tanvir Khan","99105 16419",tanvirazamkhan@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+158,Dharmendra,918171401403,dharmendraisrani123@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+159,"Nitya nand dobhal nand",918126587258,ishantdobhal62@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+160,Prince,917380722740,princeblp677@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+161,"DEVENDRA KUMAR PRAJAPATI",918858108051,devendrakumarprajapati9453@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+162,"DEVENDRA KUMAR PRAJAPATI",918858108051,devendrakumarprajapati9453@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+163,"Sanjay Kumar",919936054576,sanjaysanjaykumar468@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+164,"Mahavir Chauhan",919418196432,mahavirsuman@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+165,"Tanu Doegar",917063532125,tanudoegar@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+166,"Tanu Doegar",917063532125,tanudoegar@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+167,"Rekha Goyal",917404555317,rekhagoyal2083@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+168,Ruby,918178548935,rubysharma482@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+169,"neelima verma",917007318415,drneelimakalyan@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+170,"A Sinha",919953744051,dr.aloksinha12@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+171,Seema,917037127498,seemalard@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+172,"Seema lard",917037127498,tpcsidcul@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+173,"Jitender Bhati",918368407688,bhati886@yahoo.co.in,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+174,"Sunil rathore",919760538743,sunilrathore8743@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+175,Garima,919918142984,jayavish2205@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+176,"Shruti Chauhan",917570005543,rajpalbechu@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+177,"Nainika Choudhary",918527207963,cnutan76@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+178,"Sanskriti Srivastava",919999859980,drrakesh1@yahoo.co.in,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+179,"Geetanjali Arora",919910254175,drgeetanjaliarora2018@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+180,Aviral,918840097725,yadavdhruv262@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+181,Arti,919667921748,artichauhan12012006@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+182,Muskan,919636513289,lokeshyadav1540@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+183,Pawan,919268740016,kumar721976@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+184,"Maan roy",916398707933,maanroy729@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+185,"Mohd Anas",918218165592,anass2418@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+186,"Parikshit Kumar",918447094986,awadhesh72@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+187,Asad,917209917801,mdasadullah81@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+188,"Nilotpal kumar",919835666453,dr.nilukrishna@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+189,"Honey saini",916396156104,sainiravindra058@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+190,Isha,919729422123,isha34458@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+191,Abhi,917303585211,abhisani45@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+192,"Aryan Sinha",917004480922,ajay13sinha@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+193,"Avipsa jena",919871258220,laxminarayanjena1971@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+194,"Gaurav kumar",916395821466,kumargaurav52237@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+195,sunil,919540059081,sunilsharma_hr@yahoo.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+196,"Viishu mishra",916387676309,www.vishalmishra2642@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+197,"Vivek Inwati",919691001824,vivekinwati943@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+198,"Upendra Baghel",919917438066,upendra1baghel1981@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+199,"Mohd Varis",919810280529,mohdvaris76@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+200,"Pawan Kumarmorya",918726889801,pkumarmorya52@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+201,"MD SHOHAIB",917982015849,mdshohaib9205@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+202,"Sumit Kumar",919528659174,sumit32919@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+203,ADITYA,918853299978,shuklaaditya273007@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+204,"Mohammed Salman",919811361226,irfankhandelhi32@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+205,Sweta,919918444408,swetamklondike@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+206,"Rokash bi",918004481740,r55592182@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+207,"Prince Kumar Kumar",917380727740,princeblp677@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+208,"Vandana 211bassi",918869036841,,Bijnor,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+209,"Pradeep Kumar",918795882814,,Behrai,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,Facebook,"0 Calls","0 sec",0
+210,"Sanjay Mishra",918707709832,,Kanpur,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+211,"Lucky Shakya",918650388570,,Kasganj,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+212,"Shashi kant Pandey",918299766967,,gorakhpur,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+213,"Sunil Kumar",918433030351,,Haldaur,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+214,"Sanjay Singh (F)",918292458349,,Begusarai,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+215,"manoj chauhan",918273866610,,uttarkashi,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+216,Sandeep,9140934260,,Farukhabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+217,"Bharti Sharma",918171811147,,"badaun up","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+218,"Kuldeep Saini",918126923363,,Rajpur,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+219,"Rishabh Joshi",918118856092,,Faridabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+220,"Vasu Tripathi",918090329283,,"Lakhimpur Kheri","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+221,"Kaushal Kumar",918084211926,,Prayagraj,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+222,"manish kumar",918081640901,,"Budaun Uttar Pradesh","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+223,"zubiya javed",918077548737,,Moradabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+224,"Yogendra Singh",918077160436,,Moradabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+225,"Ram Kumar",918077002624,,Aligarh,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+226,Fahad,918057939968,,Patna,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+227,"Rahul Chaudhary",918002777925,,Patna,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+228,"Shadab Malik",917906385004,,Farrukhabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+229,Tanya,918791849202,,uttrakhand,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+230,"Daya Atul Sah",917535072163,,uttrakhand,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+231,"kaushal pandey",917428953688,,Delhi,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+232,"Abhay Pratap Singh",917408991953,,"Uttar Pradesh","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+233,"Pushpendra Kumar",917398523330,,Moradabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+234,"Amit Singh Pradhan ",917398171999,,Varanasi,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,"F/o Shiwanshi",Facebook,"0 Calls","0 sec",0
+235,"Muzzi Siddiqui",917310794342,,Allahabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+236,"Dhanish Obroy",917078014394,,Madhubani,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+237,Sameer,917248721628,,Delhi,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+238,"Alok Vishwakarma",917068247064,,Narkatiaganja,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+239,"Ankush Khutela",917027538529,,Saharanpur,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+240,Deep_SINGH,917007769774,,"Greater noida","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+241,"Roy Saifi",6396232912,,Ganjdundwara,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+242,"Ashutosh Arora",9068595733,,Darbhanga,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+243,"Amit Baghel",6398562483,,Mainpuri,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+244,"Ibraar alam",9990986282,ibraarahamad37@email.com,"South Delhi","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+245,"Savita Gahlot",9990009728,savcompet@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+246,Manoj,9971799615,rajkunwar220205@gmail.com,Ghaziabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+247,Karan,9927667724,sairamricemill.verma@gmail.com,Moradabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+248,Priyanka,9917699747,arvindsehgalgsk@gmail.com,MORADABAD,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+249,"Amulya ",9438204848,,Odissa,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,"You Tube",Other,"0 Calls","0 sec",0
+250,"Upendra Baghel",9917438066,,UP,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+251,"Mohd Salman",9811361226,,UP,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+252,"Rajiv Tripathi",7522002825,,Lucknow,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,"YT, For daughter",Other,"0 Calls","0 sec",0
+253,"Veena ",9940491238,,Tamilnadu,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,"YT, for daughter",Other,"0 Calls","0 sec",0
+254,"Vani Rawat",9899631415,bhawana.rawat27@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+255,"manvi kundra",9899491663,manvikundra21@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+256,"Bhushan khurana",9897375822,,Agra,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+257,"Aadhya Agarwal",9873268027,shekharagarwal1311@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+258,"Mohammad waseem",9871732539,mohdnazimrana786@gmail.com,Ghaziabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+259,"Ashish Bhardwaj",9872700394,ashishy99@yahoo.com,"New Delhi","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+260,JS,9871441772,jatinsagar9871@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+261,lalita,9870958984,fighter.mpi72@gmail.com,Moradabad,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+262,Srishti,9839095078,rajpal.kiran@yahoo.in,Pryagraj,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+263,"Rajesh Singh Baghel",9839050182,rsbaghel735@gmail.com,Gorakhpur,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+264,Prachi,9810684529,s4SanjayKumar80@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+265,"Khushi Jaswani",9711473803,khushijaswani12@gmail.com,"PASCHIM VIHAR","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+266,"Ayushi Kushwaha",9696448275,shivanikushwaha7dec@gmail.com,Banaras,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+267,"Girija Munjekar",9673739329,rahulmunjekar15@gmail.com,Pune,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+268,Himanshu,9667738088,delhikalaunda592@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+269,Rahul,9651257267,rg744686@gmail.com,Gorakhpur,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+270,Aditi,9643313451,garimasunit@gmail.com,,"MBBS 2024","31 Jan, 2024","Aarti Behl ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+271,"Rajendra Kumar",9.1983E+11,,Bhilwara,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+272,"S JHANSI",9643188726,Prakashamls@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+273,"Irfan Raza",9582546781,irfanalleninsider786@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+274,"Faijal ansari",9559869747,fa788675@gmail.com,Lakhimpur,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+275,"Tejsv kumar",9557290462,sarveshkumarvishnoi01@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+276,"Sachin Sharma",9555101555,sachinsharma117@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+277,"Sunil Kumar",9540470086,drsunilkumar73@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+278,"Sumitra Srivastava",9452953119,bejjuban@rediffmail.com,Lucknow,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+279,Mukesh,9451842049,dr.mishramukesh@gmail.com,Allahabad,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+280,"Arun mani tiwari",9451238152,52amtripathi@gmail.com,Bareilly,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+281,chittaranjan,9439620313,chittaranjandas.nilu@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+282,"Amarendra Singh",9415436915,,"Rae Bareli","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+283,"Kushagr shukla",9415174711,drdineshchshukla@gmail.com,Kanpur,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+284,Ritika,9411695431,ritikadiwakar6@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+285,"Mani chaudhary",9368945667,manichaudhary612@gmail.com,Agra,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+286,"veer Veer",9368712092,,"Kosi Kalan","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+287,"Hifza Zaidi",9359055064,dr.arshadali2014@gmail.com,Bijnor,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+288,"Saanvi Sirohi",9335226103,gitanjali.dubey@gmail.com,Lucknow,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+289,"Shivam jaiswal",9336038707,rj4679444@gmail.com,Kaushambi,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+290,Sandeep,9324128534,Sp9432322@gmail.com,Fatehpur,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+291,"Tushar Mittal",9319555029,visionmunish@gmail.com,Moradabad,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+292,"Anshul Rawat",9311490968,,Farida6,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+293,Anjali,9311759950,chauhananjali9311@gmail.com,"Gautam Budh Nagar","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+294,"Ritika Sharma",9310974369,sharma.ritika2816@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+295,Anisha,9260975954,anishamishra67@gmail.com,Allahabad,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+296,"Haya Rizvi",9258383555,navedrizvi68@gmail.com,Meerut,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+297,khushi,9255760234,prem.sachdeva44@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+298,Jaipal,9250975767,Jai.pal@rediffmail.com,--,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+299,"ayaz alam",9129186071,syedayazahmad20@gmai.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+300,"Ankit Kumar",9120160265,ankitkumar912016@gmail.com,Shahjahanpur,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+301,"Mohd Faisal",9058364832,faisalansari364832@gmail.com,Muzaffarnagar,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+302,Babaloo,9027981842,banshmahere@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+303,"Barkha Chaurashia",9026870086,chaurasiaraju019@gmail.com,Kanpur,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+304,"Imran Ali",9026607516,iali6377522@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+305,"Monu gupta",9026115929,monumonugupta62@gamil.com,Gorakhpur,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+306,"Mohammad Shahnawaz",9012844591,mohdshanawaz051998@gimal.com,Moradabad,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+307,"Bhupendra kumar",9005287905,drtiwari900@gmail.com,"Rae Bareli","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+308,"Gurmeet Kaur",8882538437,krishankumarupadhyay91@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+309,"Vikram singh",8878334772,ruchiyogesh6@gmail.com,Deoria,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+310,"Vansh Tyagi",8860383211,ridhimash.2006@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+311,Amarjeet,8810375400,amisagora@gmail.com,,"MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+312,"Chhotan Sharma",8765217320,,"Ballia up","MBBS 2024","31 Jan, 2024","Rajni Singh ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+313,Mihad,7217560228,mihadk786@gmail.com,Ghaziabad,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+314,Suhel,7078125040,csuhail771@gmail.com,Muzaffarnagar,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+315,"Samyak singh",7068767684,samyaksingh252@gmail.com,Jhansi,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+316,"Anan Kumar Mishra",7068113531,anan19mishra@gmail.com,UP,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+317,"Prachi Tyagi",7060788911,pt847673@gmail.com,Meerut,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+318,Anish,7032640447,anishacharya288@gmail.com,Hyderabad,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+319,"FAIZAN UDDIN",7017654987,fk036980@gmail.com,Badaun,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+320,Deva,7004945570,dev.civil07@gmail.com,Gorakhpur,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+321,"Shubhi Mittal",6398492596,05mittalshubhi@gmail.com,Saharanpur,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+322,Nitin,6396002386,nitin5289u@gmail.com,Lucknow,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+323,Suhani,6395689600,ksugam547@gmail.com,Kanpur,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+324,"Vikash kumar singh",6393022239,vs14171437@gmail.com,Bihar,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+325,Pankaj,6378492507,pb6016478@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+326,Sneha,6204768885,,Dhanbad,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+327,"Vivek kumar",6204480978,vivekkr62044@gmail.com,Varanasi,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+328,"Ankur chaudhary",8057998803,,Aligarh,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+329,"Rahul Kumar",8002777925,rahulchaudhary8002777925@gmail.com,"Aurangabad (Bihar)","MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+330,Ariba,7991257596,fatimaareeba2004@gmail.com,Lucknow,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+331,"Sunil Sharma/ Father",7983164707,sharmasunil3347@gmail.com,Meerut,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+332,"Kunal Gupta",7982930145,dhargupta726@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+333,"Sarvajeet Yadav",7909001239,sarvajeetyadav1976@gmail.com,Varanasi,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+334,Sakshi,7906825477,,Barilley,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+335,"Nitasha Handa",7906690547,nitasha.handa2005@gmail.com,Pilibhit,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+336,"Anubhuti Sharma",7905370488,mvasharma3@gmail.com,Kanpur,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+337,"Nirmal Nayak",7668968843,,Mainpuri,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+338,"Syed Wasi Husain Rizvi",7307238376,786syedwasi786@gmail.con,Lucknow,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+339,"KUMKUM SHARMA",7303839145,Kumkumsharma.07.ks@gmail.com,Noida,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+340,Asma,7302920908,asma011ansari@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+341,"Akash Samanta",7290984871,akashsamanta1631@gmail.com,"New Delhi","MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
+342,"Ishita nayak",7290904898,saratnayak16@gmail.com,Odisha,"MBBS 2024","31 Jan, 2024","Abhishek Verma ()","FRESH LEAD",,HIGH,,,"0 Calls","0 sec",0
