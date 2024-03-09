@@ -14,7 +14,6 @@ if (isset($_POST['CurrentUrl'])) {
 } else {
     $CurrentUrl = "";
 }
-// $Getleads = _DB_COMMAND_("SELECT * FROM leads WHERE CompanyID='" . CompanyId . "' ORDER BY LeadsId DESC LIMIT $start, $listcounts", true);
 $GetLeads = _DB_COMMAND_($Lead_Sql . "  LIMIT $start, $listcounts", true);
 if ($GetLeads == null) { ?>
     <div class="col-md-12 card card-body border-0 shadow-sm">
@@ -78,7 +77,7 @@ if ($GetLeads == null) { ?>
                                 <?php $projectId = FETCH("SELECT LeadRequirementDetails FROM lead_requirements WHERE LeadMainId='$LeadsId'", "LeadRequirementDetails");
                                 if ($projectId  == null) {
                                     echo "<span class='text-gray fs-10 '>
-                                                                <i class='fa fa-hashtag'></i>No Requirement
+                                                                <i class='fa fa-hashtag'></i>No Project
                                                                 </span>";
                                 } else {
                                     $ProjectName = FETCH("SELECT * FROM projects WHERE ProjectsId='$projectId'", "ProjectName");
@@ -153,15 +152,7 @@ if ($GetLeads == null) { ?>
                                 </div>
                             </div>
                         </span>
-                        <?php
-                        if (AuthAppUser("UserType") == "Admin") { ?>
-                            <span class=" w-100  text-center d-flex justify-content-center align-items-center"> <?php
 
-                                                                                                                CONFIRM_DELETE_POPUP('delete_leads', [
-                                                                                                                    "delete_leads" => true,
-                                                                                                                    "control_id" => $LeadsId,
-                                                                                                                ], "ModuleHandler", "<i class='fa fa-trash text-danger'></i>", "btn btn-md btn-default");
-                                                                                                                ?></span><?php  } ?>
                     </span>
                     </span>
                 </div>

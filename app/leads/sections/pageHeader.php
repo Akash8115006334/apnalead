@@ -17,54 +17,26 @@ if (isset($_GET['view'])) {
   $LeadManagedBy = $_GET['LeadManagedBy'];
   $LeadRequirment = $_GET['LeadRequirment'];
   $LeadPriority = $_GET['LeadPriorityLevel'];
-  //manage by
+
+  // manage by
   if ($LeadManagedBy == null) {
-    $Managed = "and LeadPersonManagedBy like '%$LeadManagedBy%'  ";
+    $Managed = ""; // Empty string if $LeadManagedBy is null
   } else {
-    $Managed = "and LeadPersonManagedBy='$LeadManagedBy'";
+    $Managed = "AND leads.LeadPersonManagedBy = '$LeadManagedBy'";
   }
+
   // requirement
   if ($LeadRequirment == null) {
-    $ProjectConditios = "and  LeadRequirementDetails like '%$LeadRequirment%' and";
+    $ProjectConditios = ""; // Empty string if $LeadRequirment is null
   } else {
-    $ProjectConditios = " and LeadRequirementDetails='$LeadRequirment' and";
+    $ProjectConditios = "AND lead_requirements.LeadRequirementDetails = '$LeadRequirment'";
   }
 
   if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") {
-    $LEAD_SQLS = "SELECT * FROM leads, lead_requirements where leads.LeadsId=lead_requirements.LeadMainId $ProjectConditios  CompanyID='$companyID' and LeadPriorityLevel like '%$LeadPriority%' and LeadPersonFullname like '%$LeadPersonFullName%'  and LeadPersonPhoneNumber like '%$LeadPersonPhoneNumber%' and LeadPersonStatus like '%$LeadPersonStatus%' and LeadPersonSource like '%$LeadPersonSource%' $Managed  and LeadPersonCreatedAt like '%$LeadCreatedAt%' GROUP BY LeadsId ORDER BY LeadsId DESC";
+    $LEAD_SQLS = "SELECT * FROM leads LEFT JOIN lead_requirements ON leads.LeadsId = lead_requirements.LeadMainId WHERE CompanyID = '$companyID' AND LeadPriorityLevel LIKE '%$LeadPriority%' AND LeadPersonFullname LIKE '%$LeadPersonFullName%' AND LeadPersonPhoneNumber LIKE '%$LeadPersonPhoneNumber%' AND LeadPersonStatus LIKE '%$LeadPersonStatus%' AND LeadPersonSource LIKE '%$LeadPersonSource%' $ProjectConditios $Managed AND LeadPersonCreatedAt LIKE '%$LeadCreatedAt%' GROUP BY leads.LeadsId ORDER BY leads.LeadsId DESC";
   } else {
     $LOGIN_UserId = AuthAppUser("UserId");
-    $LEAD_SQLS = "SELECT * FROM leads, lead_requirements where leads.LeadsId=lead_requirements.LeadMainId $ProjectConditios  CompanyID='$companyID'and LeadPriorityLevel like '%$LeadPriority%' and LeadPersonManagedBy='$LOGIN_UserId' and LeadPersonFullname like '%$LeadPersonFullName%'  and LeadPersonPhoneNumber like '%$LeadPersonPhoneNumber%' and LeadPersonStatus like '%$LeadPersonStatus%' and LeadPersonSource like '%$LeadPersonSource%' and LeadPersonCreatedAt like '%$LeadCreatedAt%'  GROUP BY LeadsId ORDER BY LeadsId DESC";
-  }
-} elseif (isset($_GET['LeadRequirment'])) {
-  $LeadRequirment = $_GET['LeadRequirment'];
-  $LeadFollowStatus = $_GET['LeadFollowStatus'];
-  $LeadPersonFullname = $_GET['LeadPersonFullname'];
-  $LeadPersonPhoneNumber = $_GET['LeadPersonPhoneNumber'];
-  $LeadPersonSource = $_GET['LeadPersonSource'];
-  $LeadPersonManagedBy = $_GET['LeadPersonManagedBy'];
-  $LeadFromDate = $_GET['from'];
-  $LeadToDate = $_GET['to'];
-  if ($LeadPersonManagedBy == null) {
-    $Managed = "leads.LeadPersonManagedBy like '%$LeadPersonManagedBy%' and";
-  } else {
-    $Managed = "leads.LeadPersonManagedBy='$LeadPersonManagedBy' and";
-  }
-  if ($LeadRequirment == null) {
-    $ProjectConditios = " lead_requirements.LeadRequirementDetails like '%$LeadRequirment%' and";
-  } else {
-    $ProjectConditios = " lead_requirements.LeadRequirementDetails='$LeadRequirment' and";
-  }
-  if ($LeadFromDate != null) {
-    $dateCondition = " and leads.LeadPersonCreatedAt BETWEEN '$LeadFromDate 00:00:00 AM' AND '$LeadToDate 23:59:59 PM'";
-  } else {
-    $dateCondition = "";
-  }
-  if (AuthAppUser("UserType") == "Admin" || AuthAppUser("UserType") == "Digital") {
-    $LEAD_SQLS = "SELECT * FROM leads, lead_requirements WHERE leads.LeadsId=lead_requirements.LeadMainId $dateCondition and $Managed leads.LeadPersonSource like '%$LeadPersonSource%'  and $ProjectConditios   leads.LeadPersonPhoneNumber like '%$LeadPersonPhoneNumber%' and leads.LeadPersonFullname like '%$LeadPersonFullname%'  and leads.LeadPersonStatus LIKE '%$LeadFollowStatus%' and leads.CompanyID='$companyID' GROUP BY leads.LeadsId ORDER BY leads.LeadsId DESC ";
-  } else {
-    $UserId = AuthAppUser("UserId");
-    $LEAD_SQLS = "SELECT * FROM leads, lead_requirements where leads.LeadsId=lead_requirements.LeadMainId $dateCondition and $Managed leads.LeadPersonSource like '%$LeadPersonSource%'  and $ProjectConditios  leads.LeadPersonPhoneNumber like '%$LeadPersonPhoneNumber%' and leads.LeadPersonFullname like '%$LeadPersonFullname%'  and leads.LeadPersonStatus LIKE '%$LeadFollowStatus%' and leads.LeadPersonManagedBy='$UserId' and leads.CompanyID='$companyID' GROUP BY leads.LeadsId ORDER BY lesd.LeadsId DESC  ";
+    $LEAD_SQLS = "SELECT * FROM leads LEFT JOIN lead_requirements ON leads.LeadsId = lead_requirements.LeadMainId WHERE $ProjectConditios CompanyID = '$companyID' AND LeadPriorityLevel LIKE '%$LeadPriority%' AND LeadPersonManagedBy = '$LOGIN_UserId' AND LeadPersonFullname LIKE '%$LeadPersonFullName%' AND LeadPersonPhoneNumber LIKE '%$LeadPersonPhoneNumber%' AND LeadPersonStatus LIKE '%$LeadPersonStatus%' AND LeadPersonSource LIKE '%$LeadPersonSource%' AND LeadPersonCreatedAt LIKE '%$LeadCreatedAt%' GROUP BY LeadsId ORDER BY LeadsId DESC";
   }
 } elseif (isset($_GET['sub_status'])) {
   $sub_status = $_GET['sub_status'];

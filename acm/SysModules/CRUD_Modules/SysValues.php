@@ -25,6 +25,5 @@ function CONFIG($Data, $die = false)
  } else {
   $Value = $Configurations['configurationvalue'];
  }
-
  return $Value;
 }

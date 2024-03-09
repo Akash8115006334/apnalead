@@ -2134,3 +2134,7 @@ padding: .3rem !important;
 .billing-card-bg-color{
   background-color: #addae6 !important;
 }
+.checkbox input[type = "checkbox"]{
+  width: 20px !important;
+  height: 20px !important;
+}

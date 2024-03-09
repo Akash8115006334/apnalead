@@ -13,6 +13,7 @@ require $Dir . "handler/AuthController/AuthAccessController.php";
     <title>SetupPage | <?php echo APP_NAME; ?></title>
     <?php include $Dir . "assets/HeaderFilesLoader.php"; ?>
 </head>
+
 <body>
     <section class="company-details mt-4">
         <div class="container">
@@ -31,7 +32,6 @@ require $Dir . "handler/AuthController/AuthAccessController.php";
                 $CompanyIndustryDetails = "SELECT * FROM users WHERE UserId='$UserID'";
                 ?>
                 <div class="row m-auto">
-
                     <div class="col-md-5 row m-auto">
                         <div class="col-md-12">
                             <h5 class="app-text">Upload Company Logo</h5>
@@ -48,14 +48,12 @@ require $Dir . "handler/AuthController/AuthAccessController.php";
                                 <img src="<?php echo STORAGE_URL . '/companylogo/' . $ImageEmpty; ?>" id='UploadFile' class='rounded-circle app-border p-3'>
                                 <span class="py-3">Upload</span>
                             </label>
-
                         </div>
                     </div>
                     <div class='col-md-7 row m-auto mt-0'>
                         <div class="col-md-12">
                             <h5 class="app-text">Company Details</h5>
                         </div>
-
                         <div class="col-md-6 form-group">
                             <label>Company Name</label>
                             <input type="text" name='company_name' value="<?php echo FETCH($CompanyTableDetails, "company_name"); ?>" class="form-control" required>

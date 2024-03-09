@@ -9,7 +9,7 @@ $PageName = "Transfer Leads";
 $PageDescription = "Manage all customers";
 
 $UserId = AuthAppUser("UserId");
-$companyID = FETCH("SELECT * FROM company_users WHERE company_alloted_user_id='$UserId'", "company_main_id");
+$companyID = CompanyId;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -76,12 +76,12 @@ $companyID = FETCH("SELECT * FROM company_users WHERE company_alloted_user_id='$
                               ?>
                             </select>
                           </div>
-                          <input type="text" hidden id="leasstatus" name="LeadPersonStatus" value="">
+                          <!-- <input type="text" hidden id="leasstatus" name="LeadPersonStatus" value=""> -->
                           <!-- <input type="text" value='<?php echo IfRequested("GET", "LeadPersonFullName", "", false); ?>' name="LeadPersonFullName" value=""> -->
 
                           <div class="col-md-12 col-6 mb-1">
                             <label>Lead Status</label>
-                            <select class="form-control form-control-sm" id="statustype" onchange="CallStatusFunction()">
+                            <select class="form-control form-control-sm" name='LeadPersonStatus'>
                               <option value="">Select Lead Status</option>
                               <?php
                               $FetchCallStatus = _DB_COMMAND_("SELECT * FROM configs, config_values where configs.ConfigsId=config_values.ConfigValueGroupId and configs.ConfigGroupName='CALL_STATUS' and config_values.CompanyID='$companyID' ORDER BY ConfigValueId DESC", true);
@@ -122,7 +122,8 @@ $companyID = FETCH("SELECT * FROM company_users WHERE company_alloted_user_id='$
                         </div>
                       </form>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 ">
+
                       <h5 class="app-sub-heading">Available Leads</h5>
                       <?php
 
@@ -132,7 +133,21 @@ $companyID = FETCH("SELECT * FROM company_users WHERE company_alloted_user_id='$
                         $LeadPersonStatus = $_GET['LeadPersonStatus'];
                         $LeadPriorityLevel = $_GET['LeadPriorityLevel'];
                         $LeadPersonSource = $_GET['LeadPersonSource'];
-                        // $LeadPersonFullName = $_GET['LeadPersonFullName'];
+
+                        //store request parameters into session 
+                        $_SESSION['GetLeadsFrom'] = $GetLeadsFrom;
+                        $_SESSION['From'] = $From;
+                        $_SESSION['LeadPersonStatus'] = $LeadPersonStatus;
+                        $_SESSION['LeadPriorityLevel'] = $LeadPriorityLevel;
+                        $_SESSION['LeadPersonSource'] = $LeadPersonSource;
+
+                        //run last requested parameters and get data accordingly
+                      } elseif (isset($_SESSION['GetLeadsFrom'])) {
+                        $GetLeadsFrom = $_SESSION['GetLeadsFrom'];
+                        $From = $_SESSION['From'];
+                        $LeadPersonStatus = $_SESSION['LeadPersonStatus'];
+                        $LeadPriorityLevel = $_SESSION['LeadPriorityLevel'];
+                        $LeadPersonSource = $_SESSION['LeadPersonSource'];
 
                         //make null for request parameters in case of no selection
                       } else {
@@ -141,67 +156,61 @@ $companyID = FETCH("SELECT * FROM company_users WHERE company_alloted_user_id='$
                         $LeadPersonStatus = '';
                         $LeadPriorityLevel = '';
                         $LeadPersonSource = '';
-                        // $LeadPersonFullName = '';
                       }
                       ?>
                       <form>
                         <div class="row">
                           <div class="col-md-12">
                             <div class="flex-s-b">
-                              <input type="text" value="<?php echo IfRequested("GET", "From", "", false); ?>" name="LeadPersonManageBy" hidden>
-                              <input type="text" value="<?php echo IfRequested("GET", "LeadPersonStatus", "", false); ?>" name="LeadPersonStatus" hidden>
-                              <input type="text" value="<?php echo IfRequested("GET", "LeadPriorityLevel", "", false); ?>" name="LeadPriorityLevel" hidden>
-                              <input type="text" value="<?php echo IfRequested("GET", "LeadPersonSource", "", false); ?>" name="LeadPersonSource" hidden>
                               <div class="form-group w-100">
-                                <label>Search Lead Person Name</label>
-                                <input type="search" placeholder="Enter Full Name" class="form-control form-control-sm " list="LeadPersonFullname" name="search_leads" onchange="form.submit()">
-                                <?php SQL_SUGGEST("SELECT * FROM leads where LeadPersonManagedBy='$From' and CompanyID='$companyID' ORDER BY LeadPersonFullname ASC", "LeadPersonFullname"); ?>
+                                <label>Search Person</label>
+                                <input type="search" oninput="SearchData('searching_leads', 'lead-lists')" id='searching_leads' placeholder="Enter Full Name" value='<?php echo IfRequested("GET", "search_leads", "", false); ?>' class="form-control " list="LeadPersonFullname" name="search_leads">
+                                <?php SQL_SUGGEST("SELECT * FROM leads where LeadPersonManagedBy='$From' ORDER BY LeadPersonFullname ASC", "LeadPersonFullname"); ?>
                               </div>
                             </div>
                           </div>
                         </div>
                       </form>
+                      <?php
+                      //get lead data
+                      if (isset($_GET['search_leads'])) {
+                        $search_leads = $_GET['search_leads'];
+                        $CountTotalLeads = TOTAL("SELECT LeadsId FROM leads WHERE LeadPersonFullname like '%$search_leads%' and LeadPersonManagedBy='$From' and LeadPersonSource like '%$LeadPersonSource%' and LeadPriorityLevel like '%$LeadPriorityLevel%' and LeadPersonStatus LIKE '%$LeadPersonStatus%' GROUP BY LeadsId ORDER by LeadsId DESC");
+                      } else {
+                        $CountTotalLeads = TOTAL("SELECT LeadsId FROM leads WHERE LeadPersonManagedBy='$From' and LeadPersonSource like '%$LeadPersonSource%' and LeadPriorityLevel like '%$LeadPriorityLevel%' and LeadPersonStatus LIKE '%$LeadPersonStatus%' GROUP BY LeadsId ORDER by LeadsId DESC");
+                      }
+                      $TotalItems = $CountTotalLeads;
+
+                      $start = START_FROM;
+                      $listcounts = DEFAULT_RECORD_LISTING;
+
+                      if (isset($_GET['search_leads'])) {
+                        $search_leads = $_GET['search_leads'];
+                        $GetLeads = _DB_COMMAND_("SELECT LeadPersonPhoneNumber, LeadPriorityLevel, LeadPersonSource, LeadPersonManagedBy, LeadSalutations, LeadPersonFullname, LeadPersonStatus, LeadsId, LeadPersonCreatedBy  FROM leads WHERE LeadPersonFullname like '%$search_leads%' and LeadPersonManagedBy='$From' and LeadPersonSource like '%$LeadPersonSource%' and LeadPriorityLevel like '%$LeadPriorityLevel%'  and LeadPersonStatus LIKE '%$LeadPersonStatus%' GROUP BY LeadsId ORDER by LeadsId DESC", true);
+                      } else {
+                        $GetLeads = _DB_COMMAND_("SELECT LeadPersonPhoneNumber, LeadPriorityLevel, LeadPersonSource, LeadPersonManagedBy, LeadSalutations, LeadPersonFullname, LeadPersonStatus, LeadsId, LeadPersonCreatedBy  FROM leads WHERE LeadPersonManagedBy='$From' and LeadPersonSource like '%$LeadPersonSource%' and LeadPriorityLevel like '%$LeadPriorityLevel%'  and LeadPersonStatus LIKE '%$LeadPersonStatus%' GROUP BY LeadsId ORDER by LeadsId DESC", true);
+                      }
+                      $Count = SERIAL_NO;
+                      ?>
                       <form action="<?php echo CONTROLLER; ?>/ModuleHandler.php" method="POST">
                         <?php FormPrimaryInputs(true, [
-                          "From" => IfRequested("GET", "From", "null", false),
-                          "LeadPersonSubStatus" => IfRequested("GET", "LeadPersonSubStatus", "null", false),
-                          "LeadPersonStatus" => IfRequested("GET", "LeadPersonStatus", "null", false),
-                          "LeadPriorityLevel" => IfRequested("GET", "LeadPriorityLevel", "null", false),
-                          "LeadPersonSource" => IfRequested("GET", "LeadPersonSource", "null", false),
-                          // "LeadPersonFullName" => IfRequested("GET", "LeadPersonFullName", "null", false),
+                          "From" => IfRequested("GET", "From", "", false),
+                          "LeadPersonSubStatus" => IfRequested("GET", "LeadPersonSubStatus", "", false),
+                          "LeadPersonStatus" => IfRequested("GET", "LeadPersonStatus", "", false),
+                          "LeadPriorityLevel" => IfRequested("GET", "LeadPriorityLevel", "", false),
+                          "LeadPersonSource" => IfRequested("GET", "LeadPersonSource", "", false)
                         ]); ?>
                         <?php
-                        //get lead data
-                        if (isset($_GET['search_leads'])) {
-                          $search_leads = $_GET['search_leads'];
-                          $CountTotalLeads = TOTAL("SELECT LeadsId FROM leads WHERE LeadPersonFullname like '%$search_leads%' and CompanyId='$companyID' GROUP BY LeadsId ORDER by LeadsId DESC");
-                        } else {
-                          $CountTotalLeads = TOTAL("SELECT LeadsId FROM leads WHERE LeadPersonManagedBy='$From'  and LeadPersonSource like '%$LeadPersonSource%' and LeadPriorityLevel like '%$LeadPriorityLevel%' and LeadPersonStatus LIKE '%$LeadPersonStatus%'  and CompanyId='$companyID' GROUP BY LeadsId ORDER by LeadsId DESC");
-                        }
-                        $TotalItems = $CountTotalLeads;
+                        if ($GetLeads != null && isset($_GET['GetLeadsFrom'])) {
 
 
-                        $start = START_FROM;
-                        $listcounts = DEFAULT_RECORD_LISTING;
-                        if (isset($_GET['search_leads'])) {
-                          $search_leads = $_GET['search_leads'];
-                          $GetLeads = _DB_COMMAND_("SELECT * FROM leads WHERE LeadPersonFullname like '%$search_leads%'  GROUP BY LeadsId ORDER by LeadsId DESC limit $start, $listcounts", true);
-                        } else {
-                          $GetLeads = _DB_COMMAND_("SELECT LeadPriorityLevel, LeadPersonSource, LeadPersonManagedBy, LeadSalutations, LeadPersonFullname, LeadPersonStatus, LeadsId, LeadPersonCreatedBy  FROM leads WHERE LeadPersonManagedBy='$From' and LeadPersonSource like '%$LeadPersonSource%' and CompanyId='$companyID' and LeadPriorityLevel like '%$LeadPriorityLevel%' and LeadPersonStatus LIKE '%$LeadPersonStatus%'  GROUP BY LeadsId ORDER by LeadsId DESC limit $start, $listcounts", true);
-                        }
-                        $Count = SerialNo();
-
-
-                        if ($GetLeads == null) {
-                          NoData("No Leads Found!");
-                        } else {
-                          if ($LeadPersonStatus != null) {
-                            $filter = "and Lead Status <b>" . $LeadPersonStatus . "</b>";
-                          } else {
-                            $filter = "";
-                          }
-                          echo "<h6 class='mb-2 mt-0 ml-2 bold'>Select leads for move : <b class='text-danger'>Total <b>$CountTotalLeads</b> leads found!  $filter </b></h6>
-                          <div class='row'>";
+                          echo "
+                                  <h6 class='mb-2 mt-0 ml-2 bold'>
+                                  Select leads for move : <b class='text-danger'>Total <b>$CountTotalLeads</b> leads found!</b>
+                                  </h6>
+                                  <div class='data-display'>
+                                  <div class='data-calling'>
+                                  <ul loading='lazy'>";
                           foreach ($GetLeads as $leads) {
                             $Count++;
                             $LeadPersonCreatedBy = $leads->LeadPersonCreatedBy;
@@ -212,7 +221,9 @@ $companyID = FETCH("SELECT * FROM company_users WHERE company_alloted_user_id='$
                             $lead_requirements = CHECK("SELECT * FROM lead_requirements where leadMainId='$LeadsId'");
                             include "../../../include/common/send-lead-list.php";
                           }
-                          echo "</div>";
+                          echo "</ul></div></div>";
+                        } else {
+                          NoData("No Leads Found!");
                         }
                         ?>
                     </div>
@@ -221,54 +232,52 @@ $companyID = FETCH("SELECT * FROM company_users WHERE company_alloted_user_id='$
                       <?php if (isset($_GET['GetLeadsFrom'])) { ?>
                         <div class="form-group">
                           <label>Move Leads From</label>
-                          <p class="data-list">
-                            <span class="text-grey">Name</span><br>
-                            <span class="bold h6"><?php echo FETCH("SELECT * FROM users where UserId='$From'", "UserFullName"); ?></span>
-                          </p>
-                          <p class="data-list">
-                            <span class="text-grey">Phone Number</span><br>
-                            <span class="bold h6"><?php echo FETCH("SELECT * FROM users where UserId='$From'", "UserPhoneNumber"); ?></span>
-                          </p>
-                          <p class="data-list">
-                            <span class="text-grey">Email-id</span><br>
-                            <span class="bold h6"><?php echo FETCH("SELECT * FROM users where UserId='$From'", "UserEmailId"); ?></span>
-                          </p>
+                          <?php echo GetUserDetails($From); ?>
                         </div>
                         <div class="form-group">
                           <label>Move Leads In</label>
-                          <select class="form-control form-control-sm" name="LeadPersonManagedBy">
+                          <select class="form-control form-control-sm " name="LeadPersonManagedBy" required="">
+                            <option value="" disabled>Select User</option>
+                            <?php  ?>
                             <?php
                             $Users = _DB_COMMAND_("SELECT * FROM users, company_users where users.UserId=company_users.company_alloted_user_id and users.UserStatus='1' and company_users.company_user_created_by='" . AuthAppUser("UserId") . "' ORDER BY UserFullName ASC", true);
                             foreach ($Users as $User) {
-                              if ($User->UserId == AuthAppUser("UserId")) {
+
+                              if ($User->UserId == AuthAppUser('UserId')) {
                                 $selected = "selected";
                               } else {
                                 $selected = "";
                               }
-                              echo "<option value='" . $User->UserId . "' $selected>" . $User->UserFullName . " @ " . $User->UserPhoneNumber . " - " . FETCH("SELECT * FROM user_employment_details where UserMainUserId='" . $User->UserId . "'", "UserEmpGroupName") . "</option>";
+                              echo "<option value='" . $User->UserId . "' " . $selected . ">" . $User->UserFullName . " @ " . $User->UserPhoneNumber . " - " . FETCH("SELECT * FROM user_employment_details where UserMainUserId='" . $User->UserId . "'", "UserEmpGroupName") . "</option>";
                             }
                             ?>
                           </select>
                         </div>
+                        <div class="form-group">
+                          <label>Bulk Number of leads</label>
+                          <input type='number' name='NumberOfLeads' value='0' class='form-control form-control-sm' min='0' max='<?php echo $TotalItems + 1; ?>'>
+                        </div>
+                        <div class="form-group">
+                          <label>Order Of Selection</label>
+                          <select name='OrderOfSelection' class='form-control form-control-sm'>
+                            <option value='ASC'>DESC</option>
+                            <option value='DESC' selected>ASC</option>
+                          </select>
+                        </div>
                         <div class="mt-2">
-                          <button type="submit" name="MoveLeads" class="btn btn-md btn-success"> Move leads <i class="fa fa-exchange"></i></button>
+                          <button type="submit" onclick="form.submit()" name="MoveLeads" class="btn btn-md btn-success"> Move leads <i class="fa fa-exchange"></i></button>
                         </div>
                       <?php } else { ?>
                         <p>Please fetch some leads firsts..</p>
                       <?php } ?>
+
                     </div>
                     </form>
-                  </div>
-                  <div class="row">
-                    <div class="col-md-6 d-flex mx-auto">
-                      <?php echo PaginationFooter($TotalItems, "index.php"); ?>
-                    </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
       </section>
     </div>
     <?php

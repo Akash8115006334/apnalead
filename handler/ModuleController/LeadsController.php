@@ -14,12 +14,10 @@ if (isset($_GET['delete_leads'])) {
     ],
     DOMAIN . "/app/leads"
   );
-}
-//save leads 
-elseif (isset($_POST['CreateLeads'])) {
+} elseif (isset($_POST['CreateLeads'])) {
   $UserID = AuthAppUser("UserId");
   $companyId = CompanyId;
-  $Phonenumber = $_POST['LeadPersonPhoneNumber'];
+  $Phonenumber = VALID_PHONE_NUMBER($_POST['LeadPersonPhoneNumber']);
   $error_url = APP_URL . "/leads/add.php";
   $checkNumber = CHECK("SELECT LeadPersonPhoneNumber FROM leads Where LeadPersonPhoneNumber='$Phonenumber' and CompanyID='" . CompanyId . "'");
   if ($checkNumber) {
@@ -28,7 +26,7 @@ elseif (isset($_POST['CreateLeads'])) {
     $Tablerows = [
       "LeadPersonFullname" => $_POST['LeadPersonFullname'],
       "LeadSalutations" => $_POST['LeadSalutations'],
-      "LeadPersonPhoneNumber" => $_POST['LeadPersonPhoneNumber'],
+      "LeadPersonPhoneNumber" => VALID_PHONE_NUMBER($_POST['LeadPersonPhoneNumber']),
       "LeadPersonEmailId" => $_POST['LeadPersonEmailId'],
       "LeadPersonAddress" => $_POST['LeadPersonAddress'],
       "LeadPersonCreatedBy" => $UserID,
@@ -40,6 +38,7 @@ elseif (isset($_POST['CreateLeads'])) {
       "LeadPersonLastUpdatedAt" =>  CURRENT_DATE_TIME,
       "LeadPersonNotes" => SECURE($_POST['LeadPersonNotes'], "e"),
       "CompanyID" =>  $companyId,
+      "Distribute_Type" => "Manual",
     ];
     $SAVE = INSERT("leads", $Tablerows);
     //get Lead id
@@ -177,32 +176,43 @@ elseif (isset($_POST['CreateLeads'])) {
 } elseif (isset($_POST['UploadLeads'])) {
   $UserID = AuthAppUser("UserId");
   $companyId = CompanyId;
+  $LeadUploadedFor = AuthAppUser("UserId");
 
-  $LeadUploadedFor = $_POST['LeadPersonManagedBy'];
+  // Check if the file is a CSV
   $FileName = explode(".", $_FILES['UploadedFile']['name']);
   if ($FileName[1] == "csv") {
     $handle = fopen($_FILES['UploadedFile']['tmp_name'], "r");
-    $flag = true;
+    $flag = true; // To skip the header row
+    $successCount = 0; // To count successfully uploaded leads
+
     while ($data = fgetcsv($handle)) {
       if ($flag) {
         $flag = false;
-        continue;
+        continue; // Skip the header row
       }
-      if (array(null) !== $data) {
-        $LeadsName = $data[0];
-        $LeadsEmail = $data[2];
-        $LeadsPhone = $data[1];
-        $LeadsAddress = $data[3];
-        $LeadsCity = $data[4];
-        $LeadsProfession = $data[5];
-        $LeadsSource = $data[6];
-        if (!entryExists($LeadsPhone, $companyId)) {
+
+      // Extract data from CSV columns
+      $LeadsName = $data[0];
+      $LeadsEmail = $data[2];
+      $LeadsPhone = $data[1];
+      $LeadsAddress = $data[3];
+      $LeadsCity = $data[4];
+      $LeadsProfession = $data[5];
+      $LeadsSource = $data[6];
+
+      // Validate and format phone number
+      $phone = VALID_PHONE_NUMBER($LeadsPhone);
+
+      // Check if the phone number exists in lead_upload table
+      if (!entryExists($phone, $companyId)) {
+        // Check if the phone number exists in leads table
+        if (!CheckInLeads($phone, $companyId)) {
           $data = array(
             "LeadsName" => $LeadsName,
             "LeadsUploadBy" => AuthAppUser("UserId"),
             "LeadsUploadedfor" => $LeadUploadedFor,
             "LeadsEmail" => $LeadsEmail,
-            "LeadsPhone" => $LeadsPhone,
+            "LeadsPhone" => $phone,
             "LeadsAddress" => $LeadsAddress,
             "LeadsCity" => $LeadsCity,
             "LeadsProfession" => $LeadsProfession,
@@ -211,14 +221,33 @@ elseif (isset($_POST['CreateLeads'])) {
             "LeadStatus" => "UPLOADED",
             "LeadProjectsRef" => $_POST['LeadProjectsRef'],
             "CompanyID" => $companyId,
+            "Upload_Source" => "Self",
           );
+
+          // Insert into lead_uploads table
           $Save = INSERT("lead_uploads", $data);
+
+          if ($Save) {
+            $successCount++;
+          }
         }
       }
     }
+
     fclose($handle);
+
+    // Provide response based on successful uploads
+    if ($successCount > 0) {
+      RESPONSE(true, "$successCount Leads Uploaded successfully!", "Unable to upload leads at the moment!");
+    } else {
+      RESPONSE(false, "No new leads to upload!", "Unable to upload leads at the moment!");
+    }
+  } else {
+    RESPONSE(false, "Invalid file format. Please upload a CSV file.", "Unable to upload leads at the moment!");
   }
-  RESPONSE($Save, "Leads Uploaded successfully!", "Unable to upload leads at the moment!");
+
+
+
   //leadss transfer
 } elseif (isset($_POST['TransferLeads'])) {
   // get the adminid and digital id 
@@ -242,7 +271,7 @@ elseif (isset($_POST['CreateLeads'])) {
         $leadsUploadId = $leads->leadsUploadId;
         $data = array(
           "LeadPersonFullname" => $leads->LeadsName,
-          "LeadPersonPhoneNumber" => $leads->LeadsPhone,
+          "LeadPersonPhoneNumber" => VALID_PHONE_NUMBER($leads->LeadsPhone),
           "LeadPersonEmailId" => $leads->LeadsEmail,
           "LeadPersonAddress" => $leads->LeadsAddress,
           "LeadPersonCreatedBy" => AuthAppUser("UserId"),
@@ -253,6 +282,7 @@ elseif (isset($_POST['CreateLeads'])) {
           "LeadPersonCreatedAt" => CURRENT_DATE_TIME,
           "LeadPersonLastUpdatedAt" => CURRENT_DATE_TIME,
           "CompanyID" => $companyId,
+          "Distribute_Type" => "Manual",
         );
         $save = INSERT("leads", $data);
         $LeadMainId = FETCH("SELECT * FROM leads ORDER BY LeadsId DESC limit 1", "LeadsId");
@@ -275,7 +305,7 @@ elseif (isset($_POST['CreateLeads'])) {
         foreach ($FETCH as $leads) {
           $data = array(
             "LeadPersonFullname" => $leads->LeadsName,
-            "LeadPersonPhoneNumber" => $leads->LeadsPhone,
+            "LeadPersonPhoneNumber" => VALID_PHONE_NUMBER($leads->LeadsPhone),
             "LeadPersonEmailId" => $leads->LeadsEmail,
             "LeadPersonAddress" => $leads->LeadsAddress,
             "LeadPersonCreatedBy" => AuthAppUser("UserId"),
@@ -286,6 +316,7 @@ elseif (isset($_POST['CreateLeads'])) {
             "LeadPersonCreatedAt" => CURRENT_DATE_TIME,
             "LeadPersonLastUpdatedAt" => CURRENT_DATE_TIME,
             "CompanyID" => $companyId,
+            "Distribute_Type" => "Manual",
           );
           $save = INSERT("leads", $data);
           $LeadMainId = FETCH("SELECT * FROM leads ORDER BY LeadsId DESC limit 1", "LeadsId");
@@ -303,10 +334,8 @@ elseif (isset($_POST['CreateLeads'])) {
       }
     }
   }
-
   RESPONSE($Save, "Leads Transferred Successfully", "Leads Not Transferred successfully!");
-
-  //update leads 
+  //update leads   //update leads 
 } elseif (isset($_POST['UpdateLeads'])) {
   $LeadsId = SECURE($_POST['UpdateLeads'], "d");
 
@@ -318,7 +347,7 @@ elseif (isset($_POST['CreateLeads'])) {
   $data = array(
     "LeadPersonFullname" => $_POST['LeadPersonFullname'],
     "LeadSalutations" => $_POST['LeadSalutations'],
-    "LeadPersonPhoneNumber" => $_POST['LeadPersonPhoneNumber'],
+    "LeadPersonPhoneNumber" => VALID_PHONE_NUMBER($_POST['LeadPersonPhoneNumber']),
     "LeadPersonEmailId" => $_POST['LeadPersonEmailId'],
     "LeadPersonAddress" => $_POST['LeadPersonAddress'],
     "LeadPersonLastUpdatedAt" => CURRENT_DATE_TIME,
@@ -326,10 +355,8 @@ elseif (isset($_POST['CreateLeads'])) {
     "LeadPersonNotes" => SECURE($_POST['LeadPersonNotes'], "e"),
     "LeadPersonSource" => $_POST['LeadPersonSource'],
   );
-
   $Update = UPDATE_TABLE("leads", $data, "LeadsId='$LeadsId'");
   RESPONSE($Update, "Leads Details are updated successfully!", "Unable to update leads details at the moment!");
-
   //add leads status
 } elseif (isset($_POST['AddLeadStatus'])) {
   if (isset($_POST['currentURL'])) {
@@ -424,15 +451,31 @@ elseif (isset($_POST['CreateLeads'])) {
 } elseif (isset($_POST['MoveLeads'])) {
   $From = SECURE($_POST['From'], "d");
   $LeadPersonManagedBy = $_POST['LeadPersonManagedBy'];
-  //die($LeadPersonManagedBy);
-  foreach ($_POST['selected_lead_for_transfer'] as $LeadsId) {
-    $data = array(
-      "LeadPersonLastUpdatedAt" => CURRENT_DATE_TIME,
-      "LeadPersonCreatedBy" => AuthAppUser("UserId"),
-      "LeadPersonManagedBy" => $LeadPersonManagedBy,
-    );
-    $Update = UPDATE_TABLE("leads", $data, "LeadsId='$LeadsId'");
-  }
+  $LeadPersonStatus = SECURE($_POST['LeadPersonStatus'], "d");
+  if ($_POST['NumberOfLeads'] != 0) {
+    $NumberOfLeads = $_POST['NumberOfLeads'];
+    $OrderOfSelection = $_POST['OrderOfSelection'];
 
+    $AllLeads = _DB_COMMAND_("SELECT * FROM leads where LeadPersonStatus like '%$LeadPersonStatus%' and LeadPersonManagedBy='$From' ORDER by LeadsId $OrderOfSelection limit 0, $NumberOfLeads", true);
+    if ($AllLeads != null) {
+      foreach ($AllLeads as $Lead) {
+        $data = array(
+          "LeadPersonLastUpdatedAt" => CURRENT_DATE_TIME,
+          "LeadPersonCreatedBy" => AuthAppUser("UserId"),
+          "LeadPersonManagedBy" => $LeadPersonManagedBy,
+        );
+        $Update = UPDATE_TABLE("leads", $data, "LeadsId='" . $Lead->LeadsId . "'");
+      }
+    }
+  } else {
+    foreach ($_POST['selected_lead_for_transfer'] as $LeadsId) {
+      $data = array(
+        "LeadPersonLastUpdatedAt" => CURRENT_DATE_TIME,
+        "LeadPersonCreatedBy" => AuthAppUser("UserId"),
+        "LeadPersonManagedBy" => $LeadPersonManagedBy,
+      );
+      $Update = UPDATE_TABLE("leads", $data, "LeadsId='$LeadsId'");
+    }
+  }
   RESPONSE($Update, "Leads Successfully Transeffered!", "Unable to Transfer Leads!");
 }

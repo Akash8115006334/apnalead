@@ -1,0 +1,67 @@
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\handler\AuthController\AuthAccessController.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:38:54 Asia/Calcutta] PHP Warning:  Undefined array key "APP_LOGIN_USER_ID" in D:\xampp\htdocs\apnalead\modules\AuthUserModules.php on line 10
+[09-Mar-2024 10:39:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 211
+[09-Mar-2024 10:39:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 215
+[09-Mar-2024 10:39:06 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 218
+[09-Mar-2024 10:39:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\xampp\htdocs\apnalead\app\logout.php on line 5
+[09-Mar-2024 10:39:37 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 211
+[09-Mar-2024 10:39:37 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 215
+[09-Mar-2024 10:39:37 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 218
+[09-Mar-2024 10:41:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 211
+[09-Mar-2024 10:41:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 215
+[09-Mar-2024 10:41:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 218
+[09-Mar-2024 10:41:32 Asia/Calcutta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in D:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php:243
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php on line 243
+[09-Mar-2024 10:42:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Distribute_Type' in 'field list' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:44
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(44): mysqli_query(Object(mysqli), 'INSERT INTO lea...')
+#1 D:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php(302): INSERT('leads', Array)
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 44
+[09-Mar-2024 10:55:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'LeadCompanyId' in 'field list' in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php:44
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php(44): mysqli_query(Object(mysqli), 'INSERT INTO lea...')
+#1 D:\xampp\htdocs\apnalead\handler\AutoRunner\AutoFBLeadsFetching.php(312): INSERT('lead_requiremen...', Array)
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\acm\SysModules\CRUD_Modules\Insert.php on line 44
+[09-Mar-2024 10:58:09 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 211
+[09-Mar-2024 10:58:09 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedTodayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 215
+[09-Mar-2024 10:58:09 Asia/Calcutta] PHP Warning:  Undefined variable $AllMissedYesterdayFollowups in D:\xampp\htdocs\apnalead\app\lead-dash.php on line 218
+[09-Mar-2024 10:59:22 Asia/Calcutta] PHP Parse error:  Unclosed '{' on line 176 in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 456
+[09-Mar-2024 11:03:02 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonManagedBy" in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 179
+[09-Mar-2024 11:03:02 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: fgetcsv(): supplied resource is not a valid stream resource in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php:184
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php(184): fgetcsv(Resource id #86)
+#1 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(10): include('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 184
+[09-Mar-2024 11:04:30 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: fgetcsv(): supplied resource is not a valid stream resource in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php:184
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php(184): fgetcsv(Resource id #86)
+#1 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(10): include('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 184
+[09-Mar-2024 11:07:27 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: fgetcsv(): supplied resource is not a valid stream resource in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php:184
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php(184): fgetcsv(Resource id #86)
+#1 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(10): include('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 184
+[09-Mar-2024 11:09:46 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: fgetcsv(): supplied resource is not a valid stream resource in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php:184
+Stack trace:
+#0 D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php(184): fgetcsv(Resource id #86)
+#1 D:\xampp\htdocs\apnalead\handler\ModuleHandler.php(10): include('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\apnalead\handler\ModuleController\LeadsController.php on line 184

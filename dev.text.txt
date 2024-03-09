@@ -1,0 +1,67 @@
+<?php
+//require modules;
+require "acm/SysFileAutoLoader.php";
+
+
+//fetch all leads
+$AllLeads = _DB_COMMAND_("SELECT LeadPersonPhoneNumber,LeadsId FROM leads ORDER BY LeadPersonPhoneNumber ASC", true);
+if ($AllLeads != null) {
+  $LeadCount = 0;
+  foreach ($AllLeads as $Leads) {
+    $LeadCount++;
+    $LeadsId2 = $Leads->LeadsId;
+    $RealPhoneNumber = $Leads->LeadPersonPhoneNumber;
+    $NewPhoneNumber = preg_replace('/[^0-9]/', '', $Leads->LeadPersonPhoneNumber);
+    $PhoneNumberLength = strlen($NewPhoneNumber);
+
+    //trim phone number and only 10 digit number
+    $TrimedPhoneNumber = substr($NewPhoneNumber, -10);
+
+    //check duplicate
+    $DuplicateLeads = _DB_COMMAND_("SELECT LeadPersonPhoneNumber FROM leads WHERE LeadPersonPhoneNumber='$RealPhoneNumber'", true);
+    $DuplicateCount = 0;
+    if ($DuplicateLeads != null) {
+      foreach ($DuplicateLeads as $Dleads) {
+        $DuplicateCount++;
+      }
+    } else {
+      $DuplicateCount = $DuplicateCount;
+    }
+
+    if ($DuplicateCount > 1) {
+      $DeletCount = $DuplicateCount - 1;
+      $Status = "Deletion Required";
+      $DeleteUploads = DELETE_SQL("DELETE FROM lead_uploads where LeadsPhone='$RealPhoneNumber' limit $DeletCount");
+      $DeleteLeads = DELETE_SQL("DELETE FROM leads where LeadPersonPhoneNumber='$RealPhoneNumber' limit $DeletCount");
+
+      $AllLeadsForFollowup = _DB_COMMAND_("SELECT LeadsId FROM leads where LeadPersonPhoneNumber='$RealPhoneNumber' limit $DeletCount", true);
+      if ($AllLeadsForFollowup != null) {
+        foreach ($AllLeadsForFollowup as $LeadFollowup) {
+          $LeadsId = $LeadFollowup->LeadsId;
+          $RemoveFollowups = DELETE_SQL("DELETE FROM lead_followups WHERE LeadFollowMainId='$LeadsId'");
+          $RemoveRequirement = DELETE_SQL("DELETE FROM lead_requirements WHERE LeadMainId='$LeadsId'");
+          $UpdateLeadPhoneNumber = UPDATE("UPDATE lead_uploads SET LeadsPhone='$TrimedPhoneNumber' where LeadsPhone='$RealPhoneNumber'");
+          $UpdatePhone = UPDATE("UPDATE leads SET LeadPersonPhoneNumber='$TrimedPhoneNumber' where LeadsId='$LeadsId'");
+        }
+      }
+    } else {
+      $UpdatePhone = UPDATE("UPDATE leads SET LeadPersonPhoneNumber='$TrimedPhoneNumber' where LeadsId='$LeadsId2'");
+      $UpdateLeadPhoneNumber = UPDATE("UPDATE lead_uploads SET LeadsPhone='$TrimedPhoneNumber' where LeadsPhone='$RealPhoneNumber'");
+      $Status = "Ok";
+      $DeleteLeads = "1";
+      $DeleteUploads = "1";
+    }
+
+    echo "
+    LEAD-($LeadCount)
+    ---DATA:(" . $Leads->LeadPersonPhoneNumber . ")
+    ---PHONE:($NewPhoneNumber)
+    ---LENGTH:($PhoneNumberLength)
+    ---TRIMMED-PHONE:($TrimedPhoneNumber)
+    ---DOUBLE:($DuplicateCount)
+    ---STATUS:($Status)
+    ---DELETE-UPLOAD:($DeleteUploads)
+    ---DELETE-LEAD:($DeleteLeads)
+    <br>";
+  }
+}

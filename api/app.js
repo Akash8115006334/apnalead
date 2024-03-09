@@ -1,23 +1,14 @@
 function ApnaLeadEnquiryForm(AuthenticationKey) {
   const enquiryFormHTML = `
 <style>
-.apnalead_rounded {
+.rounded {
   -o-border-radius: 1rem;
   -ms-border-radius: 1rem;
   -webkit-border-radius: 1rem;
   -moz-border-radius: 1rem;
   border-radius: 1rem !important;
 } 
-.apnalead_form-heading h2{
-    font-size:2rem !important;
-    text-align:center !important;
-    margin-bottom:0 !important;
-}
-.apnalead_form-heading p{
-   font-size:1.1rem !important;
-    text-align:center !important;
-}
-.apnalead_enquiry-btn {
+.apna-lead-enquiry-btn {
   border-radius: 1rem;
   color: white;
   text-decoration: none;
@@ -27,15 +18,16 @@ function ApnaLeadEnquiryForm(AuthenticationKey) {
   top: 35%;
   transform: rotate(180deg);
   cursor: pointer;
+  z-index:999;
 }
-.apnalead_enquiry-btn img {
+.apna-lead-enquiry-btn img {
   width: 30%;
 }
-.apnalead_enquiry-btn:hover {
+.apna-lead-enquiry-btn:hover {
   color: white;
   text-decoration: underline;
 }
-#enquiry-form {
+#apna-lead-enquiry-form {
   position: fixed;
   width: 100%;
   top: 0px;
@@ -44,122 +36,149 @@ function ApnaLeadEnquiryForm(AuthenticationKey) {
   height: 100%;
   overflow-y: scroll;
   z-index:9999;
+  padding:1rem !important;
 }
-#enquiry-form .apnalead_div {
-  position:fixed;
-  right:20px;
-  min-width: 300px;
-  max-width: 450px;
-  background-color:white;
-  background-image: repeating-linear-gradient(45deg, #5ca2d830, transparent 1px);
+
+#apna-lead-enquiry-form .div {
+  min-width: 240px;
+  max-width: 360px;
+  background-color: white;
   border-radius: 1rem;
   padding: 1rem;
   margin: 2% auto;
 }
-#CloseEnquiryBtn{
-  padding:.3rem !important;
-  color:white !important;
-  background-color:gray !important;
-  border: none !important;
-  border-radius:.2rem !important;
-  cursor:pointer !important;
+
+.apnalead-enq-heading {
+      font-family: math;
+    font-size: 2rem;
+    text-shadow: 0px 0px 1px grey !important;
+    margin-bottom:0.5rem !important;
+    margin-top:1.5rem !important;
 }
-#submit-btn{
-  padding:.3rem !important;
-  color:white !important;
-  background-color:green !important;
-  border: none !important;
-  border-radius:.2rem !important;
-  cursor:pointer !important;
+.apnalead-p-text {
+  margin-top: 0px !important;
+    color: darkslategrey !important;
+    font-size:0.9rem !important;
 }
-.apnalead_footer{
-  
-  text-align:center !important;
+.apna-lead-form-group {
+      margin-bottom: 1rem !important;
+    display: flex;
+    flex-direction: column;
 }
-#GoToHome{
-  padding:.3rem !important;
-  color:white !important;
-  background-color:sky-blue !important;
-  border: none !important;
-  border-radius:.2rem !important;
-  cursor:pointer !important;
-  text-decoration:none !important;
+.apna-lead-form-group label {
+  font-family: math;
+  font-size: 0.7rem;
+  text-shadow: 0px 0px 1px grey!important;
+  margin-bottom:0.2rem!important;
 }
+.apna-lead-form-group .apna-form-control {
+    font-size: 0.8rem;
+    border-style: none;
+    box-shadow: 0px 0px 1px black;
+    padding: 0.25rem;
+    border-radius: 0.25rem;
+    font-family:math !important;
+}
+.apna-lead-btn {
+    font-size: 1rem;
+    border-style: none !important;
+    box-shadow: 0px 0px 1px green;
+    background-color: #349f34;
+    font-family: math;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    color: white;
+    text-transform: uppercase;
+    margin-right: 0.5rem !important;
+}
+.apna-lead-cls-btn {
+      box-shadow: 0px 0px 1px grey;
+    background-color: lightgrey;
+    font-size: 1rem;
+    font-family: math;
+    padding: 0.5rem 1rem;
+    border-radius: 0.4rem;
+    border-style:none !important;
+    margin-right: 0.5rem !important;
+}
+
 </style>
-  <a id='EnquiryBtn' class="apnalead_enquiry-btn">
+  <a id='EnquiryBtn' class="apna-lead-enquiry-btn">
     <img src="https://www.pngkey.com/png/full/255-2555375_stg-travel-special-offers-quick-enquiry-vertical-button.png">
   </a>
-  <section id='enquiry-form' style='display:block;'>
-    <div class="apnalead_div">
+  <section id='apna-lead-enquiry-form' style='display:none;'>
+    <div class="div">
       <div id='FormArea'>
         <form method="POST" id="LeadForm">
-          <input type='text' hidden id='AuthKey' name='AuthenticationKey'>
-          <div class="apnalead_form-heading " style='margin-bottom:0.5rem !important; margin-top:1rem !important;'>
-            <h2>Have an eqnuiry?</h2>
-            <p>Feel free to share your enquiry...</p>
+        <input type='text' hidden id='AuthKey' name='AuthenticationKey'>
+          <div class="apna-lead-form-group text-center" style='margin-bottom:0.5rem !important;'>
+            <h2 class='apnalead-enq-heading'>Have an eqnuiry?</h2>
+            <p class='apnalead-p-text'>Feel free to share your enquiry...</p>
           </div>
-            <div class="" style='margin-bottom:1rem !important; width:90%;'>
-              <label>Enter Full Name</label><br>
-              <input type="text" name='FullName' required  placeholder='Name' style='width:100% !important; margin-top:.1rem !important; padding:.3rem !important;'>
-            </div>
-            <div class="" style='margin-bottom:1rem !important; width:90%;'>
-              <label>Enter Phone Number</label><br>
-              <input type="text" minlength="10" maxlength="12" name='PhoneNumber' required  placeholder="without +91" style='width:100% !important; margin-top:.1rem !important; padding:.3rem !important;'>
-            </div>
-        
-          <div class="" style='margin-bottom:1rem !important;  width:90%;'>
-            <label>Enter Email-Id</label><br>
-            <input type="email" name='EmailId' placeholder='Email' required  style='width:100% !important; margin-top:.1rem !important; padding:.3rem !important;'>
+          <div class="apna-lead-form-group" style='margin-bottom:1rem !important;'>
+            <label>Enter Full Name</label>
+            <input type="text" name='FullName' required class="apna-form-control">
           </div>
-          <div class="" style='margin-bottom:1rem !important; width:95%;'>
-            <label>Requirement For</label><br>
-            <select name='Requirement' required='' id='ProjectList'  style='width:100% !important; margin-top:.1rem !important; padding:.3rem !important;'>
+          <div class="apna-lead-form-group" style='margin-bottom:1rem !important;'>
+            <label>Enter Phone Number</label>
+            <input type="text" minlength="10" maxlength="12" name='PhoneNumber' required class="apna-form-control" placeholder="without +91">
+          </div>
+          <div class="apna-lead-form-group" style='margin-bottom:1rem !important;'>
+            <label>Enter EmailId</label>
+            <input type="email" name='EmailId' required class="apna-form-control">
+          </div>
+          <div class="apna-lead-form-group" style='margin-bottom:1rem !important;'>
+            <label>Requirement For</label>
+            <select name='Requirement' required='' id='ProjectList' class="apna-form-control">
+             
             </select>
           </div>
-        
-          <div class="" style='margin-bottom:1rem !important; width:100% !important;'>
-            <label>Enter Query Details</label><br>
-            <textarea  required rows="3" name="Message" placeholder='Message'  style='width:95% !important; margin-top:.1rem !important; padding:.3rem !important;'></textarea>
+          <div class="apna-lead-form-group" style='margin-bottom:1rem !important;'>
+            <label>Enter Query Details</label>
+            <textarea class="apna-form-control" required rows="3" name="Message"></textarea>
           </div>
-          <div class="form-group" style='display:flex !important;justify-content:end !important;align-items:center !important;'>
-            <button name="btn" class="" id="submit-btn" style='margin:0.5rem;'>Save Details</button>
-            <a id='CloseEnquiryBtn' type='button'>Cancel</a>
+          <div class="apna-lead-form-group" style='display:flex !important;flex-direction:row;'>
+            <button name="btn" class="apna-lead-btn">Save Details</button>
+            <button id='CloseEnquiryBtn'  type='button' class="apna-lead-cls-btn">Cancel</button>
           </div>
         </form>
-        <hr>
-         <div class="apnalead_footer" style="margin:auto !important;">
-           <p style="color:gray; font-size:0.8rem !important">Powered By : <a href="https://apnalead.com/" target="_blank" style="text-decoration:none;"> <img src="https://apnalead.com/assets/img/logo.png" alt="apnalead logo" style="width:15% !important;"></a></p>
-         </div>
       </div>
       <div id='ThankMsg' style='display:none;'>
-        <div class="" style='text-align:center !important;'>
-          <h1 style='color:green !important;'>Thanking you!</h1>
+        <div class="text-center p-3">
+          <h1 class="text-success">Thanking you!</h1>
           <p style='margin-bottom:1rem !important;'>We have received your enquiry and will contact you as soon as possible.</p>
-          <a href="" id="GoToHome" style='text-align:center !important; background-color:blue !important; color:white !important; border:none !important;'>Back to Home</a>
+          <a href="" class="btn btn-sm btn-info" style='color:white !important;'>Back to Home</a>
         </div>
       </div>
     </div>
   </section>
 `;
+
   //initiate enquiry form
   document.getElementById("MainEnquiryForm").innerHTML = enquiryFormHTML;
   document.getElementById("AuthKey").value = AuthenticationKey;
+
   //ajax request
   //ajax for GOOGLE SHEET TO APNA LEAD
   let ProjectList = document.getElementById("ProjectList");
- document.addEventListener("DOMContentLoaded", function () {
-  // Make the GET request
-  fetch("https://app.apnalead.com/api/GenerateProjectResponse.php?GetProjectOptions=true&ProjectFroAuthenticationKey=" + AuthenticationKey)
-    .then(response => response.text())
-    .then(function (response) {
-      // Handle the response
-      document.getElementById("ProjectList").innerHTML = response;
-    })
-    .catch(function (error) {
-      // Handle errors
-      document.getElementById("ProjectList").innerHTML = "<option value='0'>No Project Found</option>";
-    });
-});
+  document.addEventListener("DOMContentLoaded", function () {
+    // Make the GET request
+    fetch(
+      "https://app.apnalead.com/api/GenerateProjectResponse.php?GetProjectOptions=true&ProjectFroAuthenticationKey=" +
+        AuthenticationKey
+    )
+      .then((response) => response.text())
+      .then(function (response) {
+        // Handle the response
+        document.getElementById("ProjectList").innerHTML = response;
+      })
+      .catch(function (error) {
+        // Handle errors
+        document.getElementById("ProjectList").innerHTML =
+          "<option value='0'>No Project Found</option>";
+      });
+  });
+
   //variables
   let url =
     "https://script.google.com/macros/s/AKfycbzZ5-IOOzaTc7PwbtJlrz_P5G5W88TR8qv1i9s-R4qDZh5K-T6dsJGjPufIl1Zb7atQ3w/exec";
@@ -172,7 +191,7 @@ function ApnaLeadEnquiryForm(AuthenticationKey) {
 
   // JavaScript to show/hide the div on click
   document.getElementById("EnquiryBtn").addEventListener("click", function () {
-    var EnquiryForm = document.getElementById("enquiry-form");
+    var EnquiryForm = document.getElementById("apna-lead-enquiry-form");
     if (EnquiryForm.style.display === "none") {
       EnquiryForm.style.display = "block";
     } else {
@@ -184,7 +203,7 @@ function ApnaLeadEnquiryForm(AuthenticationKey) {
   document
     .getElementById("CloseEnquiryBtn")
     .addEventListener("click", function () {
-      var EnquiryForm = document.getElementById("enquiry-form");
+      var EnquiryForm = document.getElementById("apna-lead-enquiry-form");
       if (EnquiryForm.style.display === "none") {
         EnquiryForm.style.display = "block";
       } else {
@@ -209,4 +228,3 @@ function ApnaLeadEnquiryForm(AuthenticationKey) {
     e.preventDefault();
   });
 }
-

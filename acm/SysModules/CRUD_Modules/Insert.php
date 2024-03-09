@@ -52,10 +52,17 @@ function entryExists($DataPhone, $companyId)
 {
     $query = "SELECT COUNT(LeadsPhone) AS count FROM lead_uploads WHERE LeadsPhone = '$DataPhone' and CompanyID='$companyId'";
     $result = DBConnection->query($query);
-
     // Get the count from the result
     $count = $result->fetch_assoc()['count'];
-
+    // If the count is greater than 0, the entry exists
+    return $count > 0;
+}
+function CheckInLeads($DataPhone, $companyId)
+{
+    $query = "SELECT COUNT(LeadPersonPhoneNumber) AS count FROM leads WHERE LeadPersonPhoneNumber = '$DataPhone' and CompanyID='$companyId'";
+    $result = DBConnection->query($query);
+    // Get the count from the result
+    $count = $result->fetch_assoc()['count'];
     // If the count is greater than 0, the entry exists
     return $count > 0;
 }

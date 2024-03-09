@@ -100,7 +100,7 @@ if (isset($_GET['selected_leads'])) {
                               ?>
                             </select>
                           </div>
-                         
+
                           <div class="col-md-12 form-group">
                             <label>Lead Priority level </label>
                             <select class="form-control form-control-sm " name="LeadPriorityLevel">
@@ -175,9 +175,9 @@ if (isset($_GET['selected_leads'])) {
                         $LeadsSource = $_GET['LeadsSource'];
                         $TotalItems = TOTAL("SELECT leadsUploadId FROM lead_uploads where LeadStatus='UPLOADED' and CompanyID='$companyID' and LeadsName like '%$LeadsName%' and LeadsPhone like '%$LeadsPhone%' and LeadsCity like '%$LeadsCity%' and LeadsSource like '%$LeadsSource%'");
                       } else {
-                        $TotalItems = TOTAL("SELECT leadsUploadId FROM lead_uploads where LeadStatus='UPLOADED' and CompanyID='$companyID'");
+                        $TotalItems = TOTAL("SELECT leadsUploadId FROM lead_uploads where LeadStatus='UPLOADED' and CompanyID='$companyID' ");
                       }
-                      $AllLeads = TOTAL("SELECT leadsUploadId FROM lead_uploads where LeadStatus='UPLOADED' and CompanyID='$companyID'");
+                      $AllLeads = TOTAL("SELECT leadsUploadId FROM lead_uploads where LeadStatus='UPLOADED' and CompanyID='$companyID' ");
                       if (isset($_GET['continue']) && isset($_GET['selected_leads'])) {
                         $TotalLeads = 0;
                         foreach ($_GET['selected_leads'] as $key => $values) {
@@ -187,7 +187,7 @@ if (isset($_GET['selected_leads'])) {
                         $TotalLeads = 0;
                       }
                       $Left = (int)$AllLeads - (int)$TotalLeads;
-                      $TRANSFERRED = TOTAL("SELECT leadsUploadId FROM lead_uploads where LeadStatus='TRANSFERRED' and CompanyID='$companyID'");
+                      $TRANSFERRED = TOTAL("SELECT leadsUploadId FROM lead_uploads where LeadStatus='TRANSFERRED' and CompanyID='$companyID' ");
                       $All = TOTAL("SELECT leadsUploadId FROM lead_uploads where CompanyID='$companyID'");
                       echo "<span class='btn btn-default btn-xs mb-2 mr-1'>All <b>$All</b> leads</span>";
                       echo "<span class='btn btn-default btn-xs mb-2 mr-1'>Transferred <b>$TRANSFERRED</b> leads </span>";
@@ -222,9 +222,9 @@ if (isset($_GET['selected_leads'])) {
                           $LeadsPhone = $_GET['LeadsPhone'];
                           $LeadsCity = $_GET['LeadsCity'];
                           $LeadsSource = $_GET['LeadsSource'];
-                          $Leads = _DB_COMMAND_("SELECT leadsUploadId, LeadsName, LeadsPhone, LeadsEmail, LeadsCity, LeadsSource, UploadedOn, LeadStatus  FROM lead_uploads where LeadStatus='UPLOADED' and  CompanyId='$companyID' and LeadsName like '%$LeadsName%' and LeadsPhone like '%$LeadsPhone%' and LeadsCity like '%$LeadsCity%' and LeadsSource like '%$LeadsSource%'", true);
+                          $Leads = _DB_COMMAND_("SELECT leadsUploadId, LeadsName, LeadsPhone, LeadsEmail, LeadsCity, LeadsSource, UploadedOn, LeadStatus  FROM lead_uploads where LeadStatus='UPLOADED' and  CompanyId='$companyID' and LeadsName like '%$LeadsName%' and LeadsPhone like '%$LeadsPhone%' and LeadsCity like '%$LeadsCity%' and LeadsSource like '%$LeadsSource%' ", true);
                         } else {
-                          $Leads = _DB_COMMAND_("SELECT leadsUploadId, LeadsName, LeadsPhone, LeadsEmail, LeadsCity, LeadsSource, UploadedOn, LeadStatus  FROM lead_uploads where LeadStatus='UPLOADED' and  CompanyId='$companyID' limit $start, $listcounts", true);
+                          $Leads = _DB_COMMAND_("SELECT leadsUploadId, LeadsName, LeadsPhone, LeadsEmail, LeadsCity, LeadsSource, UploadedOn, LeadStatus  FROM lead_uploads where LeadStatus='UPLOADED' and  CompanyId='$companyID'  limit $start, $listcounts", true);
                         }
                         if ($Leads != null) {
                           $Sno = 0;

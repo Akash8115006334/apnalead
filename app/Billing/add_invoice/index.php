@@ -127,7 +127,7 @@ $PageDescription = "";
                                                             <input type="tel" placeholder="without +91" value="<?php echo $phone; ?>" oninput="CheckExistingPhoneNumbers()" id="PhoneNumber" name="UserPhoneNumber" class="form-control form-control-sm" required="">
                                                         </div>
                                                         <div class='col-md-6 form-group'>
-                                                            <label>Tel Phone (Optional) <span id='phonemsg'></span></label>
+                                                            <label>Tel Phone (Optional) </label>
                                                             <input type="tel" placeholder="Teliphone number" name="UserTelNumber" class="form-control form-control-sm">
                                                         </div>
                                                         <div class='col-md-7 form-group'>

@@ -1,8 +1,4 @@
 <?php
-// Allow requests from any origin
-header("Access-Control-Allow-Origin: *");
-// Allow the Content-Type header in the request
-header("Access-Control-Allow-Headers:Content-Type");
 require __DIR__ . "/../acm/SysFileAutoLoader.php";
 
 if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['GetProjectOptions'])) {

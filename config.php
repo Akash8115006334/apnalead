@@ -56,4 +56,4 @@ DEFINE("CONTROL_DB_STATUS", false);
 DEFINE("DB_SERVER_HOST", "localhost");
 DEFINE("DB_SERVER_USER", "root");
 DEFINE("DB_SERVER_PASS", "");
-DEFINE("DB_SERVER_DB_NAME", "live_apnalead");
+DEFINE("DB_SERVER_DB_NAME", "eduvinn");

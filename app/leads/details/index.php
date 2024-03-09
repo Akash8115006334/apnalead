@@ -405,10 +405,10 @@ if (isset($_GET['ProjectName'])) {
                                                                                             <?php echo $F->LeadFollowStatus; ?>
                                                                                         </span>
                                                                                         <br>
-                                                                                        <?php if ($F->LeadFollowStatus == "Follow Up" or $F->LeadFollowStatus == "MEETING PLANNED" or $F->LeadFollowStatus == "follow Up" || $F->LeadFollowStatus == "FollowUp" || $F->LeadFollowStatus == "FOLLOW-UP") { ?>
+                                                                                        <?php if ($F->LeadFollowCurrentStatus == "Follow Up" or $F->LeadFollowCurrentStatus == "MEETING PLANNED" or $F->LeadFollowCurrentStatus == "follow Up" || $F->LeadFollowCurrentStatus == "FollowUp" || $F->LeadFollowCurrentStatus == "FOLLOW-UP") { ?>
                                                                                             <?php if (DATE_FORMATES("d M, Y", $F->LeadFollowUpDate) != "No Update") { ?>
                                                                                                 <span class='fs-11 text-grey'>
-                                                                                                    <?php echo $F->LeadFollowCurrentStatus; ?> @
+                                                                                                    <i class="fa fa-bell" aria-hidden="true"></i> Reminder At @
                                                                                                     <span class="text-success">
                                                                                                         <?php echo DATE_FORMATES("d M, Y", $F->LeadFollowUpDate); ?>
                                                                                                         <?php echo $F->LeadFollowUpTime; ?>

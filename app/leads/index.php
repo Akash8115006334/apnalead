@@ -82,6 +82,8 @@ $previous_page = ($page - 1);
                         $ListHeading = "All " . $_GET['view'];
                       } elseif (isset($_GET['sub_status'])) {
                         $ListHeading = "All " . $_GET['sub_status'];
+                      } elseif (isset($_GET['duplicate'])) {
+                        $ListHeading = "All Duplicate Leads";
                       } else {
                         $ListHeading = "All Leads";
                       } ?>

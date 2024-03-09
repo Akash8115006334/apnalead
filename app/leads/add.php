@@ -80,15 +80,15 @@ $PageDescription = "Manage all leads";
                         <label>Full Name</label>
                         <input type="text" name="LeadPersonFullname" list="LeadPersonFullname" class="form-control form-control-sm" placeholder="Gaurav Singh" required="">
                       </div>
-                      <div class="form-group col-md-5">
-                        <label>Phone Number</label>
-                        <input type="phone" name="LeadPersonPhoneNumber" list="LeadPersonPhoneNumber" placeholder="without +91" class="form-control form-control-sm" required="">
+                      <div class="form-group col-md-12">
+                        <label>Phone Number <span id='errorphone'></span></label>
+                        <input type="phone" name="LeadPersonPhoneNumber" id="PhoneNumber" list="LeadPersonPhoneNumber" oninput="CheckExistingPhoneNumbers()" placeholder="without +91" class="form-control form-control-sm" required="">
                         <!-- <?php //SUGGEST("leads", "LeadPersonPhoneNumber", "ASC"); 
                               ?> -->
                       </div>
-                      <div class="form-group col-md-7">
-                        <label>Email</label>
-                        <input type="email" name="LeadPersonEmailId" list="LeadPersonEmailId" class="form-control form-control-sm" placeholder="example@domain.tld">
+                      <div class="form-group col-md-12">
+                        <label>Email <span id='errormail'></span></label>
+                        <input type="email" name="LeadPersonEmailId" id="EmailId" list="LeadPersonEmailId" class="form-control form-control-sm" oninput="CheckExistingMailId()" placeholder="example@domain.tld">
                       </div>
 
                     </div>
@@ -126,7 +126,7 @@ $PageDescription = "Manage all leads";
                       <div class="form-group col-md-6">
                         <label>Lead Source </label>
                         <select class="form-control form-control-sm" name="LeadPersonSource">
-                          <?php CONFIG_VALUES("LEAD_SOURCES"); ?>
+                          <?php CONFIG_VALUES("LEAD_SOURCES", "Self"); ?>
                         </select>
                       </div>
                     </div>
@@ -194,7 +194,6 @@ $PageDescription = "Manage all leads";
                     <!-- <input type="text" id="leascurrentstatus" name="LeadFollowCurrentStatus" value=""> -->
                     <div class="row">
                       <div class="col-md-12">
-
                         <div class="row">
                           <div class="col-md-12">
                             <div class="row text-center">
@@ -418,6 +417,111 @@ $PageDescription = "Manage all leads";
         TimeBox.classList.toggle("hidden");
 
       });
+    </script>
+    <script>
+      function CheckExistingPhoneNumbers() {
+        let SearchingFor = document.getElementById("PhoneNumber");
+        var phonemsg = document.getElementById("errorphone");
+        var pattern = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
+        var subbtn = document.getElementById("subbtn");
+        let ExistingPhoneNumbers = [<?php
+                                    $AllData = _DB_COMMAND_("SELECT LeadPersonPhoneNumber FROM leads WHERE CompanyID='" . CompanyId . "'", true);
+                                    if ($AllData != null) {
+                                      foreach ($AllData as $Data) {
+                                        echo "'" . $Data->LeadPersonPhoneNumber . "', ";
+                                      }
+                                    }
+                                    ?>];
+
+        if (ExistingPhoneNumbers.includes(SearchingFor.value)) {
+          phonemsg.classList.add("text-danger");
+          phonemsg.classList.remove("text-warning");
+          phonemsg.innerHTML = "<i class='fa fa-warning'></i> Phone Number Already Exits";
+          subbtn.type = "button";
+        } else if (pattern.test(SearchingFor.value) == false) {
+          phonemsg.classList.add("text-warning");
+          phonemsg.classList.remove("text-danger");
+          phonemsg.innerHTML = "<i class='fa fa-warning'></i> Phone Number is not valid";
+          subbtn.type = "button";
+        } else {
+          phonemsg.classList.remove("text-danger");
+          phonemsg.classList.remove("text-warning");
+          phonemsg.classList.add("text-success");
+          phonemsg.innerHTML = "<i class='fa fa-check'></i> Phone Number is Ok";
+          subbtn.type = "submit";
+        }
+      };
+    </script>
+    <script>
+      function CheckExistingMailId() {
+        let SearchingFor = document.getElementById("EmailId");
+        var emailmsg = document.getElementById("errormail");
+        var pattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+        var subbtn = document.getElementById("subbtn");
+        let CheckExistingMailId = [<?php
+                                    $AllData = _DB_COMMAND_("SELECT LeadPersonEmailId FROM leads where CompanyID='" . CompanyId . "'", true);
+                                    if ($AllData != null) {
+                                      foreach ($AllData as $Data) {
+                                        echo "'" . $Data->LeadPersonEmailId . "', ";
+                                      }
+                                    } ?>];
+
+        if (CheckExistingMailId.includes(SearchingFor.value)) {
+          emailmsg.classList.add("text-danger");
+          emailmsg.classList.remove("text-warning");
+          emailmsg.innerHTML = "<i class='fa fa-warning'></i> Email-Id Already Exits";
+          subbtn.type = "button";
+        } else if (pattern.test(SearchingFor.value) == false) {
+          emailmsg.classList.add("text-warning");
+          emailmsg.classList.remove("text-danger");
+          emailmsg.innerHTML = "<i class='fa fa-warning'></i> Email-ID is not valid";
+          subbtn.type = "button";
+        } else {
+          emailmsg.classList.remove("text-danger");
+          emailmsg.classList.remove("text-warning");
+          emailmsg.classList.add("text-success");
+          emailmsg.innerHTML = "<i class='fa fa-check'></i> Email-ID is Ok";
+          subbtn.type = "submit";
+        }
+      }
+
+      function CopyAddressdeatils() {
+        var CopyAddress = document.getElementById("CopyAddress");
+        if (CopyAddress.checked) {
+          document.getElementById("street1").value = document.getElementById("street").value;
+          document.getElementById("area1").value = document.getElementById("area").value;
+          document.getElementById("city1").value = document.getElementById("city").value;
+          document.getElementById("state1").value = document.getElementById("state").value;
+          document.getElementById("country1").value = document.getElementById("country").value;
+          document.getElementById("pincode1").value = document.getElementById("pincode").value;
+        } else {
+          document.getElementById("street1").value = "";
+          document.getElementById("area1").value = "";
+          document.getElementById("city1").value = "";
+          document.getElementById("state1").value = "";
+          document.getElementById("country1").value = "";
+          document.getElementById("pincode1").value = "";
+        }
+      }
+
+      function CopyAddressdeatils() {
+        var CopyAddress = document.getElementById("CopyAddress");
+        if (CopyAddress.checked) {
+          document.getElementById("street1").value = document.getElementById("street").value;
+          document.getElementById("area1").value = document.getElementById("area").value;
+          document.getElementById("city1").value = document.getElementById("city").value;
+          document.getElementById("state1").value = document.getElementById("state").value;
+          document.getElementById("country1").value = document.getElementById("country").value;
+          document.getElementById("pincode1").value = document.getElementById("pincode").value;
+        } else {
+          document.getElementById("street1").value = "";
+          document.getElementById("area1").value = "";
+          document.getElementById("city1").value = "";
+          document.getElementById("state1").value = "";
+          document.getElementById("country1").value = "";
+          document.getElementById("pincode1").value = "";
+        }
+      }
     </script>
   </div>
 

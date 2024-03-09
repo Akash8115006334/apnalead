@@ -26,7 +26,7 @@ function FETCH($SQL, $data, $die = false)
         $Query = SELECT($SQL);
         $CountData = mysqli_num_rows($Query);
         if ($CountData == null) {
-            $results = 0;
+            $results = null;
         } else {
             $FetchDATA = mysqli_fetch_array($Query);
             $ReturnData = $FetchDATA["$data"];

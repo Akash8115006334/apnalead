@@ -35,7 +35,7 @@
                             <div class="col-md-6 ml-3">
                                 <label class="btn btn-default"><input required type="Radio" value="Out Of Coverage Area" name="LeadFollowStatus"> Out Of Coverage Area</label><br>
                                 <label class="btn btn-default"><input required type="Radio" value="Switch Off" name="LeadFollowStatus"> Switch Off </label><br>
-                                <label class="btn btn-default"><input required type="Radio" value="Number Dose not Exist" name="LeadFollowStatus"> Number Dose not Exist </label><br>
+                                <label class="btn btn-default"><input required type="Radio" value="Number Dose not Exist" name="LeadFollowStatus"> Number Does not Exist </label><br>
                                 <label class="btn btn-default"><input required type="Radio" value="Out of Validity" name="LeadFollowStatus"> Out of Validity </label><br>
                                 <label class="btn btn-default"><input required type="Radio" value="Not Picked" name="LeadFollowStatus"> Not Picked</label><br>
                             </div>
